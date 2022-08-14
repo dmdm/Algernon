@@ -1,0 +1,3483 @@
+[
+    {
+        "aa": [
+            [
+                "Murat Karakaya",
+                "https://www.linkedin.com/in/muratkarakaya/"
+            ],
+            [
+                "Murat Karakaya Akademi YouTube Channel",
+                "https://www.youtube.com/channel/UCrCxCxTFL2ytaDrDYrN4_eA"
+            ],
+            [
+                "English ",
+                "https://youtube.com/playlist?list=PLQflnv_s49v-RGv6jb_sFOb_of9VOEpKG"
+            ],
+            [
+                "Turkish",
+                "https://youtube.com/playlist?list=PLQflnv_s49v8xVM2mUaUfllqeUsMtfW83"
+            ],
+            [
+                "Medium",
+                "https://kmkarakaya.medium.com/"
+            ],
+            [
+                "Kaggle",
+                "https://www.kaggle.com/kmkarakaya"
+            ],
+            [
+                "Github pages",
+                "https://kmkarakaya.github.io/Deep-Learning-Tutorials/"
+            ],
+            [
+                "Github Repo",
+                "https://github.com/kmkarakaya/Deep-Learning-Tutorials"
+            ],
+            [
+                "Bernd Klutsch",
+                "https://unsplash.com/@bk71?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+            ],
+            [
+                "Unsplash",
+                "https://unsplash.com/s/photos/bookmark?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+            ]
+        ],
+        "h1": "Bookmarks to the selected Deep Learning / Machine Learning Resources on the Web"
+    },
+    {
+        "aa": [
+            [
+                "Adversarial machine learning: The underrated threat of data poisoning \u2014 TechTalks",
+                "https://bdtechtalks.com/2021/04/05/machine-learning-data-poisoning-2/"
+            ],
+            [
+                "benedekrozemberczki/awesome-graph-classification: A collection of important graph embedding, classification and representation learning papers with implementations.",
+                "https://github.com/benedekrozemberczki/awesome-graph-classification"
+            ],
+            [
+                "Number plate recognition with Tensorflow \u2014 Matt\u2019s ramblings",
+                "https://matthewearl.github.io/2016/05/06/cnn-anpr/"
+            ],
+            [
+                "OpenALPR \u2014 Automatic License Plate Recognition",
+                "https://www.openalpr.com/"
+            ],
+            [
+                "Number plate detection with Supervisely and Tensorflow (Part 1)",
+                "https://towardsdatascience.com/number-plate-detection-with-supervisely-and-tensorflow-part-1-e84c74d4382c"
+            ],
+            [
+                "Number plate detection on Indian car vehicles using YOLOv2",
+                "/@ravidesetty/number-plate-detection-on-indian-car-vehicles-using-yolov2-8c99e1a259f5"
+            ],
+            [
+                "Car Plate Recognition System with Raspberry Pi and Node-RED | Random Nerd Tutorials",
+                "https://randomnerdtutorials.com/car-plate-recognition-system-with-raspberry-pi-and-node-red/"
+            ],
+            [
+                "Machine Learning Automatic License Plate Recognition ~ Dror Gluska",
+                "http://uhurumkate.blogspot.com/2017/12/automatic-license-plate-recognition.html?m=0"
+            ],
+            [
+                "DeepSystems/supervisely-tutorials: \ud83c\udf08 Tutorials for Supervise.ly",
+                "https://github.com/DeepSystems/supervisely-tutorials"
+            ],
+            [
+                "Sequence of digits recognition and localization \u2014 Petr Marek",
+                "http://petr-marek.com/blog/2017/07/31/sequence-digits-recognition-localization/"
+            ],
+            [
+                "Digit Sequence Recognition using Deep Learning \u00b7 Sajal Sharma",
+                "https://sajalsharma.com/portfolio/digit_sequence_recognition"
+            ],
+            [
+                "Convolutional neural networks-based intelligent recognition of Chinese license plates | SpringerLink",
+                "https://link.springer.com/article/10.1007/s00500-017-2503-0"
+            ],
+            [
+                "Robust license plate recognition using neural networks trained on synthetic images \u2014 ScienceDirect",
+                "https://www.sciencedirect.com/science/article/pii/S0031320319301475"
+            ],
+            [
+                "Toward End-to-End Car License Plate Detection and Recognition With Deep Neural Networks \u2014 IEEE Journals & Magazine",
+                "https://ieeexplore.ieee.org/abstract/document/8424450"
+            ],
+            [
+                "Vehicle license plate detection using region-based convolutional neural networks | SpringerLink",
+                "https://link.springer.com/article/10.1007/s00500-017-2696-2"
+            ],
+            [
+                "Automatic License Plate Recognition via sliding-window darknet-YOLO deep learning \u2014 ScienceDirect",
+                "https://www.sciencedirect.com/science/article/pii/S0262885619300575"
+            ],
+            [
+                "AVLab \u2014 AOLP DATASET",
+                "http://aolpr.ntust.edu.tw/lab/"
+            ],
+            [
+                "Number Plate Datasets | Plate Recognizer ALPR",
+                "https://platerecognizer.com/number-plate-datasets/"
+            ],
+            [
+                "Computational Vision: [Data Sets]",
+                "http://www.vision.caltech.edu/archive.html"
+            ],
+            [
+                "PKU VehicleID \u2014 Multimedia Learning Group",
+                "https://www.pkuml.org/resources/pku-vehicleid.html"
+            ]
+        ],
+        "h1": "Adversarial attacks"
+    },
+    {
+        "aa": [
+            [
+                "(3) Attention in Neural Networks \u2014 YouTube",
+                "https://www.youtube.com/watch?v=W2rWgXJBZhU"
+            ],
+            [
+                "A Brief Overview of Attention Mechanism \u2014 SyncedReview \u2014 Medium",
+                "/syncedreview/a-brief-overview-of-attention-mechanism-13c578ba9129"
+            ],
+            [
+                "Intuitive Understanding of Attention Mechanism in Deep Learning",
+                "https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f"
+            ],
+            [
+                "Image Captioning with Attention | TensorFlow Core",
+                "https://www.tensorflow.org/beta/tutorials/text/image_captioning"
+            ],
+            [
+                "[1706.03762] Attention Is All You Need",
+                "https://arxiv.org/abs/1706.03762"
+            ],
+            [
+                "Attention in Deep Networks with Keras \u2014 Towards Data Science",
+                "https://towardsdatascience.com/light-on-math-ml-attention-with-keras-dc8dbc1fad39"
+            ],
+            [
+                "Attention Mechanism",
+                "https://blog.floydhub.com/attention-mechanism/"
+            ],
+            [
+                "Attention mechanism \u2014 Heuritech \u2014 Medium",
+                "/heuritech/attention-mechanism-5aba9a2d4727"
+            ],
+            [
+                "A Comprehensive Guide to Attention Mechanism in Deep Learning",
+                "https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/"
+            ],
+            [
+                "The Annotated GPT-2 | Making commits each day, towards a better future",
+                "https://amaarora.github.io/2020/02/18/annotatedGPT2.html"
+            ],
+            [
+                "Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention) \u2014 Jay Alammar \u2014 Visualizing machine learning one concept at a time.",
+                "https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/"
+            ],
+            [
+                "Getting started with Attention for Classification \u2014 matthewmcateer.me",
+                "https://matthewmcateer.me/blog/getting-started-with-attention-for-classification/"
+            ],
+            [
+                "nmt_with_attention.ipynb \u2014 Colaboratory",
+                "https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/nmt_with_attention.ipynb"
+            ],
+            [
+                "Attention Mechanisms",
+                "https://awesomeopensource.com/project/uzaymacar/attention-mechanisms"
+            ],
+            [
+                "Attention in NLP: One Key to Making Pre-Training Successful",
+                "/ai\u00b3-theory-practice-business/attention-one-key-to-making-pre-training-successful-37b1c0b7f55a"
+            ],
+            [
+                "Attention in Recommendation Systems \u2014 AI\u00b3 | Theory, Practice, Business \u2014 Medium",
+                "/ai\u00b3-theory-practice-business/attention-in-recommendation-systems-794c796a3063"
+            ],
+            [
+                "How to Develop an Encoder-Decoder Model with Attention in Keras",
+                "https://machinelearningmastery.com/encoder-decoder-attention-sequence-to-sequence-prediction-keras/"
+            ],
+            [
+                "Neural machine translation with attention | TensorFlow Core",
+                "https://www.tensorflow.org/tutorials/text/nmt_with_attention"
+            ],
+            [
+                "Tensorflow Keras Attention source code line-by-line explained \u2014 mc.ai",
+                "https://mc.ai/tensorflow-keras-attention-source-code-line-by-line-explained/"
+            ],
+            [
+                "Deep Learning(CS7015): Lec 15.3 Attention Mechanism \u2014 YouTube",
+                "https://m.youtube.com/watch?feature=youtu.be&v=yInilk6x-OY"
+            ],
+            [
+                "Attention, CNN and what not for Text Classification | by Rahul Agarwal | Towards Data Science",
+                "https://towardsdatascience.com/nlp-learning-series-part-3-attention-cnn-and-what-not-for-text-classification-4313930ed566"
+            ],
+            [
+                "Text Classification with Hierarchical Attention Network",
+                "https://humboldt-wi.github.io/blog/research/information_systems_1819/group5_han/"
+            ],
+            [
+                "Neural Machine Translation using Bahdanau Attention Mechanism | by Yash Marathe | Analytics Vidhya | Medium",
+                "/analytics-vidhya/neural-machine-translation-using-bahdanau-attention-mechanism-d496c9be30c3"
+            ],
+            [
+                "Attention? Attention!",
+                "https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html"
+            ],
+            [
+                "Building Seq2Seq LSTM with Luong Attention in Keras for Time Series Forecasting | by Huangwei | Level Up Coding",
+                "https://levelup.gitconnected.com/building-seq2seq-lstm-with-luong-attention-in-keras-for-time-series-forecasting-1ee00958decb"
+            ],
+            [
+                "Attention: Sequence 2 Sequence model with Attention Mechanism | by Renu Khandelwal | Towards Data Science",
+                "https://towardsdatascience.com/sequence-2-sequence-model-with-attention-mechanism-9e9ca2a613a"
+            ],
+            [
+                "Rasa Algorithm Whiteboard \u2014 Attention 1: Self Attention \u2014 YouTube",
+                "https://m.youtube.com/watch?feature=youtu.be&v=yGTUuEx3GkA"
+            ],
+            [
+                "Rasa Algorithm Whiteboard \u2014 Attention 2: Keys, Values, Queries \u2014 YouTube",
+                "https://m.youtube.com/watch?v=tIvKXrEDMhk"
+            ],
+            [
+                "Rasa Algorithm Whiteboard \u2014 Attention 3: Multi Head Attention \u2014 YouTube",
+                "https://m.youtube.com/watch?v=23XUv0T9L5c"
+            ],
+            [
+                "Implementing Neural Machine Translation with Attention mechanism using Tensorflow | by Renu Khandelwal | Towards Data Science",
+                "https://towardsdatascience.com/implementing-neural-machine-translation-with-attention-using-tensorflow-fc9c6f26155f"
+            ],
+            [
+                "Illustrated: Self-Attention. Step-by-step guide to self-attention\u2026 | by Raimi Karim | Towards Data Science",
+                "https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a"
+            ],
+            [
+                "How to get meaning from text with language model BERT | AI Explained \u2014 YouTube",
+                "https://m.youtube.com/watch?v=-9vVhYEXeyQ&feature=youtu.be"
+            ],
+            [
+                "Lecture 12.1 Self-attention \u2014 YouTube",
+                "https://m.youtube.com/watch?v=KmAISyVvE1Y&feature=youtu.be"
+            ],
+            [
+                "(Part 2) Multi-Head Attention \u2014 A Detailed Intuitive Guide to Transformers Neural Networks \u2014 YouTube",
+                "https://m.youtube.com/watch?v=mMa2PmYJlCo&feature=youtu.be"
+            ],
+            [
+                "(Part 0) The Rise of Transformers \u2014 A Detailed Intuitive Guide to Transformers Neural Networks \u2014 YouTube",
+                "https://m.youtube.com/watch?v=nfs7i-B7j9A&feature=youtu.be"
+            ],
+            [
+                "jbcordonnier.com/posts/attention-cnn/",
+                "http://jbcordonnier.com/posts/attention-cnn/"
+            ]
+        ],
+        "h1": "Attention Layer"
+    },
+    {
+        "aa": [
+            [
+                "GitHub \u2014 microsoft/FLAML: A fast and lightweight AutoML library.",
+                "https://github.com/microsoft/FLAML"
+            ]
+        ],
+        "h1": "Auto ML tools"
+    },
+    {
+        "aa": [
+            [
+                "Autoencoders made simple \u2014 Towards Data Science",
+                "https://towardsdatascience.com/autoencoders-made-simple-6f59e2ab37ef"
+            ],
+            [
+                "Auto-Encoder: What Is It? And What Is It Used For? (Part 1)",
+                "https://towardsdatascience.com/auto-encoder-what-is-it-and-what-is-it-used-for-part-1-3e5c6f017726"
+            ],
+            [
+                "What The Heck Are VAE-GANs? \u2014 Towards Data Science",
+                "https://towardsdatascience.com/what-the-heck-are-vae-gans-17b86023588a"
+            ],
+            [
+                "Building Autoencoders in Keras",
+                "https://blog.keras.io/building-autoencoders-in-keras.html"
+            ],
+            [
+                "Adversarial Autoencoders on MNIST dataset Python Keras Implementation",
+                "/@a.mirzaei69/adversarial-autoencoders-on-mnist-dataset-python-keras-implementation-5eeafd52ab21"
+            ],
+            [
+                "Variational Autoencoders Explained",
+                "http://kvfrans.com/variational-autoencoders-explained/"
+            ],
+            [
+                "Intuitively Understanding Variational Autoencoders \u2014 Towards Data Science",
+                "https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf"
+            ],
+            [
+                "Intuitively Understanding Variational Autoencoders \u2014 Towards Data Science",
+                "https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf"
+            ],
+            [
+                "Tutorial \u2014 What is a variational autoencoder? \u2014 Jaan Altosaar",
+                "https://jaan.io/what-is-variational-autoencoder-vae-tutorial/"
+            ],
+            [
+                "Tutorial \u2014 What is a variational autoencoder? \u2014 Jaan Altosaar",
+                "https://jaan.io/what-is-variational-autoencoder-vae-tutorial/"
+            ],
+            [
+                "A Tutorial on Variational Autoencoders with a Concise Keras Implementation | Louis Tiao",
+                "https://tiao.io/post/tutorial-on-variational-autoencoders-with-a-concise-keras-implementation/"
+            ],
+            [
+                "A Tutorial on Variational Autoencoders with a Concise Keras Implementation | Louis Tiao",
+                "https://tiao.io/post/tutorial-on-variational-autoencoders-with-a-concise-keras-implementation/"
+            ],
+            [
+                "Visualizing MNIST using a Variational Autoencoder | Kaggle",
+                "https://www.kaggle.com/rvislaywade/visualizing-mnist-using-a-variational-autoencoder"
+            ],
+            [
+                "Visualizing MNIST using a Variational Autoencoder | Kaggle",
+                "https://www.kaggle.com/rvislaywade/visualizing-mnist-using-a-variational-autoencoder"
+            ],
+            [
+                "Build a simple Image Retrieval System with an Autoencoder",
+                "https://towardsdatascience.com/build-a-simple-image-retrieval-system-with-an-autoencoder-673a262b7921"
+            ],
+            [
+                "Applied Deep Learning \u2014 Part 3: Autoencoders \u2014 Towards Data Science",
+                "https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798"
+            ],
+            [
+                "Implementation Notes: Take the 60-day K-line feature of the VGG16 AutoEncoder \u2014 Hallblazzar: Developer Blog \u2014 Medium",
+                "/hallblazzar-\u958b\u767c\u8005\u65e5\u8a8c/\u5be6\u4f5c\u624b\u8a18-\u4ee5vgg16-autoencoder-\u64f7\u53d6\u53f0\u671f20\u65e5k\u7dda\u7279\u5fb5-3c81ad80f41b"
+            ],
+            [
+                "How can we reverse the order of the layers in a pre-trained network like VGG in Keras (or other frameworks) while substituting the Maxpooling layers with Upsampling layers? I would like to make an autoencoder from ImageNet pretrained CNNs. \u2014 Quora",
+                "https://www.quora.com/How-can-we-reverse-the-order-of-the-layers-in-a-pre-trained-network-like-VGG-in-Keras-or-other-frameworks-while-substituting-the-Maxpooling-layers-with-Upsampling-layers-I-would-like-to-make-an-autoencoder-from"
+            ],
+            [
+                "Visualizing Autoencoders with Tensorflow.js",
+                "https://douglasduhaime.com/posts/visualizing-latent-spaces.html"
+            ]
+        ],
+        "h1": "Autoencoder"
+    },
+    {
+        "aa": [
+            [
+                "Deeplearning4j: Open-source, Distributed Deep Learning for the JVM",
+                "https://deeplearning4j.org/"
+            ],
+            [
+                "Welcome \u2014 Theano 1.0.0 documentation",
+                "http://deeplearning.net/software/theano/"
+            ],
+            [
+                "SKIL CE 1.0.0",
+                "https://skymind.ai/quickstart"
+            ],
+            [
+                "Torch | Scientific computing for LuaJIT.",
+                "http://torch.ch/"
+            ],
+            [
+                "Caffe | Deep Learning Framework",
+                "http://caffe.berkeleyvision.org/"
+            ],
+            [
+                "Amazon Deep Learning AMIs",
+                "https://aws.amazon.com/machine-learning/amis/"
+            ],
+            [
+                "Kaggle: Your Home for Data Science",
+                "https://www.kaggle.com/"
+            ],
+            [
+                "Hello, Colaboratory \u2014 Colaboratory",
+                "https://colab.research.google.com/notebooks/welcome.ipynb"
+            ]
+        ],
+        "h1": "Backends"
+    },
+    {
+        "aa": [
+            [
+                "A Gentle Introduction to Pooling Layers for Convolutional Neural Networks",
+                "https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/"
+            ],
+            [
+                "An Introduction to different Types of Convolutions in Deep Learning",
+                "https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d"
+            ],
+            [
+                "Keras Conv2D and Convolutional Layers \u2014 PyImageSearch",
+                "https://www.pyimagesearch.com/2018/12/31/keras-conv2d-and-convolutional-layers/"
+            ]
+        ],
+        "h1": "CNN"
+    },
+    {
+        "aa": [
+            [
+                "Tutorial on Using Google Colab for Kaggle Competition",
+                "/@burakteke/tutorial-on-using-google-colab-for-kaggle-competition-620393c22821"
+            ],
+            [
+                "Importing data to Google Colaboratory \u2014 Steemit",
+                "https://steemit.com/google-colab/@ankurankan/importing-data-to-google-colaboratory"
+            ],
+            [
+                "Load Google Drive CSV into Pandas DataFrame for Google Colaboratory \u2014 Nick Ali",
+                "http://nali.org/load-google-drive-csv-panda-dataframe-google-colab/"
+            ],
+            [
+                "python \u2014 Google Colab is very slow compared to my PC \u2014 Stack Overflow",
+                "https://stackoverflow.com/questions/49360888/google-colab-is-very-slow-compared-to-my-pc"
+            ],
+            [
+                "Dev steps to Google Colab \u2014 Manish Verma \u2014 Medium",
+                "/@likho2manish/dev-steps-to-google-colab-5c72779c0ae9"
+            ]
+        ],
+        "h1": "Colab"
+    },
+    {
+        "aa": [
+            [
+                "Convolutional Neural Networks for Image Processing | DataCamp",
+                "https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing"
+            ],
+            [
+                "Free Online Course: Deep Learning in Computer Vision from Coursera | Class Central",
+                "https://www.classcentral.com/course/coursera-deep-learning-in-computer-vision-9608"
+            ],
+            [
+                "Machine Learning Crash Course | Google Developers",
+                "https://developers.google.com/machine-learning/crash-course"
+            ],
+            [
+                "Yapay Zeka ve Makine \u00d6\u011frenmesi Teknolojilerine Giri\u015f E\u011fitimi | Wissen Akademie",
+                "https://www.wissenakademie.com/egitim/yapay-zeka-ve-makine-ogrenmesi-teknolojilerine-giris-egitimi#"
+            ],
+            [
+                "Yann LeCun\u2019s Deep Learning Course at CDS \u2014 NYU Center for Data Science",
+                "https://cds.nyu.edu/deep-learning/"
+            ],
+            [
+                "Introduction to Machine Learning \u2014 Global AI Hub",
+                "https://globalaihub.com/introduction-to-machine-learning/"
+            ],
+            [
+                "CS50\u2019s Introduction to Artificial Intelligence with Python",
+                "https://cs50.harvard.edu/ai/2020/#:%7E:text=CS50%E2%80%99s%20Introduction%20to%20Artificial%20Intelligence%20with%20Python"
+            ]
+        ],
+        "h1": "Courses"
+    },
+    {
+        "aa": [
+            [
+                "Keras ImageDataGenerator and Data Augmentation \u2014 PyImageSearch",
+                "https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/"
+            ],
+            [
+                "aleju/imgaug: Image augmentation for machine learning experiments.",
+                "https://github.com/aleju/imgaug"
+            ],
+            [
+                "SMOTE for Imbalanced Classification with Python",
+                "https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/"
+            ]
+        ],
+        "h1": "Data Augmentation"
+    },
+    {
+        "aa": [
+            [
+                "NYC Taxi & Limousine Commission \u2014 Trip Record Data",
+                "http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml"
+            ],
+            [
+                "Tencent Traffic Sign Dataset 100K",
+                "http://cg.cs.tsinghua.edu.cn/traffic-sign/"
+            ],
+            [
+                "Datasets",
+                "https://www.reddit.com/r/datasets/"
+            ],
+            [
+                "Dataset Search",
+                "https://toolbox.google.com/datasetsearch"
+            ],
+            [
+                "Dataset Search",
+                "https://toolbox.google.com/datasetsearch"
+            ],
+            [
+                "ai.stanford.edu/~jkrause/cars/car_dataset.html",
+                "http://ai.stanford.edu/%7Ejkrause/cars/car_dataset.html"
+            ],
+            [
+                "Toronto COCO-QA Dataset",
+                "http://www.cs.toronto.edu/%7Emren/research/imageqa/data/cocoqa/"
+            ],
+            [
+                "COCO \u2014 Common Objects in Context",
+                "http://cocodataset.org/#home"
+            ],
+            [
+                "Google AI Blog: Conceptual Captions: A New Dataset and Challenge for Image Captioning",
+                "https://ai.googleblog.com/2018/09/conceptual-captions-new-dataset-and.html"
+            ],
+            [
+                "Visual Geometry Group Home Page",
+                "http://www.robots.ox.ac.uk/%7Evgg/data/flowers/102/"
+            ],
+            [
+                "04_Reverse_Image_Caption",
+                "https://nthu-datalab.github.io/ml/competitions/04_Reverse-Image-Caption/04_Reverse_Image_Caption.html"
+            ],
+            [
+                "models/detection_model_zoo.md at master \u00b7 tensorflow/models",
+                "https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md"
+            ],
+            [
+                "IMAGENET VGG16 \u2014 Convolutional Network for Classification and Detection",
+                "https://neurohive.io/en/popular-networks/vgg16/"
+            ],
+            [
+                "IAPR TC-12 Benchmark | ImageCLEF / LifeCLEF \u2014 Multimedia Retrieval in CLEF",
+                "https://www.imageclef.org/photodata"
+            ],
+            [
+                "IAPR TC-12 | Kaggle",
+                "https://www.kaggle.com/nastyatima/iapr-tc12"
+            ],
+            [
+                "Multi label datasets",
+                "http://mulan.sourceforge.net/datasets.html"
+            ],
+            [
+                "DFC15_multilabel \u2014 Google Drive",
+                "https://drive.google.com/drive/folders/1TKGS6TIRxQ6a7gdaj0cHs-mRCtv_J1HA"
+            ],
+            [
+                "2015 IEEE GRSS Data Fusion Contest \u2014 GRSS | IEEE | Geoscience & Remote Sensing Society",
+                "http://www.grss-ieee.org/community/technical-committees/data-fusion/2015-ieee-grss-data-fusion-contest/"
+            ],
+            [
+                "Mapillary \u2014 Street-level imagery, powered by collaboration and computer vision",
+                "https://www.mapillary.com/dataset/places"
+            ],
+            [
+                "The Big Bad NLP Database \u2014 Quantum Stat",
+                "https://datasets.quantumstat.com/"
+            ],
+            [
+                "multilabel datasets",
+                "http://mulan.sourceforge.net/datasets-mlc.html"
+            ],
+            [
+                "OpenML Dataset",
+                "https://www.openml.org/search?type=data"
+            ],
+            [
+                "VizWiz \u2014 Algorithms to assist people who are blind",
+                "https://vizwiz.org/"
+            ],
+            [
+                "Translation Task \u2014 ACL 2016 First Conference on Machine Translation",
+                "http://www.statmt.org/wmt16/translation-task.html"
+            ],
+            [
+                "Amazon question/answer data",
+                "http://jmcauley.ucsd.edu/data/amazon/qa/"
+            ],
+            [
+                "The Stanford Natural Language Processing Group",
+                "https://nlp.stanford.edu/projects/nmt/"
+            ],
+            [
+                "dataTurkey",
+                "https://dataturkey.com.tr/"
+            ],
+            [
+                "Top 5 Sources For Analytics and Machine Learning Datasets \u2014 GreatLearning",
+                "https://www.mygreatlearning.com/blog/sources-for-analytics-and-machine-learning-datasets/"
+            ],
+            [
+                "GitHub \u2014 deeplearningturkiye/turkce-yapay-zeka-kaynaklari: T\u00fcrkiye\u2019de yap\u0131lan derin \u00f6\u011frenme (deep learning) ve makine \u00f6\u011frenmesi (machine learning) \u00e7al\u0131\u015fmalar\u0131n\u0131n derlendi\u011fi sayfa.",
+                "https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari#ver%C4%B0setler%C4%B0"
+            ],
+            [
+                "Veri K\u00fcmelerimiz \u2014 KEM\u0130K",
+                "http://www.kemik.yildiz.edu.tr/veri_kumelerimiz.html"
+            ],
+            [
+                "Deniz Yuret\u2019s Homepage: Turkish Language Resources",
+                "http://www.denizyuret.com/2006/11/turkish-resources.html"
+            ],
+            [
+                "LONWEB PARALLEL TEXTS TURKISH \u2014 DAISY STORIES \u2014 THE SURPRISE",
+                "https://www.lonweb.org/daisy/ds-turkish-oak.htm"
+            ],
+            [
+                "google-research-datasets/Objectron: Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and ab",
+                "https://github.com/google-research-datasets/Objectron"
+            ],
+            [
+                "VisualData \u2014 Search Engine for Computer Vision Datasets",
+                "https://www.visualdata.io/discovery"
+            ],
+            [
+                "GitHub \u2014 ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code: 500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+                "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code"
+            ]
+        ],
+        "h1": "Data Sets"
+    },
+    {
+        "aa": [
+            [
+                "Deep Learning to Identify Features and Automatically Tag in an Image \u2014 Algorithmia",
+                "https://demos.algorithmia.com/image-tagger"
+            ],
+            [
+                "Image Annotation \u2014 Image tagging services for\u200d Computer Vision",
+                "https://www.imageannotation.ai/?gclid=Cj0KCQjww7HsBRDkARIsAARsIT4XiXKOc6pEyg6dOyfm10-15Vpg2B55F-w3_IybV8WmrqRAXq3j9o0aAgOwEALw_wcB"
+            ],
+            [
+                "Lab41",
+                "https://www.lab41.org/work/"
+            ],
+            [
+                "Inpainting Demo",
+                "https://www.nvidia.com/research/inpainting/"
+            ],
+            [
+                "(8) Research at NVIDIA: AI Reconstructs Photos with Realistic Results \u2014 YouTube",
+                "https://www.youtube.com/watch?v=gg0F5JjKmhA"
+            ],
+            [
+                "18 Impressive Applications of Generative Adversarial Networks (GANs)",
+                "https://machinelearningmastery.com/impressive-applications-of-generative-adversarial-networks/"
+            ],
+            [
+                "Image Annotation \u2014 Image tagging services for\u200d Computer Vision",
+                "https://www.imageannotation.ai/?gclid=Cj0KCQjw5rbsBRCFARIsAGEYRwdxLUWY-WdtM54KznoQceAflicrHRHHrJTA38LkRnuMLEbrJFUDpgsaAheaEALw_wcB"
+            ],
+            [
+                "OpenALPR Cloud API",
+                "http://www.openalpr.com/cloud-api.html"
+            ],
+            [
+                "This Person Does Not Exist",
+                "https://thispersondoesnotexist.com/"
+            ],
+            [
+                "How Deepfakes Scramble Our Sense of True and False | WIRED",
+                "https://www.wired.com/story/how-deepfakes-scramble-sense-true-false/"
+            ],
+            [
+                "RunwayML | Machine learning for creators.",
+                "https://runwayml.com/madewith"
+            ],
+            [
+                "3D Photography using Context-aware Layered Depth Inpainting",
+                "https://shihmengli.github.io/3D-Photo-Inpainting/"
+            ],
+            [
+                "Artificial Intelligence Is Rushing Into Patient Care \u2014 And Could Raise Risks \u2014 Scientific American",
+                "https://www.scientificamerican.com/article/artificial-intelligence-is-rushing-into-patient-care-and-could-raise-risks/"
+            ],
+            [
+                "(1) aydao (@AydaoGMan) / Twitter",
+                "https://twitter.com/AydaoGMan"
+            ],
+            [
+                "(1) Two Minute Papers \ud83d\udcdc (@twominutepapers) / Twitter",
+                "https://twitter.com/twominutepapers"
+            ],
+            [
+                "Cyril Diagne on Twitter: \u201c4/10 \u2014 Cut &amp; paste your surroundings to Photoshop Code: https://t.co/cVddH3u3ik Book: @HOLOmagazine Garment: SS17 by @thekarentopacio Type: Sainte Colombe by @MinetYoann @ProductionType Technical Insights: \u2193 #ML #AR #AI #AI",
+                "https://mobile.twitter.com/cyrildiagne/status/1256916982764646402"
+            ],
+            [
+                "DeepFaceDrawing Generates Photorealistic Portraits from Freehand Sketches \u2014 Synced",
+                "https://syncedreview.com/2020/06/04/deepfacedrawing-generates-photorealistic-portraits-from-freehand-sketches/"
+            ],
+            [
+                "Artificial intelligence makes blurry faces look more than 60 times sharper",
+                "https://techxplore.com/news/2020-06-artificial-intelligence-blurry-sharper.html"
+            ],
+            [
+                "Face Image Motion Model (Photo-2-Video) Eng.ipynb \u2014 Colaboratory",
+                "https://colab.research.google.com/github/tg-bomze/Face-Image-Motion-Model/blob/master/Face_Image_Motion_Model_%28Photo_2_Video%29_Eng.ipynb"
+            ],
+            [
+                "Text to Speech Demo",
+                "https://text-to-speech-demo.ng.bluemix.net/"
+            ],
+            [
+                "(1) Bomze (@tg_bomze) / Twitter",
+                "https://twitter.com/tg_bomze"
+            ],
+            [
+                "Talk to Transformer \u2014 InferKit",
+                "https://app.inferkit.com/demo"
+            ],
+            [
+                "L1 Introduction \u2014 CS294\u2013158-SP20 Deep Unsupervised Learning \u2014 UC Berkeley, Spring 2020 \u2014 YouTube",
+                "https://m.youtube.com/watch?feature=youtu.be&v=V9Roouqfu-M"
+            ],
+            [
+                "CloudCV",
+                "https://cloudcv.org/"
+            ],
+            [
+                "(6) Generating coherent speech and gesture from text \u2014 YouTube",
+                "https://www.youtube.com/watch?v=4_Gq9rU_yWg"
+            ],
+            [
+                "Learning to Fix Programs from Error Messages | SAIL Blog",
+                "https://ai.stanford.edu/blog/DrRepair/"
+            ],
+            [
+                "(29) One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing \u2014 YouTube",
+                "https://www.youtube.com/watch?v=nLYg9Waw72U&feature=youtu.be&ab_channel=Ting-ChunWang"
+            ],
+            [
+                "TensorSpace.js",
+                "https://tensorspace.org/"
+            ],
+            [
+                "MyHeritage \u2014 MyHeritage",
+                "https://www.myheritage.de/maintenance?origin=https%3A%2F%2Fwww.myheritage.de%2Fdeep-nostalgia&origin_canonical%5B0%5D=%5C%2Fdeep-nostalgia.%2A"
+            ],
+            [
+                "Google AI Blog: The Technology Behind Cinematic Photos",
+                "https://ai.googleblog.com/2021/02/the-technology-behind-cinematic-photos.html"
+            ],
+            [
+                "GPT-3 Examples, Demos, Showcase, and NLP Use-cases | GPT-3 Demo",
+                "https://gpt3demo.com/"
+            ],
+            [
+                "AllenNLP \u2014 Demo",
+                "https://demo.allennlp.org/next-token-lm"
+            ],
+            [
+                "Interactive text-driven image manipulation \u2014 YouTube",
+                "https://www.youtube.com/watch?v=yVSSVZUP17g"
+            ],
+            [
+                "30 amazing applications of deep learning \u2014 Yaron Hadad",
+                "https://www.yaronhadad.com/deep-learning-most-amazing-applications/"
+            ],
+            [
+                "Mindwriting: Software That Transform Thoughts Into Words and Sentences",
+                "https://robologiclab.com/mindwriting-software-that-transform-thoughts-into-words-and-sentences/amp/"
+            ],
+            [
+                "PimEyes: Face Recognition Search Engine and Reverse Image Search",
+                "https://pimeyes.com/en?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&utm_content=129752895&_hsenc=p2ANqtz--ysS3RmFXvZdwDBOiKGi5olBpPF7PPcuMUg_xLl6ueNB8QDE4FNFvbVVIPXQaGdckUYYe_B2q5xFnmEyKu6ZRxKk1ZVQ"
+            ],
+            [
+                "What Have Language Models Learned?",
+                "https://pair.withgoogle.com/explorables/fill-in-the-blank/"
+            ],
+            [
+                "Checking out a 6-Billion parameter GPT model, GPT-J, from Eleuther AI \u2014 YouTube",
+                "https://m.youtube.com/watch?v=_z86t7LerrQ&feature=youtu.be"
+            ],
+            [
+                "GitHub Copilot \u00b7 Your AI pair programmer",
+                "https://copilot.github.com/"
+            ]
+        ],
+        "h1": "Demos"
+    },
+    {
+        "aa": [
+            [
+                "Tutorial 6 :Deployment of Machine Learning Models in Google Cloud Platform \u2014 YouTube",
+                "https://www.youtube.com/watch?v=xcODUk0o6tU"
+            ],
+            [
+                "How to Deploy a FastAPI App on Heroku for Free | by Shinichi Okada | Towards Data Science",
+                "https://towardsdatascience.com/how-to-deploy-your-fastapi-app-on-heroku-for-free-8d4271a4ab9"
+            ]
+        ],
+        "h1": "Deployment"
+    },
+    {
+        "aa": [
+            [
+                "Google AI Blog: Model Ensembles Are Faster Than You Think",
+                "https://ai.googleblog.com/2021/11/model-ensembles-are-faster-than-you.html"
+            ]
+        ],
+        "h1": "Ensembles"
+    },
+    {
+        "aa": [
+            [
+                "Facets \u2014 Visualizations for ML datasets",
+                "https://pair-code.github.io/facets/"
+            ],
+            [
+                "Approaching (Almost) Any Machine Learning Problem | Abhishek Thakur | No Free Hunch",
+                "http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/?utm_medium=email&utm_source=intercom&utm_campaign=new+user+onboarding"
+            ],
+            [
+                "pandas_profiling API documentation",
+                "https://pandas-profiling.github.io/pandas-profiling/docs/master/index.html"
+            ]
+        ],
+        "h1": "Explanatory Data Analysis"
+    },
+    {
+        "aa": [
+            [
+                "How to properly ship and deploy your machine learning model",
+                "https://towardsdatascience.com/how-to-properly-ship-and-deploy-your-machine-learning-model-8a8664b763c4"
+            ],
+            [
+                "Tutorial: How to deploy your ConvNet classifier with Keras and FastAPI \u2014 MachineCurve",
+                "https://www.machinecurve.com/index.php/2020/03/19/tutorial-how-to-deploy-your-convnet-classifier-with-keras-and-fastapi/"
+            ],
+            [
+                "Using fetch to Send HTTP Requests in JavaScript",
+                "https://stackabuse.com/using-fetch-to-send-http-requests-in-javascript/"
+            ],
+            [
+                "Jinja2 Explained in 5 Minutes! \u2014 codeburst",
+                "https://codeburst.io/jinja-2-explained-in-5-minutes-88548486834e"
+            ],
+            [
+                "Semantic UI",
+                "https://semantic-ui.com/"
+            ],
+            [
+                "FastAPI and Scikit-Learn: Easily Deploy Models",
+                "https://nickc1.github.io/api,/scikit-learn/2019/01/10/scikit-fastapi.html"
+            ],
+            [
+                "What is React",
+                "https://www.w3schools.com/whatis/whatis_react.asp"
+            ]
+        ],
+        "h1": "Fastapi"
+    },
+    {
+        "aa": [
+            [
+                "Python Flask Windows Development Environment Setup \u2014 Timmy Reilly\u2019s Blog",
+                "https://timmyreilly.azurewebsites.net/python-flask-windows-development-environment-setup/"
+            ],
+            [
+                "How to build a web application using Flask and deploy it to the cloud",
+                "https://www.freecodecamp.org/news/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492/"
+            ],
+            [
+                "Building a simple Keras + deep learning REST API",
+                "https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html"
+            ]
+        ],
+        "h1": "Flask"
+    },
+    {
+        "aa": [
+            [
+                "GAN \u2014 What is Generative Adversary Networks GAN? \u2014 Jonathan Hui \u2014 Medium",
+                "/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09"
+            ],
+            [
+                "Introductory guide to Generative Adversarial Networks (GANs)",
+                "https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/"
+            ],
+            [
+                "GAN by Example using Keras on Tensorflow Backend \u2014 Towards Data Science",
+                "https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0"
+            ],
+            [
+                "Generative Adversarial Networks Tutorial (article) \u2014 DataCamp",
+                "https://www.datacamp.com/community/tutorials/generative-adversarial-networks"
+            ],
+            [
+                "[1807.07560] Compositional GAN: Learning Image-Conditional Binary Composition",
+                "https://arxiv.org/abs/1807.07560"
+            ],
+            [
+                "Generative Adversarial Network(GAN) using Keras \u2014 Data Driven Investor \u2014 Medium",
+                "/datadriveninvestor/generative-adversarial-network-gan-using-keras-ce1c05cfdfd3"
+            ],
+            [
+                "Deep Learning \u2014 Generative Adversarial Network(GAN)",
+                "/datadriveninvestor/deep-learning-generative-adversarial-network-gan-34abb43c0644"
+            ],
+            [
+                "Keep Calm and train a GAN. Pitfalls and Tips on training Generative Adversarial Networks",
+                "/@utk.is.here/keep-calm-and-train-a-gan-pitfalls-and-tips-on-training-generative-adversarial-networks-edd529764aa9"
+            ],
+            [
+                "A Beginner\u2019s Guide to Generative Adversarial Networks (GANs) | Skymind",
+                "https://skymind.ai/wiki/generative-adversarial-network-gan"
+            ],
+            [
+                "How to Develop a Conditional GAN (cGAN) From Scratch",
+                "https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/"
+            ],
+            [
+                "GitHub \u2014 soumith/ganhacks: starter from \u201cHow to Train a GAN?\u201d at NIPS2016",
+                "https://github.com/soumith/ganhacks"
+            ],
+            [
+                "GitHub \u2014 How to Train a GAN? Tips and tricks to make GANs work",
+                "https://github.com/soumith/ganhacks/tree/d09bbf3983c8b6ab1709f87379c8f969c8a81f93#authors"
+            ],
+            [
+                "How to Develop an Information Maximizing GAN (InfoGAN) in Keras",
+                "https://machinelearningmastery.com/how-to-develop-an-information-maximizing-generative-adversarial-network-infogan-in-keras/"
+            ],
+            [
+                "How to Develop an Auxiliary Classifier GAN (AC-GAN) From Scratch with Keras",
+                "https://machinelearningmastery.com/how-to-develop-an-auxiliary-classifier-gan-ac-gan-from-scratch-with-keras/"
+            ],
+            [
+                "Using the latest advancements in deep learning to predict stock price movements",
+                "https://towardsdatascience.com/aifortrading-2edd6fac689d"
+            ],
+            [
+                "Generative Adversarial Networks for Text Generation \u2014 Part 1",
+                "https://becominghuman.ai/generative-adversarial-networks-for-text-generation-part-1-2b886c8cab10"
+            ],
+            [
+                "Generative Adversarial Networks for Text Generation \u2014 Part 2: RL",
+                "https://becominghuman.ai/generative-adversarial-networks-for-text-generation-part-2-rl-1bc18a2b8c60"
+            ],
+            [
+                "How to Implement CycleGAN Models From Scratch With Keras",
+                "https://machinelearningmastery.com/how-to-develop-cyclegan-models-from-scratch-with-keras/"
+            ],
+            [
+                "GANs vs. Autoencoders: Comparison of Deep Generative Models",
+                "https://towardsdatascience.com/gans-vs-autoencoders-comparison-of-deep-generative-models-985cf15936ea"
+            ],
+            [
+                "[Vinesauce] Vinny \u2014 Text to Image \u2014 YouTube",
+                "https://www.youtube.com/watch?v=c0z3k2upDWE&feature=youtu.be"
+            ],
+            [
+                "18 Impressive Applications of Generative Adversarial Networks (GANs)",
+                "https://machinelearningmastery.com/impressive-applications-of-generative-adversarial-networks/?1"
+            ],
+            [
+                "How to use the UpSampling2D and Conv2DTranspose Layers in Keras",
+                "https://machinelearningmastery.com/upsampling-and-transpose-convolution-layers-for-generative-adversarial-networks/"
+            ],
+            [
+                "GANs in computer vision \u2014 Introduction to generative learning | AI Summer",
+                "https://theaisummer.com/gan-computer-vision/"
+            ],
+            [
+                "GANs in computer vision \u2014 Conditional image and object generation | AI Summer",
+                "https://theaisummer.com/gan-computer-vision-object-generation/"
+            ],
+            [
+                "Generative Adversarial Networks and TF-GAN (ML Tech Talks) \u2014 YouTube",
+                "https://www.youtube.com/watch?v=qvBhp0e-Kuc"
+            ]
+        ],
+        "h1": "GAN"
+    },
+    {
+        "aa": [
+            [
+                "Google AI Blog: A picture is worth a thousand (coherent) words: building a natural description of images",
+                "https://ai.googleblog.com/2014/11/a-picture-is-worth-thousand-coherent.html"
+            ],
+            [
+                "image-caption-generator | Kaggle",
+                "https://www.kaggle.com/wikiabhi/image-caption-generator#1.-Prepare-Photo-Data"
+            ],
+            [
+                "image-caption-generator | Kaggle",
+                "https://www.kaggle.com/wikiabhi/image-caption-generator/notebook#1.-Prepare-Photo-Data"
+            ],
+            [
+                "A Gentle Introduction to Calculating the BLEU Score for Text in Python",
+                "https://machinelearningmastery.com/calculate-bleu-score-for-text-python/"
+            ],
+            [
+                "Entity Extraction Using NLP in Python | Opensense Labs",
+                "https://opensenselabs.com/blog/tech/entity-extraction-using-nlp-python"
+            ],
+            [
+                "Tutorial_10_final.ipynb \u2014 Colaboratory",
+                "https://colab.research.google.com/drive/1oCNkdbBuh6AlhB4zfyuUPMN5rAfRJ881#scrollTo=H0giUTKqMnTm"
+            ],
+            [
+                "Image Captioning with Keras \u2014 Towards Data Science",
+                "https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8"
+            ],
+            [
+                "www.captionbot.ai",
+                "https://www.captionbot.ai/"
+            ],
+            [
+                "How to Prepare Text Data for Deep Learning with Keras",
+                "https://machinelearningmastery.com/prepare-text-data-deep-learning-keras/"
+            ],
+            [
+                "Sentiment Analysis using 1D Convolutional Neural Networks in Keras",
+                "/@romannempyre/sentiment-analysis-using-1d-convolutional-neural-networks-part-1-f8b6316489a2"
+            ],
+            [
+                "Automatic Image Captioning : Building an image-caption generator from scratch !",
+                "https://blog.goodaudience.com/automatic-image-captioning-building-an-image-caption-generator-from-scratch-4bdd8744bc38"
+            ],
+            [
+                "How to Develop a Deep Learning Photo Caption Generator from Scratch",
+                "https://machinelearningmastery.com/develop-a-deep-learning-caption-generation-model-in-python/"
+            ],
+            [
+                "Python based Project \u2014 Learn to Build Image Caption Generator with CNN & LSTM \u2014 DataFlair",
+                "https://data-flair.training/blogs/python-based-project-image-caption-generator-cnn/"
+            ],
+            [
+                "TF-IDF/Term Frequency Technique: Easiest explanation for Text classification in NLP using Python (Chatbot training on words)",
+                "/analytics-vidhya/tf-idf-term-frequency-technique-easiest-explanation-for-text-classification-in-nlp-with-code-8ca3912e58c3"
+            ]
+        ],
+        "h1": "Image Captioning"
+    },
+    {
+        "aa": [
+            [
+                "ArunMichaelDsouza/tensorflow-image-detection: A generic image detection program that uses Google\u2019s Machine Learning library, Tensorflow and a pre-trained Deep Learning Convolutional Neural Network model called Inception.",
+                "https://github.com/ArunMichaelDsouza/tensorflow-image-detection"
+            ],
+            [
+                "Object Detection with 10 lines of code \u2014 Towards Data Science",
+                "https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606"
+            ],
+            [
+                "YOLO for detection of bounding boxes \u2014 TensorFlow | Kaggle",
+                "https://www.kaggle.com/vijaybj/yolo-for-detection-of-bounding-boxes-tensorflow"
+            ],
+            [
+                "Object Localization and Detection \u00b7 Artificial Inteligence",
+                "https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html"
+            ],
+            [
+                "rykov8/ssd_keras: Port of Single Shot MultiBox Detector to Keras",
+                "https://github.com/rykov8/ssd_keras"
+            ],
+            [
+                "keras-team/keras-applications: Reference implementations of popular deep learning models.",
+                "https://github.com/keras-team/keras-applications"
+            ],
+            [
+                "What\u2019s new in YOLO v3? \u2014 Towards Data Science",
+                "https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b"
+            ],
+            [
+                "tzutalin/labelImg: LabelImg is a graphical image annotation tool and label object bounding boxes in images",
+                "https://github.com/tzutalin/labelImg"
+            ],
+            [
+                "Training a custom object detection model \u2014 Dana Marie Yu \u2014 Medium",
+                "/@dana.yu/training-a-custom-object-detection-model-41093ddc5797"
+            ],
+            [
+                "Tutorial: Build your own custom real-time object classifier",
+                "https://towardsdatascience.com/tutorial-build-an-object-detection-system-using-yolo-9a930513643a"
+            ],
+            [
+                "Logo detection in Images using SSD \u2014 Towards Data Science",
+                "https://towardsdatascience.com/logo-detection-in-images-using-ssd-bcd3732e1776"
+            ],
+            [
+                "Classification evaluation examples",
+                "http://www.cse.chalmers.se/%7Erichajo/dit865/files/Classification%20evaluation%20examples.html"
+            ],
+            [
+                "Tutorial on using Keras flow_from_directory and generators",
+                "/@vijayabhaskar96/tutorial-image-classification-with-keras-flow-from-directory-and-generators-95f75ebe5720"
+            ],
+            [
+                "Hands-On AI Part 14: Image Data Preprocessing and Augmentation | Intel\u00ae Software",
+                "https://software.intel.com/en-us/articles/hands-on-ai-part-14-image-data-preprocessing-and-augmentation"
+            ],
+            [
+                "Bulk Image Converter download | SourceForge.net",
+                "https://sourceforge.net/projects/bulkimageconver/?source=typ_redirect"
+            ],
+            [
+                "A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN",
+                "https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4"
+            ],
+            [
+                "Conv Nets: A Modular Perspective \u2014 colah\u2019s blog",
+                "https://colah.github.io/posts/2014-07-Conv-Nets-Modular/"
+            ],
+            [
+                "How to Retrain an Image Classifier for New Categories | TensorFlow",
+                "https://www.tensorflow.org/tutorials/image_retraining"
+            ],
+            [
+                "Learn | Kaggle",
+                "https://www.kaggle.com/learn/deep-learning"
+            ],
+            [
+                "An Intuitive Explanation of Convolutional Neural Networks \u2014 the data science blog",
+                "https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/"
+            ],
+            [
+                "pierluigiferrari/ssd_keras: A Keras port of Single Shot MultiBox Detector",
+                "https://github.com/pierluigiferrari/ssd_keras"
+            ],
+            [
+                "Keras: Multiple outputs and multiple losses \u2014 PyImageSearch",
+                "https://www.pyimagesearch.com/2018/06/04/keras-multiple-outputs-and-multiple-losses/"
+            ],
+            [
+                "How to Normalize, Center, and Standardize Images With the ImageDataGenerator in Keras",
+                "https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/"
+            ],
+            [
+                "How-To: Python Compare Two Images \u2014 PyImageSearch",
+                "https://www.pyimagesearch.com/2014/09/15/python-compare-two-images/"
+            ],
+            [
+                "How to Train an Object Detection Model with Keras",
+                "https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/"
+            ],
+            [
+                "python \u2014 Implementing a custom loss function for object detection \u2014 Stack Overflow",
+                "https://stackoverflow.com/questions/53176735/implementing-a-custom-loss-function-for-object-detection"
+            ],
+            [
+                "Getting Started With Bounding Box Regression In TensorFlow",
+                "https://towardsdatascience.com/getting-started-with-bounding-box-regression-in-tensorflow-743e22d0ccb3"
+            ],
+            [
+                "Faster R-CNN (object detection) implemented by Keras for custom data from Google\u2019s Open Images Dataset V4",
+                "https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a"
+            ]
+        ],
+        "h1": "Image Detection"
+    },
+    {
+        "aa": [
+            [
+                "How To Use Deep Learning And Transfer Learning To Tag Images",
+                "https://blog.dataiku.com/how-to-use-deep-learning-and-transfert-learning-to-tag-images"
+            ],
+            [
+                "Automated image tagging at Booking.com \u2014 Booking.com Data Science",
+                "https://booking.ai/automated-image-tagging-at-booking-com-7704f27dcc8b"
+            ],
+            [
+                "Flexible Image Tagging with Fast0Tag \u2014 Gab41",
+                "https://gab41.lab41.org/flexible-image-tagging-with-fast0tag-681c6283c9b7"
+            ],
+            [
+                "Illustration2Vec | SIGGRAPH Asia 2015 Technical Briefs",
+                "https://dl.acm.org/doi/10.1145/2820903.2820907"
+            ],
+            [
+                "Advances in deep learning approaches for image tagging",
+                "https://www.cambridge.org/core/journals/apsipa-transactions-on-signal-and-information-processing/article/advances-in-deep-learning-approaches-for-image-tagging/CC992367B2F72E544D2A12B68FF9195A/core-reader#"
+            ],
+            [
+                "How I handled imbalanced text data \u2014 Yogesh Kothiya \u2014 Medium",
+                "/@kothiya.yogesh/how-i-handled-imbalanced-text-data-ba9b757ab1d8"
+            ]
+        ],
+        "h1": "Image Tagging"
+    },
+    {
+        "aa": [
+            [
+                "Andrej Karpathy \u2014 Quora",
+                "https://www.quora.com/profile/Andrej-Karpathy"
+            ],
+            [
+                "Ian Goodfellow \u2014 Quora",
+                "https://www.quora.com/profile/Ian-Goodfellow"
+            ],
+            [
+                "Dzmitry Bahdanau",
+                "http://rizar.github.io/about/"
+            ],
+            [
+                "Tomas Mikolov \u2014 Facebook Research",
+                "https://research.fb.com/people/mikolov-tomas/"
+            ],
+            [
+                "Ilya Sutskever\u2019s home page",
+                "http://www.cs.utoronto.ca/%7Eilya/"
+            ],
+            [
+                "Home \u2014 deeplearning.ai",
+                "https://www.deeplearning.ai/"
+            ],
+            [
+                "Stanford Computer Vision Lab",
+                "http://vision.stanford.edu/"
+            ],
+            [
+                "Andrej Karpathy blog",
+                "http://karpathy.github.io/"
+            ],
+            [
+                "Make Your Own Neural Network",
+                "http://makeyourownneuralnetwork.blogspot.com/"
+            ],
+            [
+                "Fran\u00e7ois Chollet (@fchollet) | Twitter",
+                "https://twitter.com/fchollet"
+            ],
+            [
+                "AAAI 20 / AAAI 2020 Keynotes Turing Award Winners Event / Geoff Hinton, Yann Le Cunn, Yoshua Bengio \u2014 YouTube",
+                "https://www.youtube.com/watch?v=UX8OubxsY8w"
+            ]
+        ],
+        "h1": "Leaders"
+    },
+    {
+        "aa": [
+            [
+                "The Unknown Benefits of using a Soft-F1 Loss in Classification Systems",
+                "https://towardsdatascience.com/the-unknown-benefits-of-using-a-soft-f1-loss-in-classification-systems-753902c0105d"
+            ],
+            [
+                "Understanding binary cross-entropy / log loss: a visual explanation",
+                "https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a"
+            ],
+            [
+                "Advanced Keras \u2014 Constructing Complex Custom Losses and Metrics",
+                "https://towardsdatascience.com/advanced-keras-constructing-complex-custom-losses-and-metrics-c07ca130a618"
+            ],
+            [
+                "Understanding Categorical Cross-Entropy Loss, Binary Cross-Entropy Loss, Softmax Loss, Logistic Loss, Focal Loss and all those confusing names",
+                "https://gombru.github.io/2018/05/23/cross_entropy_loss/#"
+            ],
+            [
+                "On Custom Loss Functions in Keras \u2014 Jafar Ali Habshee \u2014 Medium",
+                "/@j.ali.hab/on-custom-loss-functions-in-keras-3af88cf59e48"
+            ]
+        ],
+        "h1": "Loss Functions"
+    },
+    {
+        "aa": [
+            [
+                "Illustrated Guide to LSTM\u2019s and GRU\u2019s: A step by step explanation",
+                "https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21"
+            ],
+            [
+                "Time Series Analysis with LSTM using Python\u2019s Keras Library",
+                "https://stackabuse.com/time-series-analysis-with-lstm-using-pythons-keras-library/"
+            ],
+            [
+                "Understanding LSTM and its quick implementation in keras for sentiment analysis.",
+                "https://towardsdatascience.com/understanding-lstm-and-its-quick-implementation-in-keras-for-sentiment-analysis-af410fd85b47"
+            ],
+            [
+                "Number of parameters in keras lstm",
+                "https://dejanbatanjac.github.io/2019/02/12/Number-of-parameters-in-Keras-LSTM.html#:%7E:text=The%20number%20of%20U%20parameters,parameters%20based%20on%20input%20shape."
+            ],
+            [
+                "deep learning \u2014 Number of parameters in an LSTM model \u2014 Data Science Stack Exchange",
+                "https://datascience.stackexchange.com/questions/10615/number-of-parameters-in-an-lstm-model"
+            ],
+            [
+                "Start Here with Machine Learning",
+                "https://machinelearningmastery.com/start-here/#lstm"
+            ],
+            [
+                "Dissecting The Role of Return_state and Return_seq Options in LSTM Based Sequence Models | by Suresh Pasumarthi | Medium",
+                "/@ppasumarthi_69210/dissecting-the-role-of-return-state-and-return-seq-options-in-lstm-based-sequence-models-23345f88ab0a"
+            ],
+            [
+                "Difference Between Return Sequences and Return States for LSTMs in Keras",
+                "https://machinelearningmastery.com/return-sequences-and-return-states-for-lstms-in-keras/"
+            ],
+            [
+                "A ten-minute introduction to sequence-to-sequence learning in Keras",
+                "https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html"
+            ],
+            [
+                "Stacked Long Short-Term Memory Networks",
+                "https://machinelearningmastery.com/stacked-long-short-term-memory-networks/"
+            ],
+            [
+                "LSTM layer",
+                "https://keras.io/api/layers/recurrent_layers/lstm/"
+            ],
+            [
+                "LSTM layer",
+                "https://keras.io/api/layers/recurrent_layers/lstm/"
+            ],
+            [
+                "colah.github.io",
+                "http://colah.github.io/posts/2015-08-Understanding-LSTMs/?"
+            ],
+            [
+                "Animated RNN, LSTM and GRU. Recurrent neural network cells in GIFs | by Raimi Karim | Towards Data Science",
+                "https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45"
+            ],
+            [
+                "Counting No. of Parameters in Deep Learning Models by Hand | by Raimi Karim | Towards Data Science",
+                "https://towardsdatascience.com/counting-no-of-parameters-in-deep-learning-models-by-hand-8f1716241889"
+            ]
+        ],
+        "h1": "LSTM GRU"
+    },
+    {
+        "aa": [
+            [
+                "Testing Classifier Accuracy",
+                "http://www3.cs.stonybrook.edu/%7Ecse352/L11testing.pdf"
+            ],
+            [
+                "Simple guide to confusion matrix terminology",
+                "http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/"
+            ],
+            [
+                "How to Use Metrics for Deep Learning with Keras in Python",
+                "https://machinelearningmastery.com/custom-metrics-deep-learning-keras-python/"
+            ],
+            [
+                "Metrics To Evaluate Machine Learning Algorithms in Python",
+                "https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/"
+            ],
+            [
+                "machine learning \u2014 What is the difference between loss function and metric in Keras? \u2014 Stack Overflow",
+                "https://stackoverflow.com/questions/48280873/what-is-the-difference-between-loss-function-and-metric-in-keras"
+            ],
+            [
+                "Practical tips for class imbalance in binary classification",
+                "https://towardsdatascience.com/practical-tips-for-class-imbalance-in-binary-classification-6ee29bcdb8a7"
+            ],
+            [
+                "Introduction to ROC curves",
+                "http://gim.unmc.edu/dxtests/roc1.htm"
+            ],
+            [
+                "How and When to Use ROC Curves and Precision-Recall Curves for Classification in Python",
+                "https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/"
+            ],
+            [
+                "GitHub \u2014 fmfn/BayesianOptimization: A Python implementation of global optimization with gaussian processes.",
+                "https://github.com/fmfn/BayesianOptimization"
+            ],
+            [
+                "Keras accuracy (metrics) \u00b7 sagr4019/ResearchProject Wiki",
+                "https://github.com/sagr4019/ResearchProject/wiki/Keras-accuracy-%28metrics%29#categorical-accuracy"
+            ],
+            [
+                "General Terminology \u00b7 sagr4019/ResearchProject Wiki",
+                "https://github.com/sagr4019/ResearchProject/wiki/General-Terminology#difference-between-accuracy-and-categorical_accuracy"
+            ],
+            [
+                "Keras accuracy (metrics) \u00b7 sagr4019/ResearchProject Wiki",
+                "https://github.com/sagr4019/ResearchProject/wiki/Keras-accuracy-%28metrics%29"
+            ],
+            [
+                "evaluation \u2014 Micro Average vs Macro average Performance in a Multiclass classification setting \u2014 Data Science Stack Exchange",
+                "https://datascience.stackexchange.com/questions/15989/micro-average-vs-macro-average-performance-in-a-multiclass-classification-settin"
+            ],
+            [
+                "Why are precision, recall and F1 score equal when using micro averaging in a multi-class problem? \u2014 Simon\u2019s blog",
+                "https://simonhessner.de/why-are-precision-recall-and-f1-score-equal-when-using-micro-averaging-in-a-multi-class-problem/"
+            ],
+            [
+                "Calculate mean Average Precision (mAP) for multi-label classification",
+                "/@hfdtsinghua/calculate-mean-average-precision-map-for-multi-label-classification-b082679d31be"
+            ],
+            [
+                "Breaking Down Mean Average Precision (mAP) \u2014 Towards Data Science",
+                "https://towardsdatascience.com/breaking-down-mean-average-precision-map-ae462f623a52"
+            ],
+            [
+                "sklearn.metrics.average_precision_score \u2014 scikit-learn 0.22.2 documentation",
+                "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.average_precision_score.html"
+            ],
+            [
+                "mAP (mean Average Precision) for Object Detection \u2014 Jonathan Hui \u2014 Medium",
+                "/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173"
+            ],
+            [
+                "Precision-Recall \u2014 scikit-learn 0.22.2 documentation",
+                "https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html?highlight=mean%20precision"
+            ],
+            [
+                "3.3. Metrics and scoring: quantifying the quality of predictions \u2014 scikit-learn 0.22.2 documentation",
+                "https://scikit-learn.org/stable/modules/model_evaluation.html#precision-recall-f-measure-metrics"
+            ],
+            [
+                "sklearn.metrics.average_precision_score \u2014 scikit-learn 0.22.2 documentation",
+                "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.average_precision_score.html?highlight=average_precision_score#sklearn.metrics.average_precision_score"
+            ],
+            [
+                "6 More Evaluation Metrics Data Scientists Should Be Familiar with \u2014 Lessons from A High-rank Kagglers\u2019 New Book",
+                "https://towardsdatascience.com/6-more-evaluation-metrics-data-scientists-should-be-familiar-with-lessons-from-a-high-rank-d7756611efc4"
+            ],
+            [
+                "3.3. Metrics and scoring: quantifying the quality of predictions \u2014 scikit-learn 0.22.2 documentation",
+                "https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics"
+            ],
+            [
+                "3. Model selection and evaluation \u2014 scikit-learn 0.22.2 documentation",
+                "https://scikit-learn.org/stable/model_selection.html?highlight=multilabel%20metrics"
+            ],
+            [
+                "GitHub \u2014 Cartucho/mAP: mean Average Precision \u2014 This code evaluates the performance of your neural net for object recognition.",
+                "https://github.com/Cartucho/mAP"
+            ],
+            [
+                "ROC Curves and Precision-Recall Curves for Imbalanced Classification",
+                "https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-imbalanced-classification/"
+            ],
+            [
+                "Idiot\u2019s Guide to Precision, Recall and Confusion Matrix | Hacker Noon",
+                "https://hackernoon.com/idiots-guide-to-precision-recall-and-confusion-matrix-b32d36463556"
+            ],
+            [
+                "Deep Double Descent (OpenAI): Classical Machine Learning vs. Modern Deep Learning (preview) \u2014 YouTube",
+                "https://www.youtube.com/watch?v=Kih-VPHL3gA"
+            ],
+            [
+                "Keras Metrics: Everything You Need To Know | Neptune blog",
+                "https://neptune.ai/blog/keras-metrics"
+            ],
+            [
+                "keras/metrics.py at 1c630c3e3c8969b40a47d07b9f2edda50ec69720 \u00b7 keras-team/keras",
+                "https://github.com/keras-team/keras/blob/1c630c3e3c8969b40a47d07b9f2edda50ec69720/keras/metrics.py"
+            ],
+            [
+                "F-beta score for Keras | Kaggle",
+                "https://www.kaggle.com/arsenyinfo/f-beta-score-for-keras"
+            ]
+        ],
+        "h1": "Measure the Success"
+    },
+    {
+        "aa": [
+            [
+                "Top 10 Machine Learning Algorithms for Beginners",
+                "https://www.dataquest.io/blog/top-10-machine-learning-algorithms-for-beginners/"
+            ],
+            [
+                "Machine Learning For Beginners \u2014 Towards Data Science",
+                "https://towardsdatascience.com/machine-learning-for-beginners-d247a9420dab"
+            ],
+            [
+                "Machine Learning Tutorial for Beginners | Kaggle",
+                "https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners"
+            ],
+            [
+                "A Beginner\u2019s Guide to AI/ML \ud83e\udd16\ud83d\udc76 \u2014 Machine Learning for Humans \u2014 Medium",
+                "/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12"
+            ],
+            [
+                "(4) Introduction to Bayesian data analysis \u2014 part 1: What is Bayes? \u2014 YouTube",
+                "https://www.youtube.com/watch?v=3OJEae7Qb_o"
+            ]
+        ],
+        "h1": "ML"
+    },
+    {
+        "aa": [
+            [
+                "Deep Learning for Videos: A 2018 Guide to Action Recognition",
+                "http://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review"
+            ],
+            [
+                "Driving behaviour recognition from still images by using multi-stream fusion CNN | SpringerLink",
+                "https://link.springer.com/article/10.1007/s00138-018-0994-z"
+            ]
+        ],
+        "h1": "Multi Stream CNN"
+    },
+    {
+        "aa": [
+            [
+                "Multi-label image classification Tutorial with Keras ImageDataGenerator",
+                "/@vijayabhaskar96/multi-label-image-classification-tutorial-with-keras-imagedatagenerator-cd541f8eaf24"
+            ],
+            [
+                "Multi-label classification with Keras \u2014 PyImageSearch",
+                "https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/"
+            ],
+            [
+                "1.12. Multiclass and multilabel algorithms \u2014 scikit-learn 0.20.3 documentation",
+                "https://scikit-learn.org/stable/modules/multiclass.html"
+            ],
+            [
+                "Multi-label classification with keras | Kaggle",
+                "https://www.kaggle.com/roccoli/multi-label-classification-with-keras"
+            ],
+            [
+                "Multi-Label text classification in TensorFlow Keras \u2014 knowledge Transfer",
+                "https://androidkt.com/multi-label-text-classification-in-tensorflow-keras/"
+            ],
+            [
+                "Performing Multi-label Text Classification with Keras | mimacom",
+                "https://blog.mimacom.com/text-classification/"
+            ],
+            [
+                "Explore overfitting and underfitting | TensorFlow Core",
+                "https://www.tensorflow.org/tutorials/keras/overfit_and_underfit"
+            ],
+            [
+                "Guide to multi-class multi-label classification with neural networks in python \u2014 Depends on the definition",
+                "https://www.depends-on-the-definition.com/guide-to-multi-label-classification-with-neural-networks/"
+            ],
+            [
+                "Classifying genres of movies by looking at the poster \u2014 A neural approach \u2014 Depends on the definition",
+                "http://www.depends-on-the-definition.com/classifying-genres-of-movies-by-looking-at-the-poster-a-neural-approach/"
+            ],
+            [
+                "classification \u2014 How to set class weights for imbalanced classes in Keras? \u2014 Data Science Stack Exchange",
+                "https://datascience.stackexchange.com/questions/13490/how-to-set-class-weights-for-imbalanced-classes-in-keras"
+            ],
+            [
+                "Multi-Label Classification and Class Activation Map on Fashion-MNIST",
+                "https://towardsdatascience.com/multi-label-classification-and-class-activation-map-on-fashion-mnist-1454f09f5925"
+            ],
+            [
+                "Deep dive into multi-label classification..! (With detailed Case Study)",
+                "https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff"
+            ],
+            [
+                "Multi-Label Image Classification with Neural Network | Keras",
+                "https://towardsdatascience.com/multi-label-image-classification-with-neural-network-keras-ddc1ab1afede"
+            ],
+            [
+                "Multi-Label Image Classification in TensorFlow 2.0 \u2014 Towards Data Science",
+                "https://towardsdatascience.com/multi-label-image-classification-in-tensorflow-2-0-7d4cf8a4bc72"
+            ],
+            [
+                "GitHub \u2014 ashrefm/multi-label-soft-f1: Train a multi-label image classifier with macro soft-F1 loss in TensorFlow 2.0",
+                "https://github.com/ashrefm/multi-label-soft-f1"
+            ],
+            [
+                "scikit-multilearn: Multi-Label Classification in Python \u2014 Multi-Label Classification for Python",
+                "http://scikit.ml/"
+            ],
+            [
+                "scikit-multilearn: Multi-Label Classification in Python \u2014 Multi-Label Classification for Python",
+                "http://scikit.ml/modelselection.html"
+            ]
+        ],
+        "h1": "Multi-label"
+    },
+    {
+        "aa": [
+            [
+                "9 functions that make natural language pre-processing a piece of cake | by Alejandra Vlerick | Towards Data Science",
+                "https://towardsdatascience.com/9-functions-that-make-natural-language-pre-processing-a-piece-of-cake-8b885c151955"
+            ],
+            [
+                "fastText",
+                "https://fasttext.cc/"
+            ],
+            [
+                "Perplexity in Language Models. Evaluating language models using the\u2026 | by Chiara Campagnola | Towards Data Science",
+                "https://towardsdatascience.com/perplexity-in-language-models-87a196019a94"
+            ],
+            [
+                "How to evaluate Text Generation Models? Metrics for Automatic Evaluation of NLP Models | by Divish Dayal | Towards Data Science",
+                "https://towardsdatascience.com/how-to-evaluate-text-generation-models-metrics-for-automatic-evaluation-of-nlp-models-e1c251b04ec1"
+            ],
+            [
+                "Step-by-Step Natural Language Processing Workshop: From Data to Deployment \u2014 YouTube",
+                "https://www.youtube.com/watch?v=D9hY8pZe7hk"
+            ]
+        ],
+        "h1": "NLP"
+    },
+    {
+        "aa": [
+            [
+                "Tokenization and Parts of Speech(POS) Tagging in Python\u2019s NLTK library",
+                "/@gianpaul.r/tokenization-and-parts-of-speech-pos-tagging-in-pythons-nltk-library-2d30f70af13b"
+            ],
+            [
+                "Remove Stop Words",
+                "https://chrisalbon.com/machine_learning/preprocessing_text/remove_stop_words/"
+            ],
+            [
+                "Text Preprocessing in Python: Steps, Tools, and Examples",
+                "/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908"
+            ],
+            [
+                "(Tutorial) Text ANALYTICS for Beginners using NLTK \u2014 DataCamp",
+                "https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk"
+            ],
+            [
+                "Deep Learning Illustrated: Building Natural Language Processing Models \u2014 Data Science Blog by Domino",
+                "https://blog.dominodatalab.com/deep-learning-illustrated-building-natural-language-processing-models/?utm_campaign=Artificial%2BIntelligence%2BNewsletter%20on%20LinkedIn&utm_medium=email&utm_source=Artificial_Intelligence_17"
+            ]
+        ],
+        "h1": "NLTK"
+    },
+    {
+        "aa": [
+            [
+                "How to Index, Slice and Reshape NumPy Arrays for Machine Learning in Python",
+                "https://machinelearningmastery.com/index-slice-reshape-numpy-arrays-machine-learning-python/"
+            ],
+            [
+                "Python Numpy Tutorial",
+                "http://cs231n.github.io/python-numpy-tutorial/"
+            ]
+        ],
+        "h1": "NumPy"
+    },
+    {
+        "aa": [
+            [
+                "HarilalOP/OCR-Deep-Learning: OCR Deep Learning",
+                "https://github.com/HarilalOP/OCR-Deep-Learning"
+            ],
+            [
+                "keras/image_ocr.py at master \u00b7 keras-team/keras",
+                "https://github.com/keras-team/keras/blob/master/examples/image_ocr.py"
+            ],
+            [
+                "Deep Learning OCR using TensorFlow and Python \u2014 nicholastsmith",
+                "https://nicholastsmith.wordpress.com/2017/10/14/deep-learning-ocr-using-tensorflow-and-python/"
+            ],
+            [
+                "Build a Handwritten Text Recognition System using TensorFlow",
+                "https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5"
+            ],
+            [
+                "python \u2014 How can I use the Keras OCR example? \u2014 Stack Overflow",
+                "https://stackoverflow.com/questions/44847446/how-can-i-use-the-keras-ocr-example"
+            ],
+            [
+                "\ud83d\udd25 Latest Deep Learning OCR with Keras and Supervisely in 15 minutes",
+                "https://hackernoon.com/latest-deep-learning-ocr-with-keras-and-supervisely-in-15-minutes-34aecd630ed8"
+            ],
+            [
+                "image_ocr.ipynb \u2014 Colaboratory",
+                "https://colab.research.google.com/drive/1CdB9rvImJCAl_U9yYVD6HqMFWup_RzpG#forceEdit=true&offline=true&sandboxMode=true&scrollTo=on6qCFcV5uPx"
+            ],
+            [
+                "A gentle introduction to OCR \u2014 Towards Data Science",
+                "https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa"
+            ],
+            [
+                "LPRNet: License Plate Recognition via Deep Neural Networks",
+                "https://www.groundai.com/project/lprnet-license-plate-recognition-via-deep-neural-networks/"
+            ],
+            [
+                "models/research/attention_ocr at master \u00b7 tensorflow/models",
+                "https://github.com/tensorflow/models/tree/master/research/attention_ocr"
+            ],
+            [
+                "FAQ: Build a Handwritten Text Recognition System using TensorFlow",
+                "https://towardsdatascience.com/faq-build-a-handwritten-text-recognition-system-using-tensorflow-27648fb18519"
+            ],
+            [
+                "500 Lines or Less | Optical Character Recognition (OCR)",
+                "http://www.aosabook.org/en/500L/optical-character-recognition-ocr.html"
+            ],
+            [
+                "Scanned Digits Recognition using k-Nearest Neighbor (k-NN)",
+                "https://towardsdatascience.com/scanned-digits-recognition-using-k-nearest-neighbor-k-nn-d1a1528f0dea"
+            ],
+            [
+                "OpenCV Text Detection (EAST text detector) \u2014 PyImageSearch",
+                "https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/"
+            ],
+            [
+                "Text Recognition Data Set",
+                "http://www.robots.ox.ac.uk/%7Evgg/data/text/"
+            ]
+        ],
+        "h1": "OCR"
+    },
+    {
+        "aa": [
+            [
+                "Getting Started with Videos \u2014 OpenCV 3.0.0-dev documentation",
+                "https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_video_display/py_video_display.html"
+            ],
+            [
+                "Deep learning: How OpenCV\u2019s blobFromImage works \u2014 PyImageSearch",
+                "https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/"
+            ]
+        ],
+        "h1": "OpenCV"
+    },
+    {
+        "aa": [
+            [
+                "Working with missing data \u2014 pandas 0.22.0 documentation",
+                "https://pandas.pydata.org/pandas-docs/stable/missing_data.html"
+            ],
+            [
+                "Pandas in Jupyter \u2014 Quickstart and Useful Snippets \u2014 Nikolay Grozev",
+                "http://nikgrozev.com/2015/12/27/pandas-in-jupyter-quickstart-and-useful-snippets/"
+            ],
+            [
+                "Visualization \u2014 pandas 0.22.0 documentation",
+                "http://pandas.pydata.org/pandas-docs/stable/visualization.html"
+            ],
+            [
+                "Resampling time series data with pandas \u2014 Ben Alex Keen",
+                "http://benalexkeen.com/resampling-time-series-data-with-pandas/"
+            ],
+            [
+                "Summarising, Aggregating, and Grouping data in Python Pandas | Shane Lynn",
+                "https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/"
+            ]
+        ],
+        "h1": "Pandas"
+    },
+    {
+        "aa": [
+            [
+                "Pre-processing for deep learning: from covariance matrix to image whitening",
+                "https://hadrienj.github.io/posts/Preprocessing-for-deep-learning/"
+            ]
+        ],
+        "h1": "Preprocessing"
+    },
+    {
+        "aa": [],
+        "h1": "Privacy"
+    },
+    {
+        "aa": [
+            [
+                "Deploying Keras models using TensorFlow Serving and Flask",
+                "https://towardsdatascience.com/deploying-keras-models-using-tensorflow-serving-and-flask-508ba00f1037"
+            ],
+            [
+                "Train and serve a TensorFlow model with TensorFlow Serving | TensorFlow Serving | TensorFlow",
+                "https://www.tensorflow.org/serving/tutorials/Serving_REST_simple"
+            ],
+            [
+                "A guide to deploying Machine/Deep Learning model(s) in Production",
+                "/@maheshkkumar/a-guide-to-deploying-machine-deep-learning-model-s-in-production-e497fd4b734a"
+            ],
+            [
+                "Training and Serving ML models with tf.keras \u2014 TensorFlow \u2014 Medium",
+                "/tensorflow/training-and-serving-ml-models-with-tf-keras-fd975cc0fa27"
+            ],
+            [
+                "Deploy a Keras Model for Text Classification using TensorFlow Serving (Part 1 of 2)",
+                "https://towardsdatascience.com/deploying-kaggle-solution-with-tensorflow-serving-part-1-of-2-803391c9648"
+            ],
+            [
+                "Tensorflow serving example. Part 1: Data Labeling for the Trading Strategy \u2014 YouTube",
+                "https://m.youtube.com/watch?feature=youtu.be&v=iXy8mJnbmqg"
+            ],
+            [
+                "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial \u2014 YouTube",
+                "https://m.youtube.com/watch?v=zpKm8OxDBwE&feature=youtu.be"
+            ],
+            [
+                "Deploy Machine Learning Model Using TensorFlow 2.0 Serving | Full Tutorial \u2014 YouTube",
+                "https://m.youtube.com/watch?feature=youtu.be&v=zpKm8OxDBwE"
+            ],
+            [
+                "Train and serve a TensorFlow model with TensorFlow Serving | TFX",
+                "https://www.tensorflow.org/tfx/tutorials/serving/rest_simple"
+            ],
+            [
+                "rest_simple.ipynb \u2014 Colaboratory",
+                "https://colab.research.google.com/github/tensorflow/tfx/blob/master/docs/tutorials/serving/rest_simple.ipynb#scrollTo=zRftRxeR1tZx"
+            ],
+            [
+                "TensorFlow Serving with Docker | TFX",
+                "https://www.tensorflow.org/tfx/serving/docker"
+            ],
+            [
+                "Introducing TFServe: Simple and easy HTTP server for tensorflow model inference",
+                "https://towardsdatascience.com/introducing-tfserve-simple-and-easy-http-server-for-tensorflow-model-inference-582ea1b07da8"
+            ],
+            [
+                "Using TensorFlow Serving\u2019s RESTful API | Towards Data Science",
+                "https://towardsdatascience.com/serving-image-based-deep-learning-models-with-tensorflow-servings-restful-api-d365c16a7dc4"
+            ],
+            [
+                "How to deploy TensorFlow models to production using TF Serving",
+                "https://www.freecodecamp.org/news/how-to-deploy-tensorflow-models-to-production-using-tf-serving-4b4b78d41700/"
+            ],
+            [
+                "Data project checklist \u00b7 fast.ai",
+                "https://www.fast.ai/2020/01/07/data-questionnaire/"
+            ]
+        ],
+        "h1": "Production"
+    },
+    {
+        "aa": [
+            [
+                "First Steps With Python \u2014 Real Python",
+                "https://realpython.com/learn/python-first-steps/"
+            ],
+            [
+                "Python Tensorflow Programming Tutorials",
+                "https://pythonprogramming.net/tensorflow-deep-neural-network-machine-learning-tutorial/?completed=/tensorflow-introduction-machine-learning-tutorial/"
+            ],
+            [
+                "Introduction \u00b7 A Byte of Python",
+                "https://python.swaroopch.com/"
+            ],
+            [
+                "cs228-material/cs228-python-tutorial.ipynb at master \u00b7 kuleshov/cs228-material \u00b7 GitHub",
+                "https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb"
+            ],
+            [
+                "Train/Test Split and Cross Validation in Python \u2014 Towards Data Science",
+                "https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6"
+            ],
+            [
+                "How to start Deep Learning With Python",
+                "https://machinelearningmastery.com/deep-learning-with-python/"
+            ],
+            [
+                "Use Keras Deep Learning Models with Scikit-Learn in Python",
+                "https://machinelearningmastery.com/use-keras-deep-learning-models-scikit-learn-python/"
+            ],
+            [
+                "Python Programming Tutorials",
+                "https://pythonprogramming.net/"
+            ],
+            [
+                "Practice Deep Learning in Python",
+                "https://practice.datacamp.com/todayschallenge"
+            ],
+            [
+                "Python Enumerate Explained (With Examples) \u2014 Afternerd",
+                "https://www.afternerd.com/blog/python-enumerate/"
+            ],
+            [
+                "Python Numpy Tutorial (with Jupyter and Colab)",
+                "https://cs231n.github.io/python-numpy-tutorial/"
+            ],
+            [
+                "How to Get Started With Python?",
+                "https://www.programiz.com/python-programming/first-program"
+            ]
+        ],
+        "h1": "Python"
+    },
+    {
+        "aa": [
+            [
+                "Master defense 24.01.2020 -Serhii Tiutiunnyk- Context-based Question-answering System \u2014 YouTube",
+                "https://www.youtube.com/watch?v=98v6ARTFJQo"
+            ],
+            [
+                "Applying BERT to Question Answering (SQuAD v1.1) \u2014 YouTube",
+                "https://www.youtube.com/watch?v=l8ZYCvgGu0o"
+            ]
+        ],
+        "h1": "Question Answer"
+    },
+    {
+        "aa": [
+            [
+                "teacherpeterpan/Question-Generation-Paper-List: A summary of must-read papers for Neural Question Generation (NQG)",
+                "https://github.com/teacherpeterpan/Question-Generation-Paper-List"
+            ]
+        ],
+        "h1": "Question Generation"
+    },
+    {
+        "aa": [
+            [
+                "LSTM in Python: Stock Market Predictions (article) \u2014 DataCamp",
+                "https://www.datacamp.com/community/tutorials/lstm-python-stock-market?utm_medium=fb%2Cig%2Can%2Cms-all&utm_source=fb_paid&utm_campaign=smartly_ppa&utm_id=5aeb1906839578043e0fa33b"
+            ],
+            [
+                "Understanding LSTM Networks \u2014 colah\u2019s blog",
+                "http://colah.github.io/posts/2015-08-Understanding-LSTMs/"
+            ],
+            [
+                "The Unreasonable Effectiveness of Recurrent Neural Networks",
+                "http://karpathy.github.io/2015/05/21/rnn-effectiveness/"
+            ],
+            [
+                "Predict Stock Prices Using RNN: Part 1",
+                "https://lilianweng.github.io/lil-log/2017/07/08/predict-stock-prices-using-RNN-part-1.html"
+            ],
+            [
+                "Time Series Forecasting with the Long Short-Term Memory Network in Python",
+                "https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/"
+            ],
+            [
+                "Multivariate Time Series Forecasting with LSTMs in Keras",
+                "https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/"
+            ],
+            [
+                "Multi-step Time Series Forecasting with Long Short-Term Memory Networks in Python",
+                "https://machinelearningmastery.com/multi-step-time-series-forecasting-long-short-term-memory-networks-python/"
+            ],
+            [
+                "Python Time Series Analysis Tutorial (article) \u2014 DataCamp",
+                "https://www.datacamp.com/community/tutorials/time-series-analysis-tutorial"
+            ],
+            [
+                "NYC Open Data | Kaggle",
+                "https://www.kaggle.com/nycopendata/new-york/data"
+            ],
+            [
+                "pandas Time Series Basics",
+                "https://chrisalbon.com/python/data_wrangling/pandas_time_series_basics/"
+            ],
+            [
+                "How to predict Bitcoin and Ethereum price with RNN-LSTM in Keras",
+                "/@siavash_37715/how-to-predict-bitcoin-and-ethereum-price-with-rnn-lstm-in-keras-a6d8ee8a5109"
+            ],
+            [
+                "Mohamed Abdulaziz",
+                "http://209.250.255.144/nazim"
+            ],
+            [
+                "Mohamed Abdulaziz",
+                "http://209.250.255.144/"
+            ],
+            [
+                "How to Make Predictions with Long Short-Term Memory Models in Keras",
+                "https://machinelearningmastery.com/make-predictions-long-short-term-memory-models-keras/"
+            ],
+            [
+                "The 5 Step Life-Cycle for Long Short-Term Memory Models in Keras",
+                "https://machinelearningmastery.com/5-step-life-cycle-long-short-term-memory-models-keras/"
+            ],
+            [
+                "Using LSTMs to forecast time-series \u2014 Towards Data Science",
+                "https://towardsdatascience.com/using-lstms-to-forecast-time-series-4ab688386b1f"
+            ],
+            [
+                "LSTM Neural Network for Time Series Prediction | Jakob Aungiers",
+                "http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction"
+            ],
+            [
+                "LSTM Tutorial",
+                "https://www.slideshare.net/RalphSchlosser/lstm-tutorial"
+            ],
+            [
+                "How to use Different Batch Sizes when Training and Predicting with LSTMs",
+                "https://machinelearningmastery.com/use-different-batch-sizes-training-predicting-python-keras/"
+            ],
+            [
+                "(3) RNN W1L11 : Bidirectional RNN \u2014 YouTube",
+                "https://www.youtube.com/watch?v=bTXGpATdKRY"
+            ],
+            [
+                "(3) Recurrent Neural Networks | Sequence Models (Course 5 Deep Learning Andrew Ng) \u2014 YouTube",
+                "https://www.youtube.com/playlist?list=PL1w8k37X_6L_s4ncq-swTBvKDWnRSrinI"
+            ],
+            [
+                "A Visual Guide to Recurrent Layers in Keras",
+                "https://amitness.com/2020/04/recurrent-layers-keras/"
+            ],
+            [
+                "A friendly introduction to Recurrent Neural Networks \u2014 YouTube",
+                "https://www.youtube.com/watch?v=UNmqTiOnRfg"
+            ]
+        ],
+        "h1": "Recurrent Neural Networks"
+    },
+    {
+        "aa": [
+            [
+                "Regression Models with multiple target variables \u2014 Towards Data Science",
+                "https://towardsdatascience.com/regression-models-with-multiple-target-variables-8baa75aacd"
+            ],
+            [
+                "Support Vector Machines(SVM) \u2014 An Overview \u2014 Towards Data Science",
+                "https://towardsdatascience.com/https-medium-com-pupalerushikesh-svm-f4b42800e989"
+            ],
+            [
+                "classification \u2014 How does a Support Vector Machine (SVM) work? \u2014 Cross Validated",
+                "https://stats.stackexchange.com/questions/23391/how-does-a-support-vector-machine-svm-work"
+            ]
+        ],
+        "h1": "Regression"
+    },
+    {
+        "aa": [
+            [
+                "Google Research Football League",
+                "https://research-football.dev/about"
+            ],
+            [
+                "Reinforcement Q-Learning from Scratch in Python with OpenAI Gym \u2014 LearnDataSci",
+                "https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/"
+            ],
+            [
+                "Gym",
+                "https://gym.openai.com/"
+            ],
+            [
+                "OpenAI Gym from scratch \u2014 Towards Data Science",
+                "https://towardsdatascience.com/openai-gym-from-scratch-619e39af121f"
+            ],
+            [
+                "dan lee \u2014 Medium",
+                "/@Adline125"
+            ],
+            [
+                "Google AI Blog: Mastering Atari with Discrete World Models",
+                "https://ai.googleblog.com/2021/02/mastering-atari-with-discrete-world.html"
+            ]
+        ],
+        "h1": "Reinforcement Learning"
+    },
+    {
+        "aa": [
+            [
+                "Yann LeCun \u2014 Self-Supervised Learning: The Dark Matter of Intelligence (FAIR Blog Post Explained) \u2014 YouTube",
+                "https://www.youtube.com/watch?v=Ag1bw8MfHGQ"
+            ]
+        ],
+        "h1": "Self-Supervised"
+    },
+    {
+        "aa": [
+            [
+                "Word Level English to Marathi Neural Machine Translation using Encoder-Decoder Model",
+                "https://towardsdatascience.com/word-level-english-to-marathi-neural-machine-translation-using-seq2seq-encoder-decoder-lstm-model-1a913f2dc4a7"
+            ],
+            [
+                "tensorflow/nmt: TensorFlow Neural Machine Translation Tutorial",
+                "https://github.com/tensorflow/nmt"
+            ],
+            [
+                "How to Develop a Seq2Seq Model for Neural Machine Translation in Keras",
+                "https://machinelearningmastery.com/define-encoder-decoder-sequence-sequence-model-neural-machine-translation-keras/"
+            ],
+            [
+                "How to Develop an Encoder-Decoder Model for Sequence-to-Sequence Prediction in Keras",
+                "https://machinelearningmastery.com/develop-encoder-decoder-model-sequence-sequence-prediction-keras/"
+            ],
+            [
+                "[1409.3215] Sequence to Sequence Learning with Neural Networks",
+                "https://arxiv.org/abs/1409.3215"
+            ],
+            [
+                "Encoder-Decoder Recurrent Neural Network Models for Neural Machine Translation",
+                "https://machinelearningmastery.com/encoder-decoder-recurrent-neural-network-models-neural-machine-translation/"
+            ],
+            [
+                "Introduction to Neural Machine Translation with GPUs (part 1) | NVIDIA Developer Blog",
+                "https://developer.nvidia.com/blog/introduction-neural-machine-translation-with-gpus/"
+            ],
+            [
+                "Introduction to Neural Machine Translation with GPUs (Part 2) | NVIDIA Developer Blog",
+                "https://developer.nvidia.com/blog/introduction-neural-machine-translation-gpus-part-2/"
+            ],
+            [
+                "Introduction to Neural Machine Translation with GPUs (part 3) | NVIDIA Developer Blog",
+                "https://developer.nvidia.com/blog/introduction-neural-machine-translation-gpus-part-3/"
+            ],
+            [
+                "Text Summarization from scratch using Encoder-Decoder network with Attention in Keras | by Varun Saravanan | Towards Data Science",
+                "https://towardsdatascience.com/text-summarization-from-scratch-using-encoder-decoder-network-with-attention-in-keras-5fa80d12710e"
+            ],
+            [
+                "Keras implementation of an encoder decoder for time series prediction",
+                "https://awaywithideas.com/keras-implementation-of-a-sequence-to-sequence-model-for-time-series-prediction-using-an-encoder-decoder-architecture/"
+            ],
+            [
+                "GitHub \u2014 guillaume-chevalier/seq2seq-signal-prediction: Signal forecasting with a Sequence-to-Sequence (seq2seq) Recurrent Neural Network (RNN) model in TensorFlow \u2014 Guillaume Chevalier",
+                "https://github.com/guillaume-chevalier/seq2seq-signal-prediction"
+            ],
+            [
+                "You searched for Encoder decoder \u2014 Machine Learning Mastery",
+                "https://machinelearningmastery.com/?s=+Encoder+decoder&post_type=post&submit=Search"
+            ],
+            [
+                "Google AI Blog: Introducing tf-seq2seq: An Open Source Sequence-to-Sequence Framework in TensorFlow",
+                "https://ai.googleblog.com/2017/04/introducing-tf-seq2seq-open-source.html?m=1"
+            ],
+            [
+                "Character-level recurrent sequence-to-sequence model",
+                "https://keras.io/examples/nlp/lstm_seq2seq/"
+            ],
+            [
+                "keras/lstm_seq2seq.py at master \u00b7 keras-team/keras \u00b7 GitHub",
+                "https://github.com/keras-team/keras/blob/master/examples/lstm_seq2seq.py"
+            ],
+            [
+                "Sequence to sequence learning for performing number addition",
+                "https://keras.io/examples/nlp/addition_rnn/"
+            ],
+            [
+                "Seq2Seq Model | Sequence To Sequence With Attention",
+                "https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/"
+            ],
+            [
+                "lstm_seq2seq \u2014 Colaboratory",
+                "https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/nlp/ipynb/lstm_seq2seq.ipynb#scrollTo=F5tl6jPboC1S"
+            ],
+            [
+                "lstm_seq2seq \u2014 Colaboratory",
+                "https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/nlp/ipynb/lstm_seq2seq.ipynb#scrollTo=4tC9u5TOoC1l"
+            ]
+        ],
+        "h1": "seq2seq"
+    },
+    {
+        "aa": [
+            [
+                "How to Install Tensorflow-GPU version with Jupyter (Windows 10) in 8 easy steps.",
+                "/@viveksingh.heritage/how-to-install-tensorflow-gpu-version-with-jupyter-windows-10-in-8-easy-steps-8797547028a4"
+            ],
+            [
+                "Access your Jupyter Notebook running on Windows 10 from any computer",
+                "/@joelclay/access-your-jupyter-notebook-running-on-windows-10-from-any-computer-427bb06309ce"
+            ],
+            [
+                "Running a notebook server \u2014 Jupyter Notebook 6.0.0.dev0 documentation",
+                "https://jupyter-notebook.readthedocs.io/en/latest/public_server.html"
+            ],
+            [
+                "JupyterHub \u2014 JupyterHub 1.0.0.dev documentation",
+                "https://jupyterhub.readthedocs.io/en/latest/"
+            ],
+            [
+                "Compatible Video Card for Windows Server 2012",
+                "https://social.technet.microsoft.com/Forums/en-US/23ebba5f-5022-4c88-939a-7c67795e737f/compatible-video-card-for-windows-server-2012?forum=winserver8gen"
+            ],
+            [
+                "Windows Server Catalog",
+                "https://www.windowsservercatalog.com/results.aspx?&bCatID=1564&cpID=7850&avc=10&ava=0&avt=0&avq=0&OR=1&PGS=25"
+            ],
+            [
+                "Build and Setup Your Own Deep Learning Server From Scratch",
+                "https://towardsdatascience.com/build-and-setup-your-own-deep-learning-server-from-scratch-e771dacaa252"
+            ],
+            [
+                "Keras as a simplified interface to TensorFlow: tutorial",
+                "https://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html#multi-gpu-and-distributed-training"
+            ],
+            [
+                "Question \u2014 Quora",
+                "https://www.quora.com/Can-I-run-multiple-deep-learning-models-on-the-same-GPU"
+            ],
+            [
+                "Jupyter Notebook Extensions \u2014 Towards Data Science",
+                "https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231"
+            ],
+            [
+                "Building your own Deep Learning dream machine \u2014 Yanda\u2019s Blog \u2014 Medium",
+                "/yanda/building-your-own-deep-learning-dream-machine-4f02ccdb0460"
+            ],
+            [
+                "Picking a GPU for Deep Learning \u2014 Slav",
+                "https://blog.slavv.com/picking-a-gpu-for-deep-learning-3d4795c273b9"
+            ],
+            [
+                "The $1700 great Deep Learning box: Assembly, setup and benchmarks",
+                "https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415"
+            ],
+            [
+                "Which GPU(s) to Get for Deep Learning",
+                "http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/"
+            ]
+        ],
+        "h1": "Setup"
+    },
+    {
+        "aa": [
+            [
+                "Self Organizing Maps \u2014 Towards Data Science",
+                "https://towardsdatascience.com/self-organizing-maps-1b7d2a84e065"
+            ],
+            [
+                "Introduction to Self-Organizing Maps (SOMs) \u2014 Heartbeat",
+                "https://heartbeat.fritz.ai/introduction-to-self-organizing-maps-soms-98e88b568f5d"
+            ],
+            [
+                "Self-Organizing Maps Tutorial \u2014 Algobeans",
+                "https://annalyzin.wordpress.com/2017/11/02/self-organizing-map/"
+            ]
+        ],
+        "h1": "SOM"
+    },
+    {
+        "aa": [
+            [
+                "SpeechBrain: A PyTorch Speech Toolkit",
+                "https://speechbrain.github.io/"
+            ],
+            [
+                "Introduction_to_SpeechBrain.ipynb \u2014 Colaboratory",
+                "https://colab.research.google.com/drive/12bg3aUdr9mTfOGqcB5pSMABoIKPgiwcM?usp=sharing#scrollTo=Zto6xdG6ZRm1"
+            ]
+        ],
+        "h1": "Speech"
+    },
+    {
+        "aa": [
+            [
+                "What is Deep Learning? \u2014 Machine Learning Mastery",
+                "http://machinelearningmastery.com/what-is-deep-learning/"
+            ],
+            [
+                "A Beginner\u2019s Guide to Neural Networks and Deep Learning | Skymind",
+                "https://skymind.ai/wiki/neural-network"
+            ],
+            [
+                "Deep Learning eBook",
+                "http://www.deeplearningbook.org/"
+            ],
+            [
+                "Why do we need machine learning [13 min] (1) \u2014 YouTube",
+                "https://www.youtube.com/watch?v=S3bx8xKpdQE"
+            ],
+            [
+                "Neural networks and deep learning",
+                "http://neuralnetworksanddeeplearning.com/chap1.html"
+            ],
+            [
+                "Python Online Interactive Open Course",
+                "https://campus.datacamp.com/courses/introduction-to-python-machine-learning-with-analytics-vidhya-hackathons/introduction-to-python-for-data-analysis?ex=1"
+            ],
+            [
+                "A Complete Guide on Getting Started with Deep Learning in Python",
+                "https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/"
+            ],
+            [
+                "Learn R, Python & Data Science Online | DataCamp",
+                "https://www.datacamp.com/?utm_source=mailer&utm_medium=email&utm_campaign=data_science_overview"
+            ],
+            [
+                "CSE352 ARTIFICIAL INTELLIGENCE",
+                "http://www3.cs.stonybrook.edu/%7Ecse352/"
+            ],
+            [
+                "A Neural Network Playground",
+                "http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.49471&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false"
+            ],
+            [
+                "A Beginner\u2019s Guide To Understanding Convolutional Neural Networks \u2014 Adit Deshpande \u2014 CS Undergrad at UCLA (\u201819)",
+                "https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/"
+            ],
+            [
+                "Multiclass SVM optimization demo",
+                "http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/"
+            ],
+            [
+                "Deep Learning",
+                "http://www.cedar.buffalo.edu/%7Esrihari/CSE676/"
+            ],
+            [
+                "CMSC 35246 Deep Learning \u2014 University of Chicago",
+                "http://ttic.uchicago.edu/%7Eshubhendu/Pages/CMSC35246.html"
+            ],
+            [
+                "courses:deeplearning2015:start | CILVR Lab @ NYU",
+                "https://cilvr.cs.nyu.edu/doku.php?id=courses:deeplearning2015:start"
+            ],
+            [
+                "Deep Learning in Computer Vision \u2014 Winter 2016",
+                "http://www.cs.utoronto.ca/%7Efidler/teaching/2015/CSC2523.html#introduction"
+            ],
+            [
+                "MNIST For ML Beginners | TensorFlow",
+                "https://www.tensorflow.org/versions/r1.1/get_started/mnist/beginners"
+            ],
+            [
+                "Neural Networks Tutorial \u2014 A Pathway to Deep Learning \u2014 Adventures in Machine Learning",
+                "https://adventuresinmachinelearning.com/neural-networks-tutorial/"
+            ],
+            [
+                "Dive into Deep Learning \u2014 Dive into Deep Learning 0.14.3 documentation",
+                "https://d2l.ai/index.html"
+            ],
+            [
+                "Deep Learning",
+                "https://www.deeplearningbook.org/"
+            ],
+            [
+                "start [Machine Learning Engineering book by Andriy Burkov]",
+                "http://www.mlebook.com/wiki/doku.php?id=start"
+            ],
+            [
+                "GitHub \u2014 jermwatt/machine_learning_refined: Notes, examples, and Python demos for the textbook \u201cMachine Learning Refined\u201d (published by Cambridge University Press).",
+                "https://github.com/jermwatt/machine_learning_refined#get-a-copy-of-the-book"
+            ],
+            [
+                "(Tutorial) Probability Distributions in Python \u2014 DataCamp",
+                "https://www.datacamp.com/community/tutorials/probability-distributions-python"
+            ],
+            [
+                "Intro to Deep Learning (ML Intensive at X) \u2014 YouTube",
+                "https://m.youtube.com/watch?v=AhE8RhPGH1A&feature=youtu.be"
+            ],
+            [
+                "Linear Algebra \u2014 Math for Machine Learning \u2014 YouTube",
+                "https://www.youtube.com/watch?v=uZeDTwWcnuY"
+            ],
+            [
+                "Scikit-learn Crash Course \u2014 Machine Learning Library for Python \u2014 YouTube",
+                "https://www.youtube.com/watch?v=0B5eIE_1vpU"
+            ]
+        ],
+        "h1": "Start"
+    },
+    {
+        "aa": [
+            [
+                "The Scuffle Between Two Algorithms -Neural Network vs. Support Vector Machine",
+                "/analytics-vidhya/the-scuffle-between-two-algorithms-neural-network-vs-support-vector-machine-16abe0eb4181"
+            ],
+            [
+                "Transfer learning from pre-trained models \u2014 Towards Data Science",
+                "https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751"
+            ],
+            [
+                "Implementing SVM and Kernel SVM with Python\u2019s Scikit-Learn",
+                "https://stackabuse.com/implementing-svm-and-kernel-svm-with-pythons-scikit-learn/"
+            ]
+        ],
+        "h1": "SVN"
+    },
+    {
+        "aa": [
+            [
+                "Google AI Blog: Accelerating Deep Learning Research with the Tensor2Tensor Library",
+                "https://ai.googleblog.com/2017/06/accelerating-deep-learning-research.html"
+            ],
+            [
+                "GitHub \u2014 tensorflow/tensor2tensor: Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
+                "https://github.com/tensorflow/tensor2tensor"
+            ],
+            [
+                "Training Cutting-Edge Neural Networks with Tensor2Tensor and 10 lines of code",
+                "/data-from-the-trenches/training-cutting-edge-neural-networks-with-tensor2tensor-and-10-lines-of-code-10973c030b8"
+            ],
+            [
+                "Tensor2Tensor and One Model to Learn them all \u2014 Towards Data Science",
+                "https://towardsdatascience.com/tensor2tensor-and-one-model-to-learn-them-all-7ef3f9b61ba4"
+            ]
+        ],
+        "h1": "T2T"
+    },
+    {
+        "aa": [
+            [
+                "Multi-Class Text Classification with Scikit-Learn | by Susan Li | Towards Data Science",
+                "https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f"
+            ],
+            [
+                "Text classification from scratch",
+                "https://keras.io/examples/nlp/text_classification_from_scratch/"
+            ],
+            [
+                "Basic text classification | TensorFlow Core",
+                "https://www.tensorflow.org/tutorials/keras/text_classification?hl=en"
+            ],
+            [
+                "Introduction | Text classification guide | Google Developers",
+                "https://developers.google.com/machine-learning/guides/text-classification/"
+            ]
+        ],
+        "h1": "Text Classification"
+    },
+    {
+        "aa": [
+            [
+                "Novel Methods For Text Generation Using Adversarial Learning & Autoencoders | TOPBOTS",
+                "https://www.topbots.com/ai-research-gan-vae-text-generation/"
+            ],
+            [
+                "GitHub \u2014 CR-Gjx/LeakGAN: The codes of paper \u201cLong Text Generation via Adversarial Training with Leaked Information\u201d on AAAI 2018. Text generation using GAN and Hierarchical Reinforcement Learning.",
+                "https://github.com/CR-Gjx/LeakGAN"
+            ],
+            [
+                "Neural text generation: How to generate text using conditional language models | by Neil Yager | Phrasee | Medium",
+                "/phrasee/neural-text-generation-generating-text-using-conditional-language-models-a37b69c7cd4b"
+            ],
+            [
+                "Unsupervised Sentiment Neuron",
+                "https://openai.com/blog/unsupervised-sentiment-neuron/"
+            ],
+            [
+                "Plug and Play Language Models: A Simple Approach to Controlled Text Generation | AISC \u2014 YouTube",
+                "https://m.youtube.com/watch?v=q3Q_LTetx9o&feature=youtu.be"
+            ],
+            [
+                "How to generate text: using different decoding methods for language generation with Transformers",
+                "https://huggingface.co/blog/how-to-generate"
+            ],
+            [
+                "machine learning \u2014 What is the difference between word-based and char-based text generation RNNs? \u2014 Data Science Stack Exchange",
+                "https://datascience.stackexchange.com/questions/13138/what-is-the-difference-between-word-based-and-char-based-text-generation-rnns"
+            ],
+            [
+                "Text Generation | Papers With Code",
+                "https://paperswithcode.com/task/text-generation"
+            ],
+            [
+                "Controllable Neural Text Generation",
+                "https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html"
+            ],
+            [
+                "How to sample from language models | by Ben Mann | Towards Data Science",
+                "https://towardsdatascience.com/how-to-sample-from-language-models-682bceb97277"
+            ],
+            [
+                "COLING 2020: Exploring Controllable Text Generation Techniques \u2014 Shrimai Prabhumoye \u2014 YouTube",
+                "https://www.youtube.com/watch?v=khTYgGHLDqE"
+            ],
+            [
+                "COLING 2020: Exploring Controllable Text Generation Techniques \u2014 Shrimai Prabhumoye \u2014 YouTube",
+                "https://www.youtube.com/watch?v=khTYgGHLDqE&t=361s"
+            ],
+            [
+                "A Distributional Approach to Controlled Text Generation | NLP Journal Club \u2014 YouTube",
+                "https://www.youtube.com/watch?v=RJ9TT81i338"
+            ],
+            [
+                "TextXD2018 \u2014 See \u2014 Controlling text generation for a better chatbot \u2014 YouTube",
+                "https://www.youtube.com/watch?v=uqPTpUyHZJE"
+            ],
+            [
+                "CoCon: A Self-Supervised Approach for Controlled Text Generation \u2014 YouTube",
+                "https://m.youtube.com/watch?v=f-DjgIMn02k&feature=youtu.be"
+            ],
+            [
+                "Recent Advances in Language Model Fine-tuning",
+                "https://ruder.io/recent-advances-lm-fine-tuning/"
+            ],
+            [
+                "A guide to language model sampling in AllenNLP | by Jackson Stokes | AI2 Blog | Medium",
+                "/ai2-blog/a-guide-to-language-model-sampling-in-allennlp-3b1239274bc3"
+            ],
+            [
+                "How to Implement a Beam Search Decoder for Natural Language Processing",
+                "https://machinelearningmastery.com/beam-search-decoder-natural-language-processing/"
+            ],
+            [
+                "Text generation with a miniature GPT",
+                "https://keras.io/examples/generative/text_generation_with_miniature_gpt/"
+            ],
+            [
+                "Generate Blog Posts with GPT2 & Hugging Face Transformers | AI Text Generation GPT2-Large \u2014 YouTube",
+                "https://www.youtube.com/watch?v=cHymMt1SQn8"
+            ],
+            [
+                "jsvine/markovify: A simple, extensible Markov chain generator.",
+                "https://github.com/jsvine/markovify"
+            ],
+            [
+                "A neural probabilistic language model | The Journal of Machine Learning Research",
+                "https://dl.acm.org/doi/10.5555/944919.944966"
+            ],
+            [
+                "Conditional Text Generation by Fine Tuning GPT-2 | by Ivan Lai | Jan, 2021 | Towards Data Science",
+                "https://towardsdatascience.com/conditional-text-generation-by-fine-tuning-gpt-2-11c1a9fc639d"
+            ],
+            [
+                "[1810.04805] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+                "https://arxiv.org/abs/1810.04805"
+            ],
+            [
+                "DialoGPT \u2014 Microsoft Research",
+                "https://www.microsoft.com/en-us/research/project/large-scale-pretraining-for-response-generation/"
+            ],
+            [
+                "Google\u2019s Next AI Move: Teaching Foreign Languages \u2014 The Information",
+                "https://www.theinformation.com/articles/googles-next-ai-move-teaching-foreign-languages"
+            ],
+            [
+                "Falsehoods more likely with large language models | VentureBeat",
+                "https://venturebeat.com/2021/09/20/falsehoods-more-likely-with-large-language-models/"
+            ],
+            [
+                "Google AI Blog: Introducing FLAN: More generalizable Language Models with Instruction Fine-Tuning",
+                "https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html"
+            ]
+        ],
+        "h1": "Text Generation"
+    },
+    {
+        "aa": [
+            [
+                "[1801.10198] Generating Wikipedia by Summarizing Long Sequences",
+                "https://arxiv.org/abs/1801.10198"
+            ],
+            [
+                "Generate Summaries using Google\u2019s Pegasus library | by Chetan Ambi | Medium",
+                "https://chetanambi.medium.com/generate-summaries-using-googles-pegasus-library-772633a161c2"
+            ],
+            [
+                "Text Summarization made easy(2) , Text Representation | by amr zaki | HackerNoon.com | Medium",
+                "/hackernoon/abstractive-text-summarization-tutorial-2-text-representation-made-very-easy-ef4511a1a46"
+            ]
+        ],
+        "h1": "Text Summarization"
+    },
+    {
+        "aa": [
+            [
+                "GitHub \u2014 llSourcell/how_to_convert_text_to_images: This is the code for \u201cHow to Convert Text to Images \u2014 Intro to Deep Learning #16' by Siraj Raval on YouTube",
+                "https://github.com/llSourcell/how_to_convert_text_to_images"
+            ],
+            [
+                "(16) How to Convert Text to Images \u2014 Intro to Deep Learning #16 \u2014 YouTube",
+                "https://www.youtube.com/watch?v=gmvRStL_Dag"
+            ],
+            [
+                "[1903.05854] MirrorGAN: Learning Text-to-image Generation by Redescription",
+                "https://arxiv.org/abs/1903.05854"
+            ],
+            [
+                "Text-to-Image Synthesis \u2014 Data Driven Investor \u2014 Medium",
+                "/datadriveninvestor/text-to-image-synthesis-6e5de1bf86ec"
+            ]
+        ],
+        "h1": "Text to Image"
+    },
+    {
+        "aa": [
+            [
+                "Beginners Guide to Topic Modeling in Python and Feature Selection",
+                "https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/"
+            ],
+            [
+                "NLP: Extracting the main topics from your dataset using LDA in minutes | by Priya Dwivedi | Towards Data Science",
+                "https://towardsdatascience.com/nlp-extracting-the-main-topics-from-your-dataset-using-lda-in-minutes-21486f5aa925"
+            ],
+            [
+                "Keyword Extraction Techniques using Python | by Ajay Alex | Analytics Vidhya | Medium",
+                "/analytics-vidhya/keyword-extraction-techniques-using-python-edea5fc35678"
+            ],
+            [
+                "10 Popular Keyword Extraction Algorithms in Natural Language Processing | by Prakhar Mishra | MLearning.ai | Medium",
+                "/mlearning-ai/10-popular-keyword-extraction-algorithms-in-natural-language-processing-8975ada5750c"
+            ]
+        ],
+        "h1": "Text Topic Keyword Extraction"
+    },
+    {
+        "aa": [
+            [
+                "TensorFlow",
+                "https://www.tensorflow.org/"
+            ],
+            [
+                "Simple end-to-end TensorFlow examples \u2014 Bcomposes",
+                "http://bcomposes.com/2015/11/26/simple-end-to-end-tensorflow-examples/"
+            ],
+            [
+                "TensorFlow",
+                "https://www.tensorflow.org/"
+            ],
+            [
+                "Installing TensorFlow on Windows | TensorFlow",
+                "https://www.tensorflow.org/install/install_windows"
+            ],
+            [
+                "TensorFlow Tutorials",
+                "https://www.tensorflow.org/tutorials/"
+            ],
+            [
+                "A Guide to TF Layers: Building a Convolutional Neural Network | TensorFlow",
+                "https://www.tensorflow.org/tutorials/layers"
+            ],
+            [
+                "TensorFlow or Keras? Which one should I learn? \u2014 Imploding Gradients \u2014 Medium",
+                "/implodinggradients/tensorflow-or-keras-which-one-should-i-learn-5dd7fa3f9ca0"
+            ],
+            [
+                "Learning TensorFlow :: Arrays and working with Images",
+                "https://learningtensorflow.com/lesson3/"
+            ],
+            [
+                "GitHub \u2014 aymericdamien/TensorFlow-Examples: TensorFlow Tutorial and Examples for Beginners with Latest APIs",
+                "https://github.com/aymericdamien/TensorFlow-Examples"
+            ],
+            [
+                "Feeding your own data set into the CNN model in TensorFlow \u2014 Knowledge Transfer",
+                "http://androidkt.com/feeding-your-own-data-set-into-the-cnn-model-in-tensorflow/"
+            ],
+            [
+                "Step by Step, A Tutorial on How to Feed Your Own Image Data to Tensorflow | yeephycho",
+                "http://yeephycho.github.io/2016/08/15/image-data-in-tensorflow/"
+            ],
+            [
+                "Keras Documentation",
+                "https://keras.io/"
+            ],
+            [
+                "Evaluate the Performance Of Deep Learning Models in Keras",
+                "https://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/"
+            ],
+            [
+                "Deep learning using Keras \u2014 The Basics | Learn OpenCV",
+                "https://www.learnopencv.com/deep-learning-using-keras-the-basics/"
+            ],
+            [
+                "Keras Tutorial : Using pre-trained ImageNet models | Learn OpenCV",
+                "https://www.learnopencv.com/keras-tutorial-using-pre-trained-imagenet-models/"
+            ],
+            [
+                "How to Use the Keras Functional API for Deep Learning",
+                "https://machinelearningmastery.com/keras-functional-api-deep-learning/"
+            ],
+            [
+                "FAQ \u2014 Keras Documentation",
+                "https://keras.io/getting-started/faq/#how-can-i-obtain-the-output-of-an-intermediate-layer"
+            ],
+            [
+                "python \u2014 Keras, How to get the output of each layer? \u2014 Stack Overflow",
+                "https://stackoverflow.com/questions/41711190/keras-how-to-get-the-output-of-each-layer"
+            ],
+            [
+                "Visualize CNN with keras | Kaggle",
+                "https://www.kaggle.com/amarjeet007/visualize-cnn-with-keras"
+            ],
+            [
+                "Understanding Keras tensors \u2014 Emmanuel Caradec \u2014 Medium",
+                "/@ecaradec/understanding-keras-tensors-d405a63e069e"
+            ],
+            [
+                "Guide to the Functional API \u2014 Keras Documentation",
+                "https://keras.io/getting-started/functional-api-guide/"
+            ],
+            [
+                "Dissecting Keras neural networks: accessing weights and hidden layers \u2014 ITN Spotlight",
+                "https://itnspotlight.com/dissecting-keras-neural-networks-accessing-weights-and-hidden-layers/"
+            ],
+            [
+                "Dissecting Keras neural networks: accessing weights and hidden layers \u2014 ITN Spotlight",
+                "https://itnspotlight.com/dissecting-keras-neural-networks-accessing-weights-and-hidden-layers/"
+            ],
+            [
+                "Advanced Keras \u2014 Accurately Resuming a Training Process",
+                "https://towardsdatascience.com/resuming-a-training-process-with-keras-3e93152ee11a"
+            ],
+            [
+                "A detailed example of data generators with Keras",
+                "https://stanford.edu/%7Eshervine/blog/keras-how-to-generate-data-on-the-fly"
+            ],
+            [
+                "Keras data generators and how to use them \u2014 Towards Data Science",
+                "https://towardsdatascience.com/keras-data-generators-and-how-to-use-them-b69129ed779c"
+            ],
+            [
+                "*** Creating custom data generator for training Deep Learning Models-Part 1",
+                "/@anuj_shah/creating-custom-data-generator-for-training-deep-learning-models-part-1-5c62b20cff26"
+            ],
+            [
+                "*** Creating custom data generator for training Deep Learning Models-Part 2",
+                "/@anuj_shah/creating-custom-data-generator-for-training-deep-learning-models-part-2-be9ad08f3f0e"
+            ],
+            [
+                "4 Awesome things you can do with Keras and the code you need to make it happen",
+                "https://towardsdatascience.com/4-awesome-things-you-can-do-with-keras-and-the-code-you-need-to-make-it-happen-858f022eec85"
+            ],
+            [
+                "Advanced Keras \u2014 Constructing Complex Custom Losses and Metrics",
+                "https://www.kdnuggets.com/2019/04/advanced-keras-constructing-complex-custom-losses-metrics.html"
+            ],
+            [
+                "Keras vs. tf.keras: What\u2019s the difference in TensorFlow 2.0? \u2014 PyImageSearch",
+                "https://www.pyimagesearch.com/2019/10/21/keras-vs-tf-keras-whats-the-difference-in-tensorflow-2-0/"
+            ],
+            [
+                "tf.keras for Researchers: Crash Course.ipynb \u2014 Colaboratory",
+                "https://colab.research.google.com/drive/17u-pRZJnKN0gO5XZmq8n5A2bKGrfKEUg"
+            ],
+            [
+                "Ten Important Updates from TensorFlow 2.0 (article) \u2014 DataCamp",
+                "https://www.datacamp.com/community/tutorials/ten-important-updates-tensorflow"
+            ],
+            [
+                "TensorFlow Core",
+                "https://www.tensorflow.org/tutorials"
+            ],
+            [
+                "flowers_tf_lite.ipynb \u2014 Colaboratory",
+                "https://colab.research.google.com/github/tensorflow/examples/blob/master/community/en/flowers_tf_lite.ipynb"
+            ],
+            [
+                "Automatically upgrade code to TensorFlow 2 | TensorFlow Core",
+                "https://www.tensorflow.org/guide/upgrade"
+            ],
+            [
+                "Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences | by Nils Ackermann | Good Audience",
+                "https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf"
+            ]
+        ],
+        "h1": "TF Keras"
+    },
+    {
+        "aa": [
+            [
+                "[TensorFlow 2.0] Load Images to tensorflow | by A Ydobon | Medium",
+                "https://financial-engineering.medium.com/tensorflow-2-0-load-images-to-tensorflow-897b8b067fc2"
+            ],
+            [
+                "Building a data pipeline",
+                "https://cs230.stanford.edu/blog/datapipeline/"
+            ],
+            [
+                "Load text | TensorFlow Core",
+                "https://www.tensorflow.org/tutorials/load_data/text"
+            ],
+            [
+                "python \u2014 How to use windows created by the Dataset.window() method in TensorFlow 2.0? \u2014 Stack Overflow",
+                "https://stackoverflow.com/questions/55429307/how-to-use-windows-created-by-the-dataset-window-method-in-tensorflow-2-0"
+            ]
+        ],
+        "h1": "tf.data"
+    },
+    {
+        "aa": [
+            [
+                "A Gentle Introduction to Autocorrelation and Partial Autocorrelation",
+                "https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/"
+            ],
+            [
+                "Time Series Data Visualization with Python",
+                "https://machinelearningmastery.com/time-series-data-visualization-with-python/"
+            ],
+            [
+                "Complete guide to create a Time Series Forecast (with Codes in Python)",
+                "https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/"
+            ],
+            [
+                "How To Resample and Interpolate Your Time Series Data With Python",
+                "https://machinelearningmastery.com/resample-interpolate-time-series-data-python/"
+            ],
+            [
+                "How to Create an ARIMA Model for Time Series Forecasting in Python",
+                "https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/"
+            ],
+            [
+                "How to do step by step time series ARIMA analysis in Python \u2014 Quora",
+                "https://www.quora.com/How-can-I-do-step-by-step-time-series-ARIMA-analysis-in-Python"
+            ],
+            [
+                "Time Series Analysis in Python | Time Series Forecasting | Data Science with Python | Edureka \u2014 YouTube",
+                "https://www.youtube.com/watch?v=e8Yw4alG16Q"
+            ],
+            [
+                "etcrago/Tutorial-Arima-w-jeffrey-yau",
+                "https://github.com/etcrago/Tutorial-Arima-w-jeffrey-yau"
+            ],
+            [
+                "(9) Jeffrey Yau | Applied Time Series Econometrics in Python and R \u2014 YouTube",
+                "https://www.youtube.com/watch?v=tJ-O3hk1vRw"
+            ],
+            [
+                "(9) Autocorrelation \u2014 YouTube",
+                "https://www.youtube.com/watch?v=QDrmpphIfLE"
+            ],
+            [
+                "(9) Autoregressive model for forecast errors \u2014 YouTube",
+                "https://www.youtube.com/watch?v=4WWQWeMXvas"
+            ],
+            [
+                "(9) Business Analytics Using Forecasting (Intro) \u2014 YouTube",
+                "https://www.youtube.com/watch?v=y5HG8ZQ_mfE&list=PLoK4oIB1jeK0LHLbZW3DTT05e4srDYxFq"
+            ],
+            [
+                "Methods to improve Time series forecast (including ARIMA, Holt\u2019s winter)",
+                "https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/"
+            ],
+            [
+                "Using AIC to Test ARIMA Models | CoolStatsBlog",
+                "https://coolstatsblog.com/2013/08/14/using-aic-to-test-arima-models-2/"
+            ],
+            [
+                "Lesson 1: Time Series Basics | STAT 510",
+                "https://onlinecourses.science.psu.edu/stat510/node/41/"
+            ],
+            [
+                "Basic Time Series Manipulation with Pandas \u2014 Towards Data Science",
+                "https://towardsdatascience.com/basic-time-series-manipulation-with-pandas-4432afee64ea"
+            ],
+            [
+                "Handling Missing Values In Time Series",
+                "https://chrisalbon.com/machine_learning/preprocessing_dates_and_times/handling_missing_values_in_time_series/"
+            ],
+            [
+                "The tale of missing values in Python \u2014 Towards Data Science",
+                "https://towardsdatascience.com/the-tale-of-missing-values-in-python-c96beb0e8a9d"
+            ],
+            [
+                "Understand Time Series Forecast Uncertainty Using Confidence Intervals with Python",
+                "https://machinelearningmastery.com/time-series-forecast-uncertainty-using-confidence-intervals-python/"
+            ],
+            [
+                "CO2 Emission Forecast with Python (Seasonal ARIMA) | Kaggle",
+                "https://www.kaggle.com/berhag/co2-emission-forecast-with-python-seasonal-arima"
+            ],
+            [
+                "Autocorrelation",
+                "https://m.youtube.com/watch?v=ZjaBn93YPWo&feature=youtu.be"
+            ],
+            [
+                "Hourly Time Series forecasting with XGBoost | Kaggle",
+                "https://www.kaggle.com/robikscube/hourly-time-series-forecasting-with-xgboost"
+            ],
+            [
+                "Using XGBoost in Python (article) \u2014 DataCamp",
+                "https://www.datacamp.com/community/tutorials/xgboost-in-python"
+            ],
+            [
+                "Open Machine Learning Course. Topic 9. Part 1. Time series analysis in Python",
+                "/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3"
+            ],
+            [
+                "YouTube",
+                "https://m.youtube.com/watch?v=VYpAodcdFfA&feature=youtu.be"
+            ],
+            [
+                "YouTube",
+                "https://m.youtube.com/watch?feature=youtu.be&v=msFkHl7P28k"
+            ],
+            [
+                "Playing with time series data in python \u2014 Towards Data Science",
+                "https://towardsdatascience.com/playing-with-time-series-data-in-python-959e2485bff8"
+            ],
+            [
+                "Forecasting Time-Series data with Prophet \u2014 Part 1 \u2014 Python Data",
+                "https://pythondata.com/forecasting-time-series-data-with-prophet-part-1/"
+            ],
+            [
+                "Time Series Forecasts using Facebook\u2019s Prophet (with Python & R codes)",
+                "https://www.analyticsvidhya.com/blog/2018/05/generate-accurate-forecasts-facebook-prophet-python-r/"
+            ],
+            [
+                "A Guide to Time Series Forecasting with Prophet in Python 3 | DigitalOcean",
+                "https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-prophet-in-python-3"
+            ],
+            [
+                "[Tutorial] Time Series forecasting with Prophet | Kaggle",
+                "https://www.kaggle.com/robikscube/tutorial-time-series-forecasting-with-prophet"
+            ],
+            [
+                "sklearn.model_selection.TimeSeriesSplit \u2014 scikit-learn 0.20.0 documentation",
+                "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html"
+            ],
+            [
+                "Prophet | Prophet is a forecasting procedure implemented in R and Python. It is fast and provides completely automated forecasts that can be tuned by hand by data scientists and analysts.",
+                "https://facebook.github.io/prophet/"
+            ],
+            [
+                "Data Science \u2014 Part X \u2014 Time Series Forecasting \u2014 YouTube",
+                "https://m.youtube.com/watch?v=msFkHl7P28k&feature=youtu.be"
+            ],
+            [
+                "Time Series Analysis \u2014 Artificial Neural Networks | Kaggle",
+                "https://www.kaggle.com/abhishekmamidi/time-series-analysis-artificial-neural-networks?utm_medium=email&utm_source=intercom&utm_campaign=datanotes-20181129"
+            ],
+            [
+                "Share GPU memory for different users in keras and tensorflow \u2014 Stack Overflow",
+                "https://stackoverflow.com/questions/48145599/share-gpu-memory-for-different-users-in-keras-and-tensorflow"
+            ],
+            [
+                "Applying Deep Learning to Time Series Forecasting with TensorFlow | MapR",
+                "https://mapr.com/blog/deep-learning-tensorflow/"
+            ],
+            [
+                "Are we producing enough FOOD?? Simple Time Series | Kaggle",
+                "https://www.kaggle.com/farazrahman/are-we-producing-enough-food-simple-time-series"
+            ],
+            [
+                "Time Series Forecast : A basic introduction using Python.",
+                "/@stallonejacob/time-series-forecast-a-basic-introduction-using-python-414fcb963000"
+            ]
+        ],
+        "h1": "Time Series"
+    },
+    {
+        "aa": [
+            [
+                "Transfer Learning in Keras with Computer Vision Models",
+                "https://machinelearningmastery.com/how-to-use-transfer-learning-when-developing-convolutional-neural-network-models/"
+            ],
+            [
+                "ImageNet: VGGNet, ResNet, Inception, and Xception with Keras \u2014 PyImageSearch",
+                "https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/"
+            ],
+            [
+                "Multi-Label Classification of Satellite Photos of the Amazon Rainforest",
+                "https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-satellite-photos-of-the-amazon-rainforest/"
+            ]
+        ],
+        "h1": "Transfer Learning"
+    },
+    {
+        "aa": [
+            [
+                "Google AI Blog: Transformer: A Novel Neural Network Architecture for Language Understanding",
+                "https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html"
+            ],
+            [
+                "The Illustrated Transformer \u2014 Jay Alammar \u2014 Visualizing machine learning one concept at a time.",
+                "http://jalammar.github.io/illustrated-transformer/"
+            ],
+            [
+                "A Transformer Chatbot Tutorial with TensorFlow 2.0 \u2014 TensorFlow \u2014 Medium",
+                "/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2"
+            ],
+            [
+                "LSTM is dead. Long Live Transformers! \u2014 YouTube",
+                "https://m.youtube.com/watch?feature=youtu.be&v=S27pHKBEp30"
+            ],
+            [
+                "The Annotated Transformer",
+                "http://nlp.seas.harvard.edu/2018/04/03/attention.html"
+            ],
+            [
+                "Tensor2Tensor Intro \u2014 Colaboratory",
+                "https://colab.research.google.com/github/tensorflow/tensor2tensor/blob/master/tensor2tensor/notebooks/hello_t2t.ipynb"
+            ],
+            [
+                "google/trax: Trax \u2014 Deep Learning with Clear Code and Speed",
+                "https://github.com/google/trax"
+            ],
+            [
+                "Illustrated Guide to Transformers Neural Network: A step by step explanation \u2014 YouTube",
+                "https://www.youtube.com/watch?v=4Bdc55j80l8&feature=youtu.be"
+            ],
+            [
+                "Illustrated Guide to Transformers Neural Network: A step by step explanation \u2014 YouTube",
+                "https://m.youtube.com/watch?v=4Bdc55j80l8&feature=youtu.be"
+            ],
+            [
+                "MultiHeadAttention layer",
+                "https://keras.io/api/layers/attention_layers/multi_head_attention/"
+            ],
+            [
+                "tf.keras.layers.MultiHeadAttention | TensorFlow Core v2.4.0",
+                "https://www.tensorflow.org/api_docs/python/tf/keras/layers/MultiHeadAttention"
+            ],
+            [
+                "Transformer model for language understanding | TensorFlow Core",
+                "https://www.tensorflow.org/tutorials/text/transformer"
+            ],
+            [
+                "keras-pos-embd \u00b7 PyPI",
+                "https://pypi.org/project/keras-pos-embd/"
+            ],
+            [
+                "Hugging Face: State-of-the-Art Natural Language Processing in ten lines of TensorFlow 2.0 | by Lysandre Debut | TensorFlow | Medium",
+                "/tensorflow/using-tensorflow-2-for-state-of-the-art-natural-language-processing-102445cda54a"
+            ],
+            [
+                "Visual Guide to Transformer Neural Networks \u2014 (Part 1) Position Embeddings \u2014 YouTube",
+                "https://m.youtube.com/watch?v=dichIcUZfOw&feature=youtu.be"
+            ],
+            [
+                "\ud83e\udd17 Transformers Notebooks \u2014 transformers 4.4.1 documentation",
+                "https://huggingface.co/transformers/notebooks.html"
+            ],
+            [
+                "The Illustrated GPT-2 (Visualizing Transformer Language Models) \u2014 Jay Alammar \u2014 Visualizing machine learning one concept at a time.",
+                "https://jalammar.github.io/illustrated-gpt2/"
+            ],
+            [
+                "The Illustrated Transformer \u2014 Jay Alammar \u2014 Visualizing machine learning one concept at a time.",
+                "https://jalammar.github.io/illustrated-transformer/"
+            ],
+            [
+                "Hugging Face \u2014 The AI community building the future.",
+                "https://huggingface.co/models?filter=tr"
+            ],
+            [
+                "openai/gpt-2: Code for the paper \u201cLanguage Models are Unsupervised Multitask Learners\u201d",
+                "https://github.com/openai/gpt-2"
+            ],
+            [
+                "Jay Alammar \u2014 Visualizing machine learning one concept at a time.",
+                "https://jalammar.github.io/"
+            ],
+            [
+                "Rasa Algorithm Whiteboard \u2014 Transformers & Attention 1: Self Attention \u2014 YouTube",
+                "https://www.youtube.com/watch?app=desktop&feature=youtu.be&v=yGTUuEx3GkA"
+            ],
+            [
+                "A Practical Survey on Faster and Lighter Transformers",
+                "https://arxiv.org/abs/2103.14636"
+            ],
+            [
+                "How GPT3 Works \u2014 Visualizations and Animations \u2014 Jay Alammar \u2014 Visualizing machine learning one concept at a time.",
+                "http://jalammar.github.io/how-gpt3-works-visualizations-animations/"
+            ],
+            [
+                "The Illustrated GPT-2 (Visualizing Transformer Language Models) \u2014 Jay Alammar \u2014 Visualizing machine learning one concept at a time.",
+                "http://jalammar.github.io/illustrated-gpt2/"
+            ],
+            [
+                "GPT-3\u2019s free alternative GPT-Neo is something to be excited about | VentureBeat",
+                "https://venturebeat.com/2021/05/15/gpt-3s-free-alternative-gpt-neo-is-something-to-be-excited-about/"
+            ],
+            [
+                "Text classification with Transformer",
+                "https://keras.io/examples/nlp/text_classification_with_transformer/"
+            ],
+            [
+                "[2105.12723] Aggregating Nested Transformers",
+                "https://arxiv.org/abs/2105.12723?utm_campaign=The%20Batch&utm_medium=email&_hsmi=170433092&_hsenc=p2ANqtz-_i92MK8itDA_S4s1Q3BopLnYKTSidM7PYb8KZTIzG7j6TDN9D-Mkd-P1xyGcNfG9moSsLBl9iPKEi5zpMQimGVA1bs2w&utm_content=170428473&utm_source=hs_email"
+            ]
+        ],
+        "h1": "Transformer"
+    },
+    {
+        "aa": [
+            [
+                "Batch normalization in Neural Networks \u2014 Towards Data Science",
+                "https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c"
+            ],
+            [
+                "How to Accelerate Learning of Deep Neural Networks With Batch Normalization",
+                "https://machinelearningmastery.com/how-to-accelerate-learning-of-deep-neural-networks-with-batch-normalization/"
+            ],
+            [
+                "Alan Bertl | Pretraining a GAN using an autoencoder",
+                "https://alanbertl.com/pretraining-a-gan-using-an-autoencoder/"
+            ],
+            [
+                "How to Reduce Overfitting With Dropout Regularization in Keras",
+                "https://machinelearningmastery.com/how-to-reduce-overfitting-with-dropout-regularization-in-keras/"
+            ],
+            [
+                "Multi-label classification with class weights in Keras \u2014 Stack Overflow",
+                "https://stackoverflow.com/questions/48485870/multi-label-classification-with-class-weights-in-keras"
+            ],
+            [
+                "Handling Imbalanced Datasets in Deep Learning \u2014 Towards Data Science",
+                "https://towardsdatascience.com/handling-imbalanced-datasets-in-deep-learning-f48407a0e758"
+            ],
+            [
+                "Machine Learning \u2014 Multiclass Classification with Imbalanced Dataset",
+                "https://towardsdatascience.com/machine-learning-multiclass-classification-with-imbalanced-data-set-29f6a177c1a#targetText=Multi-class%20classification%20makes%20the,classes%20are%20not%20represented%20equally."
+            ],
+            [
+                "Machine Learning \u2014 Multiclass Classification with Imbalanced Dataset",
+                "https://towardsdatascience.com/machine-learning-multiclass-classification-with-imbalanced-data-set-29f6a177c1a#targetText=Multi-class%20classification%20makes%20the,classes%20are%20not%20represented%20equally."
+            ],
+            [
+                "Image Segmentation: tips and tricks from 39 Kaggle competitions | Neptune Blog",
+                "https://neptune.ai/blog/image-segmentation-tips-and-tricks-from-kaggle-competitions"
+            ],
+            [
+                "Classification on imbalanced data | TensorFlow Core",
+                "https://www.tensorflow.org/tutorials/structured_data/imbalanced_data"
+            ],
+            [
+                "Hyperopt Documentation",
+                "http://hyperopt.github.io/hyperopt/"
+            ],
+            [
+                "What my first Silver Medal taught me about Text Classification and Kaggle in general?",
+                "https://mlwhiz.com/blog/2019/02/19/siver_medal_kaggle_learnings/"
+            ],
+            [
+                "Rules of Machine Learning: | ML Universal Guides | Google Developers",
+                "https://developers.google.com/machine-learning/guides/rules-of-ml#training-serving_skew"
+            ],
+            [
+                "Why machine learning algorithms are hard to tune (and the fix)",
+                "https://engraved.ghost.io/why-machine-learning-algorithms-are-hard-to-tune/"
+            ],
+            [
+                "Keras Tuner",
+                "https://keras-team.github.io/keras-tuner/"
+            ]
+        ],
+        "h1": "Trikcs"
+    },
+    {
+        "aa": [
+            [
+                "TRUBA-barbun \u2014 TRUBA Wiki Sayfas\u0131",
+                "http://wiki.truba.gov.tr/index.php/TRUBA-barbun"
+            ],
+            [
+                "Portal Kullan\u0131m\u0131 \u2014 TRUBA Wiki Sayfas\u0131",
+                "http://wiki.truba.gov.tr/index.php/Portal_Kullan%C4%B1m%C4%B1"
+            ],
+            [
+                "Kullan\u0131c\u0131 El Kitab\u0131 \u2014 TRUBA Wiki Sayfas\u0131",
+                "http://wiki.truba.gov.tr/index.php/Kullan%C4%B1c%C4%B1_El_Kitab%C4%B1"
+            ],
+            [
+                "Anasayfa \u2014 T\u00fcrk Ulusal Bilim e-Altyap\u0131s\u0131",
+                "https://portal.truba.gov.tr/"
+            ],
+            [
+                "Anasayfa \u2014 T\u00fcrk Ulusal Bilim e-Altyap\u0131s\u0131",
+                "https://portal.truba.gov.tr/home"
+            ],
+            [
+                "TRUBA Wiki Sayfas\u0131",
+                "http://wiki.truba.gov.tr/index.php/Ana_sayfa"
+            ],
+            [
+                "Yeni TRUBA Kullan\u0131c\u0131 D\u00f6k\u00fcmanlar\u0131",
+                "https://docs.truba.gov.tr/index.html"
+            ]
+        ],
+        "h1": "Truba"
+    },
+    {
+        "aa": [
+            [
+                "K-fold Cross Validation with TensorFlow and Keras \u2014 MachineCurve",
+                "https://www.machinecurve.com/index.php/2020/02/18/how-to-use-k-fold-cross-validation-with-keras/"
+            ],
+            [
+                "K-Fold Cross Validation for Deep Learning Models using Keras | by Siladittya Manna | The Owl | Medium",
+                "/the-owl/k-fold-cross-validation-in-keras-3ec4a3a00538"
+            ],
+            [
+                "3.1. Cross-validation: evaluating estimator performance \u2014 scikit-learn 0.24.2 documentation",
+                "https://scikit-learn.org/stable/modules/cross_validation.html"
+            ]
+        ],
+        "h1": "Validation Testing"
+    },
+    {
+        "aa": [
+            [
+                "VOT Challenge| Support",
+                "http://www.votchallenge.net/howto/"
+            ]
+        ],
+        "h1": "Video Object Detection"
+    },
+    {
+        "aa": [
+            [
+                "You can now speak using someone else\u2019s voice with Deep Learning",
+                "https://towardsdatascience.com/you-can-now-speak-using-someone-elses-voice-with-deep-learning-8be24368fa2b"
+            ],
+            [
+                "Listen to this AI voice clone of Bill Gates created by Facebook\u2019s engineers \u2014 The Verge",
+                "https://www.theverge.com/2019/6/10/18659897/ai-voice-clone-bill-gates-facebook-melnet-speech-generation"
+            ],
+            [
+                "This AI-generated Joe Rogan fake has to be heard to be believed \u2014 The Verge",
+                "https://www.theverge.com/2019/5/17/18629024/joe-rogan-ai-fake-voice-clone-deepfake-dessa"
+            ]
+        ],
+        "h1": "Voice"
+    },
+    {
+        "aa": [
+            [
+                "A Detailed Explanation of Keras Embedding Layer | Kaggle",
+                "https://www.kaggle.com/rajmehra03/a-detailed-explanation-of-keras-embedding-layer"
+            ],
+            [
+                "A Word2Vec Keras tutorial \u2014 Adventures in Machine Learning",
+                "https://adventuresinmachinelearning.com/word2vec-keras-tutorial/"
+            ],
+            [
+                "Building Recipe Skill Representations Using Skip-Thought Vectors",
+                "https://sourcediving.com/building-recipe-skill-representations-using-skip-thought-vectors-8a6e4c38ae6c"
+            ],
+            [
+                "How to Use Word Embedding Layers for Deep Learning with Keras",
+                "https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/"
+            ],
+            [
+                "Introduction to Word Embedding and Word2Vec \u2014 Towards Data Science",
+                "https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa"
+            ],
+            [
+                "Keras LSTM tutorial \u2014 How to easily build a powerful deep learning language model \u2014 Adventures in Machine Learning",
+                "https://adventuresinmachinelearning.com/keras-lstm-tutorial/"
+            ],
+            [
+                "machine learning \u2014 Explain with example: how embedding layers in keras works \u2014 Stack Overflow",
+                "https://stackoverflow.com/questions/45649520/explain-with-example-how-embedding-layers-in-keras-works"
+            ],
+            [
+                "My thoughts on Skip-Thoughts \u2014 Sanyam Agarwal \u2014 Medium",
+                "/@sanyamagarwal/my-thoughts-on-skip-thoughts-a3e773605efa"
+            ],
+            [
+                "Neural Network Embeddings Explained \u2014 Towards Data Science",
+                "https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526"
+            ],
+            [
+                "Sentiment detection with Keras, word embeddings and LSTM deep learning networks \u00b7 Blog \u00b7 Liip",
+                "https://www.liip.ch/en/blog/sentiment-detection-with-keras-word-embeddings-and-lstm-deep-learning-networks"
+            ],
+            [
+                "Understanding Word Embeddings \u2014 Hacker Noon",
+                "https://hackernoon.com/understanding-word-embeddings-a9ff830403ce"
+            ],
+            [
+                "Using a Keras Embedding Layer to Handle Text Data \u2014 Heartbeat",
+                "https://heartbeat.fritz.ai/using-a-keras-embedding-layer-to-handle-text-data-2c88dc019600"
+            ],
+            [
+                "Vector Representations of Words | TensorFlow | TensorFlow",
+                "https://www.tensorflow.org/tutorials/representation/word2vec"
+            ],
+            [
+                "Word embeddings: exploration, explanation, and exploitation (with code in Python)",
+                "https://towardsdatascience.com/word-embeddings-exploration-explanation-and-exploitation-with-code-in-python-5dac99d5d795"
+            ],
+            [
+                "Word2Vec word embedding tutorial in Python and TensorFlow \u2014 Adventures in Machine Learning",
+                "https://adventuresinmachinelearning.com/word2vec-tutorial-tensorflow/"
+            ],
+            [
+                "Word embeddings | TensorFlow Core",
+                "https://www.tensorflow.org/tutorials/text/word_embeddings"
+            ],
+            [
+                "How to Use Word Embedding Layers for Deep Learning with Keras",
+                "https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/?unapproved=543893&moderation-hash=ebe373766e6095949fd30bd7c04a5ea2#comment-543893"
+            ]
+        ],
+        "h1": "Word Embedding"
+    },
+    {
+        "aa": [
+            [
+                "A Gentle Introduction to XGBoost for Applied Machine Learning",
+                "https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/"
+            ],
+            [
+                "7 Step Mini-Course to Get Started with XGBoost in Python",
+                "https://machinelearningmastery.com/xgboost-python-mini-course/"
+            ],
+            [
+                "RPubs \u2014 Time series forecasting using machine learning",
+                "https://rpubs.com/mattBrown88/TimeSeriesMachineLearning"
+            ]
+        ],
+        "h1": "XGBoost"
+    },
+    {
+        "aa": [],
+        "h1": "Keep Deep Learning :)"
+    },
+    {
+        "aa": [
+            [
+                "share your Comments or Questions",
+                "https://www.youtube.com/post/UgyU_3vLcztTo6rz0E14AaABCQ"
+            ]
+        ],
+        "h1": "Comments or Questions?"
+    },
+    {
+        "aa": [
+            [
+                "YouTube",
+                "https://www.youtube.com/channel/UCrCxCxTFL2ytaDrDYrN4_eA"
+            ],
+            [
+                "Facebook",
+                "https://www.facebook.com/MuratKarakayaAkademi/"
+            ],
+            [
+                "Instagram",
+                "https://www.instagram.com/muratkarakayaakademi/?hl=en"
+            ],
+            [
+                "LinkedIn",
+                "https://www.linkedin.com/in/muratkarakaya/"
+            ],
+            [
+                "GitHub",
+                "https://kmkarakaya.github.io/Deep-Learning-Tutorials/"
+            ],
+            [
+                "Kaggle",
+                "https://www.kaggle.com/kmkarakaya"
+            ],
+            [
+                "Medium",
+                "/@kmkarakaya"
+            ],
+            [
+                "More from Deep Learning Tutorials with Keras",
+                "/deep-learning-with-keras?source=post_page-----24b60e4e2005--------------------------------"
+            ],
+            [
+                "Read more from Deep Learning Tutorials with Keras",
+                "/deep-learning-with-keras?source=post_page-----24b60e4e2005--------------------------------"
+            ],
+            [
+                "",
+                "/?source=post_page-----24b60e4e2005--------------------------------"
+            ],
+            [
+                "About",
+                "https://medium.com/about?autoplay=1&source=post_page-----24b60e4e2005--------------------------------"
+            ],
+            [
+                "Help",
+                "https://help.medium.com/hc/en-us?source=post_page-----24b60e4e2005--------------------------------"
+            ],
+            [
+                "Terms",
+                "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----24b60e4e2005--------------------------------"
+            ],
+            [
+                "Privacy",
+                "https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----24b60e4e2005--------------------------------"
+            ],
+            [
+                "",
+                "https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=post_page&source=post_page-----24b60e4e2005--------------------------------"
+            ],
+            [
+                "",
+                "https://play.google.com/store/apps/details?id=com.medium.reader&source=post_page-----24b60e4e2005--------------------------------"
+            ],
+            [
+                "Get started",
+                "/m/signin?operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdeep-learning-with-keras%2Fbookmarks-to-the-selected-deep-learning-machine-learning-resources-on-the-web-24b60e4e2005&source=post_page--------------------------nav_reg-----------"
+            ],
+            [
+                "",
+                "/@kmkarakaya"
+            ],
+            [
+                "Murat Karakaya",
+                "/@kmkarakaya"
+            ],
+            [
+                "",
+                "/m/signin?actionUrl=%2F_%2Fapi%2Fsubscriptions%2Fnewsletters%2Faa5b1d9930eb&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fdeep-learning-with-keras%2Fbookmarks-to-the-selected-deep-learning-machine-learning-resources-on-the-web-24b60e4e2005&newsletterV3=857404c783b7&newsletterV3Id=aa5b1d9930eb&user=Murat+Karakaya&userId=857404c783b7&source=--------------------------subscribe_user-----------"
+            ],
+            [
+                "",
+                "/@kmkarakaya?source=read_next_recirc---------0---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "Murat Karakaya",
+                "/@kmkarakaya?source=read_next_recirc---------0---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "Deep Learning Tutorials with Keras",
+                "https://medium.com/deep-learning-with-keras?source=read_next_recirc---------0---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "Part C: Prepare The Dataset",
+                "/deep-learning-with-keras/part-c-prepare-the-dataset-6a2b18517da4?source=read_next_recirc---------0---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "",
+                "/deep-learning-with-keras/part-c-prepare-the-dataset-6a2b18517da4?source=read_next_recirc---------0---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "",
+                "/@rusirij?source=read_next_recirc---------1---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "Rusiri Illesinghe",
+                "/@rusirij?source=read_next_recirc---------1---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "Possibilities and inabilities of Recurrent Neural Networks in NLP",
+                "/@rusirij/possibilities-and-inabilities-of-recurrent-neural-networks-in-nlp-a6e73a15c552?source=read_next_recirc---------1---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "",
+                "/@rusirij/possibilities-and-inabilities-of-recurrent-neural-networks-in-nlp-a6e73a15c552?source=read_next_recirc---------1---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "",
+                "/@marvinlanhenke?source=read_next_recirc---------2---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "Marvin Lanhenke",
+                "/@marvinlanhenke?source=read_next_recirc---------2---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "MLearning.ai",
+                "https://medium.com/mlearning-ai?source=read_next_recirc---------2---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "NLP-Day 16: How To Remember Text With Long-Short-Term-Memory (Part 2)",
+                "/mlearning-ai/nlp-day-16-how-to-remember-text-with-long-short-term-memory-part-2-20391f76bb41?source=read_next_recirc---------2---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "",
+                "/mlearning-ai/nlp-day-16-how-to-remember-text-with-long-short-term-memory-part-2-20391f76bb41?source=read_next_recirc---------2---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "",
+                "/@kunalbaidya?source=read_next_recirc---------3---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "Kunal D. Baidya",
+                "/@kunalbaidya?source=read_next_recirc---------3---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "END TO END MODEL(ML & DL) BUILDING FOR TWEET CLASSIFICATION AND DEPLOYMENT USING STREAMLIT",
+                "/@kunalbaidya/end-to-end-model-ml-dl-building-for-tweet-classification-and-deployment-using-streamlit-dff0a2100cd?source=read_next_recirc---------3---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "",
+                "/@kunalbaidya/end-to-end-model-ml-dl-building-for-tweet-classification-and-deployment-using-streamlit-dff0a2100cd?source=read_next_recirc---------3---------------------2ef9e506_fe64_4986_87a4_32d96d856ee5-------"
+            ],
+            [
+                "Help",
+                "https://help.medium.com/hc/en-us"
+            ],
+            [
+                "Status",
+                "https://medium.statuspage.io"
+            ],
+            [
+                "Writers",
+                "https://about.medium.com/creators/"
+            ],
+            [
+                "Blog",
+                "https://blog.medium.com"
+            ],
+            [
+                "Careers",
+                "/jobs-at-medium/work-at-medium-959d1a85284e"
+            ],
+            [
+                "Privacy",
+                "https://policy.medium.com/medium-privacy-policy-f03bf92035c9"
+            ],
+            [
+                "Terms",
+                "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+            ],
+            [
+                "About",
+                "https://medium.com/about?autoplay=1"
+            ],
+            [
+                "Knowable",
+                "https://knowable.fyi"
+            ]
+        ],
+        "h1": "You can access the Murat Karakaya Akademi via:"
+    }
+]

@@ -1,0 +1,2324 @@
+[
+    {
+        "aa": [],
+        "h1": "500+ awesome bookmarks for Data Science & Machine Learning",
+        "hh2": []
+    },
+    {
+        "aa": [
+            [
+                "here",
+                "https://github.com/ranjanudit/data-science-boomarks"
+            ]
+        ],
+        "h1": "How to use this list",
+        "hh2": []
+    },
+    {
+        "aa": [],
+        "h1": "The list",
+        "hh2": []
+    },
+    {
+        "aa": [
+            [
+                "Human and Artificial Intelligence May Be Equally Impossible to Understand",
+                "http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable"
+            ],
+            [
+                "How to deliver on Machine Learning projects \u2014 Insight Data",
+                "https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0"
+            ],
+            [
+                "The body is the missing link for truly intelligent machines | Aeon Ideas",
+                "https://aeon.co/ideas/the-body-is-the-missing-link-for-truly-intelligent-machines"
+            ],
+            [
+                "An Executive\u2019s Primer On Machine Learning",
+                "https://www.altviz.co/article/machine-learning-guide"
+            ],
+            [
+                "The darker side of machine learning | TechCrunch",
+                "https://techcrunch.com/2016/10/26/the-darker-side-of-machine-learning/"
+            ],
+            [
+                "Machine Learning for Humans, Part 2.2: Supervised Learning II",
+                "https://medium.com/machine-learning-for-humans/supervised-learning-2-5c1c23f3560d"
+            ],
+            [
+                "Getting Better at Machine Learning \u2014 Robert Chang \u2014 Medium",
+                "https://medium.com/@rchang/getting-better-at-machine-learning-16b4dd913a1f"
+            ],
+            [
+                "The complexity of social problems is outsmarting the human brain | Aeon Essays",
+                "https://aeon.co/essays/the-complexity-of-social-problems-is-outsmarting-the-human-brain"
+            ],
+            [
+                "Language matters more than ever in the age of AI \u2014 Quartz",
+                "https://qz.com/1005275/language-matters-more-than-ever-in-the-age-of-ai/"
+            ],
+            [
+                "Neuralink and the Brain\u2019s Magical Future \u2014 Wait But Why",
+                "http://waitbutwhy.com/2017/04/neuralink.html"
+            ],
+            [
+                "The Business of Artificial Intelligence",
+                "https://hbr.org/cover-story/2017/07/the-business-of-artificial-intelligence"
+            ],
+            [
+                "An executive\u2019s guide to AI | McKinsey",
+                "https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai"
+            ],
+            [
+                "Machine Bias \u2014 ProPublica",
+                "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing"
+            ],
+            [
+                "We Are Running Out of Time to Make Algorithms Fair",
+                "http://nautil.us/issue/55/trust/are-algorithms-building-the-new-infrastructure-of-racism"
+            ],
+            [
+                "What HBR Gets Wrong About Algorithms and Bias \u00b7 fast.ai",
+                "http://www.fast.ai/2018/08/07/hbr-bias-algorithms/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_195"
+            ],
+            [
+                "Rethinking Fast and Slow in Data Science \u2014 Hacker Noon",
+                "https://hackernoon.com/rethinking-fast-and-slow-in-data-science-b2ce18d5b054?mkt_tok=eyJpIjoiWmpWaFkyUTNZMlZrTldJeiIsInQiOiJ3Qms4dmU3TklzVW9VQ0dWbWYyVmZ4UVJvR3ZBXC9ERStvd3NLRzVwNTBXXC9cL3gwQ3hHNHV6a0Y5b1Zsb3NUT1Ira0x0cTB5RGZtemViYTNHY0VDVjlwOURNQU40YUhFbitkakpSTXNZVlpjZGFyTDRuUDNnOTBaUkdcLzJzOEQwYWoifQ%3D%3D"
+            ],
+            [
+                "An overview of Machine learning and Deep Learning (Lecture at Harvard Business School) \u2014 YouTube",
+                "https://www.youtube.com/watch?v=lsizZGqDszc"
+            ],
+            [
+                "Forecasting at Uber: An Introduction",
+                "https://eng.uber.com/forecasting-introduction/"
+            ],
+            [
+                "Meet Michelangelo: Uber\u2019s Machine Learning Platform",
+                "https://eng.uber.com/michelangelo/"
+            ],
+            [
+                "MLflow: A platform for managing the machine learning lifecycle \u2014 O\u2019Reilly Media",
+                "https://www.oreilly.com/ideas/mlflow-a-platform-for-managing-the-machine-learning-lifecycle?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20180725+data+nl&mkt_tok=eyJpIjoiTlRnMVptVTRZakprTmpZeiIsInQiOiJvRGlBY2kxNkJyWVdYVlN6R21adHgwQnFOM05URDdKdlNyMmtnOXl4UFwvdFwvcURmcEx1eFhPbzJMWHoyWTdtNHo0OUEwZ2FabVhSaUR5UXdRSWE2SXhSRWVocEEwbUhsYjB0N2JydWlpTFp2ZVN4R3N2REZHTmN6Mm5VNFN2VDB1In0%3D"
+            ],
+            [
+                "The five Cs \u2014 O\u2019Reilly Media",
+                "https://www.oreilly.com/ideas/the-five-cs?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20180725+data+nl&mkt_tok=eyJpIjoiTlRnMVptVTRZakprTmpZeiIsInQiOiJvRGlBY2kxNkJyWVdYVlN6R21adHgwQnFOM05URDdKdlNyMmtnOXl4UFwvdFwvcURmcEx1eFhPbzJMWHoyWTdtNHo0OUEwZ2FabVhSaUR5UXdRSWE2SXhSRWVocEEwbUhsYjB0N2JydWlpTFp2ZVN4R3N2REZHTmN6Mm5VNFN2VDB1In0%3D"
+            ],
+            [
+                "How to take machine learning from exploration to implementation \u2014 O\u2019Reilly Media",
+                "https://www.oreilly.com/ideas/how-to-take-machine-learning-from-exploration-to-implementation?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20180725+data+nl&mkt_tok=eyJpIjoiTlRnMVptVTRZakprTmpZeiIsInQiOiJvRGlBY2kxNkJyWVdYVlN6R21adHgwQnFOM05URDdKdlNyMmtnOXl4UFwvdFwvcURmcEx1eFhPbzJMWHoyWTdtNHo0OUEwZ2FabVhSaUR5UXdRSWE2SXhSRWVocEEwbUhsYjB0N2JydWlpTFp2ZVN4R3N2REZHTmN6Mm5VNFN2VDB1In0%3D"
+            ],
+            [
+                "Of oaths and checklists \u2014 O\u2019Reilly Media",
+                "https://www.oreilly.com/ideas/of-oaths-and-checklists?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20180725+data+nl&mkt_tok=eyJpIjoiTlRnMVptVTRZakprTmpZeiIsInQiOiJvRGlBY2kxNkJyWVdYVlN6R21adHgwQnFOM05URDdKdlNyMmtnOXl4UFwvdFwvcURmcEx1eFhPbzJMWHoyWTdtNHo0OUEwZ2FabVhSaUR5UXdRSWE2SXhSRWVocEEwbUhsYjB0N2JydWlpTFp2ZVN4R3N2REZHTmN6Mm5VNFN2VDB1In0%3D"
+            ],
+            [
+                "Want Less-Biased Decisions? Use Algorithms.",
+                "https://hbr.org/2018/07/want-less-biased-decisions-use-algorithms"
+            ],
+            [
+                "Permutation Feature Importance | Machine Learning Blog",
+                "https://blogs.technet.microsoft.com/machinelearning/2015/04/14/permutation-feature-importance/"
+            ],
+            [
+                "25 Machine Learning Startups To Watch in 2018",
+                "https://www.forbes.com/sites/louiscolumbus/2018/08/26/25-machine-learning-startups-to-watch-in-2018/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_197#7c5a97ca6f99"
+            ],
+            [
+                "No Machine Learning in your product? Start here \u2014 The Lever \u2014 Medium",
+                "https://medium.com/the-lever/no-machine-learning-in-your-product-start-here-2df776d10a5c"
+            ],
+            [
+                "Building AI software: Data-driven vs model-driven AI and why we need an AI-specific software\u2026",
+                "https://hackernoon.com/building-ai-software-data-driven-vs-model-driven-ai-and-why-we-need-an-ai-specific-software-640f74aaf78f"
+            ],
+            [
+                "Learning Math for Machine Learning",
+                "https://blog.ycombinator.com/learning-math-for-machine-learning/"
+            ],
+            [
+                "Practical advice for analysis of large, complex data sets",
+                "http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html"
+            ],
+            [
+                "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+                "https://medium.com/datadriveninvestor/a-curated-list-of-artificial-intelligence-ai-courses-books-video-lectures-and-papers-d2f584ca14f8"
+            ],
+            [
+                "Neuralink wants to wire your brain to the internet \u2014 what could possibly go wrong?",
+                "https://theconversation.com/neuralink-wants-to-wire-your-brain-to-the-internet-what-could-possibly-go-wrong-76180"
+            ],
+            [
+                "Inside Microsoft\u2019s Artificial Intelligence Comeback | WIRED",
+                "https://www.wired.com/story/inside-microsofts-ai-comeback?mbid=social_fb"
+            ],
+            [
+                "My Curated List of AI and Machine Learning Resources from Around the Web",
+                "https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524"
+            ],
+            [
+                "AI Is Inventing Languages Humans Can\u2019t Understand. Should We Stop It?",
+                "https://www.fastcodesign.com/90132632/ai-is-inventing-its-own-perfect-languages-should-we-let-it?utm_content=buffer3d120&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer"
+            ],
+            [
+                "List of Top AI, Data Science and Machine Learning Resources",
+                "https://blog.playment.io/list-top-ai-data-science-machine-learning-resources/"
+            ],
+            [
+                "JPMorgan\u2019s massive guide to machine learning jobs in finance",
+                "http://news.efinancialcareers.com/uk-en/285249/machine-learning-and-big-data-j-p-morgan"
+            ],
+            [
+                "Modern Machine Learning Algorithms: Strengths and Weaknesses",
+                "https://elitedatascience.com/machine-learning-algorithms"
+            ],
+            [
+                "Which Machine Learning Algo will continue to be in use in year 2118?",
+                "/which-machine-learning-algo-will-continue-to-be-in-use-in-year-2118-59d0461160f3"
+            ],
+            [
+                "How Driverless AI Prevents Overfitting and Leakage \u2014 H2O.ai Blog",
+                "https://blog.h2o.ai/2018/03/driverless-ai-prevents-overfitting-leakage/"
+            ],
+            [
+                "10 Machine Learning Algorithms You Should Know to Become a Data Scientist",
+                "https://medium.com/@YvesMulkers/10-machine-learning-algorithms-you-should-know-to-become-a-data-scientist-91ea637f5b57?mkt_tok=eyJpIjoiTlRkbE1USTVPRE0xWVdFNCIsInQiOiJBRVdXXC9pMExGM0dvaTB1SUdjUUFQZkZpdUpFdU4rUFNjdExkQjZtXC9hOHhXVFRZb3BKMWNlelFrRjV0S2RTZWE3YUpCNHhvN0RKSUVIM29ZekVkXC9jMjNzWFFcL0tOcnA5MUV1NXdQSU5PRWhyZ1FhZGsyUW5yK1d4UWdDRmdlZmsifQ%3D%3D"
+            ],
+            [
+                "Which machine learning algorithm should I use? \u2014 Subconscious Musings",
+                "https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/"
+            ],
+            [
+                "7 Use Cases For Data Science And Predictive Analytics",
+                "/7-use-cases-for-data-science-and-predictive-analytics-e3616e9331f9"
+            ],
+            [
+                "Rules of ML",
+                "http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf"
+            ],
+            [
+                "A Quick Introduction to Neural Networks \u2014 the data science blog",
+                "https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/"
+            ],
+            [
+                "You Don\u2019t Have to Be a Data Scientist to Fill This Must-Have Analytics Role",
+                "https://hbr.org/2018/02/you-dont-have-to-be-a-data-scientist-to-fill-this-must-have-analytics-role?imm_mid=0fb29a&cmp=em-data-na-na-newsltr_20180214"
+            ],
+            [
+                "Most of AI\u2019s Business Uses Will Be in Two Areas",
+                "https://hbr.org/2018/07/most-of-ais-business-uses-will-be-in-two-areas"
+            ],
+            [
+                "Rules of Machine Learning: | ML Universal Guides | Google Developers",
+                "https://developers.google.com/machine-learning/guides/rules-of-ml/"
+            ],
+            [
+                "Approaching Machine learning problem \u2014 Bhushan Shewale \u2014 Medium",
+                "https://medium.com/@bhushanshewale45/approach-towards-machine-learning-problem-bb17fdf0a187"
+            ],
+            [
+                "Zayd\u2019s Blog \u2014 Why is machine learning \u2018hard\u2019?",
+                "http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20180523+data+nl&mkt_tok=eyJpIjoiTW1Ka1lqRTVNakJtWm1KayIsInQiOiJhbWxZNitLSGlYN1FsSUtwR2FFYkNJbHNlNTd4cDNnTnNVbW5XR1lrZTdiYWxCaDRCUzZcLytcL01CNVlJaW9FQ3hOMDlnR3cweXFVQjhIeEY4WEZnMkRHSVJVNmpqUUJaTUFiSVpma2k0ZGpLaWtZakZLWCtUN09pbk5sSG1CM2JrIn0%3D"
+            ],
+            [
+                "Airflow: a workflow management platform \u2014 Airbnb Engineering & Data Science \u2014 Medium",
+                "https://medium.com/airbnb-engineering/airflow-a-workflow-management-platform-46318b977fd8"
+            ]
+        ],
+        "h1": "Articles",
+        "hh2": []
+    },
+    {
+        "aa": [
+            [
+                "Over 200 of the Best Machine Learning, NLP, and Python Tutorials \u2014 2018 Edition",
+                "https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc"
+            ],
+            [
+                "The most comprehensive Data Science learning plan for 2017",
+                "https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/"
+            ],
+            [
+                "Machine Learning | Google Developers",
+                "https://developers.google.com/machine-learning/glossary/"
+            ],
+            [
+                "Machine Learning is Fun! \u2014 Medium",
+                "https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471"
+            ],
+            [
+                "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.",
+                "https://github.com/ageron/handson-ml?utm_content=buffere416a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+            ],
+            [
+                "A Complete Machine Learning Walk-Through in Python: Part One",
+                "/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420"
+            ],
+            [
+                "Learning Machine Learning and NLP from 187 Quora Questions",
+                "https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8"
+            ],
+            [
+                "In-depth introduction to machine learning in 15 hours of expert videos | R-bloggers",
+                "https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/"
+            ],
+            [
+                "Python Programming Tutorials",
+                "https://pythonprogramming.net/data-visualization-application-dash-python-tutorial-introduction/"
+            ],
+            [
+                "Deep_Learning_Project",
+                "https://spandan-madan.github.io/DeepLearningProject/"
+            ],
+            [
+                "Introduction to Machine Learning | Machine Learning Crash Course | Google Developers",
+                "https://developers.google.com/machine-learning/crash-course/ml-intro"
+            ],
+            [
+                "A \u201cData Science for Good\u201c Machine Learning Project Walk-Through in Python: Part One",
+                "/a-data-science-for-good-machine-learning-project-walk-through-in-python-part-one-1977dd701dbc"
+            ],
+            [
+                "A Complete Machine Learning Walk-Through in Python: Part One",
+                "/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420"
+            ],
+            [
+                "5 Best Data Science Resources That Beginners Can Download For Free",
+                "https://www.analyticsindiamag.com/5-best-data-science-resources-that-beginners-can-download-for-free/"
+            ],
+            [
+                "Chris Albon",
+                "https://chrisalbon.com/"
+            ],
+            [
+                "Deep Learning For Coders \u2014 36 hours of lessons for free",
+                "http://course.fast.ai/index.html"
+            ],
+            [
+                "Essential Math for Data Science: \u2018Why\u2019 and \u2018How\u2019",
+                "https://www.kdnuggets.com/2018/09/essential-math-data-science.html#.W6JSciNOdtw.twitter"
+            ],
+            [
+                "Bokeh vs Dash \u2014 Which is the Best Dashboard Framework for Python?",
+                "https://blog.sicara.com/bokeh-dash-best-dashboard-framework-python-shiny-alternative-c5b576375f7f"
+            ],
+            [
+                "Essential Cheat Sheets for Machine Learning and Deep Learning Engineers",
+                "https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5"
+            ],
+            [
+                "(9) 11. Introduction to Machine Learning \u2014 YouTube",
+                "https://www.youtube.com/watch?v=h0e2HAPTGF4"
+            ],
+            [
+                "A Complete Tutorial which teaches Data Exploration in detail",
+                "https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/"
+            ],
+            [
+                "A gallery of interesting Jupyter Notebooks \u00b7 jupyter/jupyter Wiki \u00b7 GitHub",
+                "https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks"
+            ],
+            [
+                "Andrew Ng \u2014 Supervised learning notes",
+                "http://cs229.stanford.edu/notes/cs229-notes1.pdf"
+            ],
+            [
+                "Unsupervised Feature Learning and Deep Learning Tutorial",
+                "http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/"
+            ],
+            [
+                "data-science-ipython-notebooks/README.md at master \u00b7 donnemartin/data-science-ipython-notebooks \u00b7 GitHub",
+                "https://github.com/donnemartin/data-science-ipython-notebooks/blob/master/README.md"
+            ],
+            [
+                "Notes from Coursera Deep Learning courses by Andrew Ng",
+                "https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng"
+            ],
+            [
+                "rasbt/python-machine-learning-book: The \u201cPython Machine Learning (1st edition)\u201d book code repository and info resource",
+                "https://github.com/rasbt/python-machine-learning-book"
+            ],
+            [
+                "ageron/handson-ml: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.",
+                "https://github.com/ageron/handson-ml"
+            ],
+            [
+                "ujjwalkarn/Machine-Learning-Tutorials: machine learning and deep learning tutorials, articles and other resources",
+                "https://github.com/ujjwalkarn/Machine-Learning-Tutorials"
+            ],
+            [
+                "josephmisiti/awesome-machine-learning: A curated list of awesome Machine Learning frameworks, libraries and software.",
+                "https://github.com/josephmisiti/awesome-machine-learning"
+            ],
+            [
+                "ujjwalkarn/Machine-Learning-Tutorials: machine learning and deep learning tutorials, articles and other resources",
+                "https://github.com/ujjwalkarn/Machine-Learning-Tutorials#interview"
+            ],
+            [
+                "ujjwalkarn/DataSciencePython: common data analysis and machine learning tasks using python",
+                "https://github.com/ujjwalkarn/DataSciencePython"
+            ],
+            [
+                "Open Machine Learning Course \u2014 Medium",
+                "https://medium.com/open-machine-learning-course"
+            ],
+            [
+                "Data ScienceTutorial for Beginners | Kaggle",
+                "https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners"
+            ],
+            [
+                "A Complete Machine Learning Walk-Through in Python: Part Three",
+                "/a-complete-machine-learning-walk-through-in-python-part-three-388834e8804b"
+            ],
+            [
+                "Learning From Data \u2014 Online Course (MOOC)",
+                "https://work.caltech.edu/telecourse.html"
+            ],
+            [
+                "GitHub \u2014 ShuaiW/ml-cheatsheet: A constantly updated python machine learning cheatsheet",
+                "https://github.com/ShuaiW/ml-cheatsheet"
+            ],
+            [
+                "tutorials [Auton Lab]",
+                "https://www.autonlab.org/tutorials"
+            ],
+            [
+                "A Complete Tutorial on Ridge and Lasso Regression in Python",
+                "https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/"
+            ],
+            [
+                "Introduction to Statistical Learning",
+                "http://www-bcf.usc.edu/~gareth/ISL/"
+            ],
+            [
+                "tech-talk-datatable/Data Table Tech Talk.Rmd at master \u00b7 silvabrian/tech-talk-datatable",
+                "https://github.com/silvabrian/tech-talk-datatable/blob/master/Data%20Table%20Tech%20Talk.Rmd"
+            ],
+            [
+                "Comprehensive Data Science, Machine Learning Interview Guide",
+                "https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29"
+            ]
+        ],
+        "h1": "Blogs & Tutorials",
+        "hh2": []
+    },
+    {
+        "aa": [
+            [
+                "Julia Silge",
+                "https://juliasilge.com/"
+            ],
+            [
+                "Data Science Services",
+                "https://dss.iq.harvard.edu/"
+            ],
+            [
+                "The Unofficial Google Data Science Blog",
+                "http://www.unofficialgoogledatascience.com/"
+            ],
+            [
+                "FiveThirtyEight | Nate Silver\u2019s FiveThirtyEight uses statistical analysis \u2014 hard numbers \u2014 to tell compelling stories about politics, sports, science, economics and culture.",
+                "http://fivethirtyeight.com/"
+            ],
+            [
+                "25 Timeless Data Science Articles \u2014 Data Science Central",
+                "http://www.datasciencecentral.com/profiles/blogs/25-timeless-data-science-articles"
+            ],
+            [
+                "learn data science",
+                "https://blog.exploratory.io/"
+            ],
+            [
+                "Data Viz Project | Collection of data visualizations to get inspired and finding the right type.",
+                "http://datavizproject.com/"
+            ],
+            [
+                "Sebastian Raschka\u2019s Website",
+                "https://sebastianraschka.com/"
+            ],
+            [
+                "DogDogFish \u2014 Data Science, amongst other things.",
+                "http://dogdogfish.com/"
+            ],
+            [
+                "TDS Team \u2014 Medium",
+                "https://medium.com/@DataSciencePick"
+            ],
+            [
+                "Latest Posts \u2014 Sebastian Sauer Stats Blog",
+                "https://sebastiansauer.github.io/"
+            ],
+            [
+                "Siraj Raval \u2014 YouTube \u2014 YouTube",
+                "https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A"
+            ],
+            [
+                "The key to building a data science portfolio that will get you a job",
+                "https://www.dataquest.io/blog/build-a-data-science-portfolio/"
+            ],
+            [
+                "Data Science Central",
+                "https://www.datasciencecentral.com/"
+            ],
+            [
+                "Hitchhiker\u2019s Guide to Data Science, Machine Learning, R, Python \u2014 Data Science Central",
+                "https://www.datasciencecentral.com/profiles/blogs/hitchhiker-s-guide-to-data-science-machine-learning-r-python"
+            ],
+            [
+                "Top 5 Data Science Publications You Should Read In 2018 | Udacity",
+                "https://blog.udacity.com/2018/01/top-5-data-science-publications.html?%3Futm_source=facebook&utm_medium=ads&utm_campaign=fb-ads-3Q_FB_Acquisition_DataFoundations"
+            ],
+            [
+                "Ben Lambert \u2014 YouTube \u2014 YouTube",
+                "https://www.youtube.com/channel/UC3tFZR3eL1bDY8CqZDOQh-w"
+            ],
+            [
+                "The best data science learning resources out there and my journey into data science-",
+                "/the-best-data-science-learning-resources-out-there-and-my-journey-into-data-science-81c5a6ec67bc"
+            ],
+            [
+                "Cookiecutter Data Science",
+                "https://drivendata.github.io/cookiecutter-data-science/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BPmjjcAhOR8izyHDMiv3PdA%3D%3D"
+            ],
+            [
+                "Data Curious 2017 Year in Review: My favourite data stories, datasets and visualisations from last\u2026",
+                "/data-curious-2017-year-in-review-my-favourite-data-stories-datasets-and-visualisations-from-last-4214bf634f56"
+            ],
+            [
+                "How to Create Value with Your Data Science Projects",
+                "/how-to-create-value-with-your-data-science-projects-62460db3bb4f"
+            ],
+            [
+                "Integrate Google Sheets and Jupyter Notebooks",
+                "http://www.countingcalculi.com/explanations/google_sheets_and_jupyter_notebooks/"
+            ],
+            [
+                "FlowingData",
+                "http://flowingdata.com/"
+            ],
+            [
+                "ClaoudML",
+                "http://www.claoudml.co/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BlsRfZJe%2BT5GOgppX2tgphw%3D%3D"
+            ],
+            [
+                "List of Must \u2014 Read Free Data Science Books \u2014",
+                "/list-of-must-read-free-data-science-books-bfae4c5c5a16"
+            ],
+            [
+                "Towards Data Science",
+                "/list-of-must-read-free-data-science-books-bfae4c5c5a16"
+            ],
+            [
+                "EliteDataScience \u2014 Page 3 of 4 \u2014 Supercharge your data science career.",
+                "https://elitedatascience.com/page/3"
+            ],
+            [
+                "Machine Learning Software Company | simMachines",
+                "https://simmachines.com/"
+            ],
+            [
+                "NYC Analytics",
+                "http://www1.nyc.gov/site/analytics/index.page"
+            ],
+            [
+                "DrivenData",
+                "https://www.drivendata.org/partners/"
+            ],
+            [
+                "The 50 Best Public Datasets for Machine Learning \u2014 Data Driven Investor \u2014 Medium",
+                "https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279"
+            ],
+            [
+                "Data Science | Trello",
+                "https://trello.com/b/rbpEfMld/data-science"
+            ],
+            [
+                "Modern Statistical Learning Methods",
+                "https://www.alsharif.info/iom530"
+            ],
+            [
+                "Python Cheat Sheet for Data Science",
+                "https://elitedatascience.com/python-cheat-sheet"
+            ],
+            [
+                "Scikit_Learn_Cheat_Sheet_Python.pdf",
+                "https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf"
+            ],
+            [
+                "Data Scientist Resume Projects | Statsbot Blog",
+                "https://statsbot.co/blog/data-scientist-resume-projects/"
+            ],
+            [
+                "Data Science Glossary on Kaggle !",
+                "https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_190"
+            ],
+            [
+                "Our Data Science Workflow \u2014 Towards Data Science \u2014 Medium",
+                "https://medium.com/towards-data-science/our-data-science-workflow-b974f30a124d"
+            ],
+            [
+                "Mathematics of Machine Learning \u2014 YouTube",
+                "https://www.youtube.com/watch?v=8onB7rPG4Pk&feature=youtu.be"
+            ]
+        ],
+        "h1": "Publications/Interesting websites etc",
+        "hh2": []
+    },
+    {
+        "aa": [],
+        "h1": "Data Science concepts",
+        "hh2": [
+            {
+                "aa": [
+                    [
+                        "How to not be dumb at applying Principal Component Analysis (PCA)?",
+                        "https://medium.com/data-design/how-to-not-be-dumb-at-applying-principal-component-analysis-pca-6c14de5b3c9d"
+                    ],
+                    [
+                        "Principal Component Analysis explained visually",
+                        "http://setosa.io/ev/principal-component-analysis/"
+                    ],
+                    [
+                        "A One-Stop Shop for Principal Component Analysis \u2014 Towards Data Science \u2014 Medium",
+                        "https://medium.com/towards-data-science/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c"
+                    ],
+                    [
+                        "pca \u2014 Making sense of principal component analysis, eigenvectors & eigenvalues \u2014 Cross Validated",
+                        "https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues"
+                    ],
+                    [
+                        "Conclusions from output of a principal component analysis \u2014 Cross Validated",
+                        "https://stats.stackexchange.com/questions/144508/conclusions-from-output-of-a-principal-component-analysis"
+                    ],
+                    [
+                        "tsne \u2014 Are there cases where PCA is more suitable than t-SNE? \u2014 Cross Validated",
+                        "https://stats.stackexchange.com/questions/238538/are-there-cases-where-pca-is-more-suitable-than-t-sne"
+                    ],
+                    [
+                        "Making sense of principal component analysis, eigenvectors & eigenvalues \u2014 Cross Validated",
+                        "https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues"
+                    ],
+                    [
+                        "Dimensionality Reduction: Principal Components Analysis, Part 1 \u2014 YouTube",
+                        "https://www.youtube.com/watch?v=ZqXnPcyIAL8"
+                    ],
+                    [
+                        "Cerebral Mastication \u00bb Blog Archive \u00bb Principal Component Analysis (PCA) vs Ordinary Least Squares (OLS): A Visual Explanation",
+                        "http://www.cerebralmastication.com/2010/09/principal-component-analysis-pca-vs-ordinary-least-squares-ols-a-visual-explination/"
+                    ],
+                    [
+                        "Understanding Principal Component Analysis \u2014 Hacker Noon",
+                        "https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0"
+                    ],
+                    [
+                        "Principal Component Analysis",
+                        "http://sebastianraschka.com/Articles/2015_pca_in_3_steps.html"
+                    ],
+                    [
+                        "Principal Component Analysis with Python \u2014 District Data Labs \u2014 Medium",
+                        "https://medium.com/district-data-labs/principal-component-analysis-with-python-4962cd026465"
+                    ],
+                    [
+                        "Visualising high-dimensional datasets using PCA and t-SNE in Python",
+                        "https://medium.com/@luckylwk/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b"
+                    ]
+                ],
+                "h2": "PCA"
+            },
+            {
+                "aa": [
+                    [
+                        "Missing Data In pandas Dataframes",
+                        "https://chrisalbon.com/python/data_wrangling/pandas_missing_data/"
+                    ],
+                    [
+                        "The tale of missing values in Python \u2014",
+                        "/the-tale-of-missing-values-in-python-c96beb0e8a9d"
+                    ],
+                    [
+                        "Towards Data Science",
+                        "/the-tale-of-missing-values-in-python-c96beb0e8a9d"
+                    ],
+                    [
+                        "How to Handle Missing Data with Python",
+                        "https://machinelearningmastery.com/handle-missing-data-python/"
+                    ],
+                    [
+                        "Working with missing data \u2014 pandas 0.22.0 documentation",
+                        "https://pandas.pydata.org/pandas-docs/version/0.22/missing_data.html"
+                    ],
+                    [
+                        "Claudia Perlich\u2019s answer to How can I deal with missing values in a predictive model? \u2014 Quora",
+                        "https://www.quora.com/How-can-I-deal-with-missing-values-in-a-predictive-model/answer/Claudia-Perlich?share=569f82a1&srid=idBZ"
+                    ]
+                ],
+                "h2": "Missing data"
+            },
+            {
+                "aa": [
+                    [
+                        "Automated Feature Engineering in Python \u2014 Towards Data Science",
+                        "/automated-feature-engineering-in-python-99baf11cc219"
+                    ],
+                    [
+                        "Feature",
+                        "https://jakevdp.github.io/PythonDataScienceHandbook/05.04-feature-engineering.html"
+                    ],
+                    [
+                        "Engineering | Python Data Science Handbook",
+                        "https://jakevdp.github.io/PythonDataScienceHandbook/05.04-feature-engineering.html"
+                    ],
+                    [
+                        "Why Automated Feature Engineering Will Change the Way You Do Machine Learning",
+                        "/why-automated-feature-engineering-will-change-the-way-you-do-machine-learning-5c15bf188b96"
+                    ],
+                    [
+                        "GitHub \u2014 Featuretools/Automated-Manual-Comparison: Automated vs Manual Feature Engineering Comparison. Implemented using Featuretools.",
+                        "https://github.com/Featuretools/Automated-Manual-Comparison"
+                    ],
+                    [
+                        "Feature Importance Measures for Tree Models \u2014 Part I",
+                        "https://medium.com/the-artificial-impostor/feature-importance-measures-for-tree-models-part-i-47f187c1a2c3"
+                    ],
+                    [
+                        "Deep Feature Synthesis: How Automated Feature Engineering Works | Feature Labs",
+                        "https://www.featurelabs.com/blog/deep-feature-synthesis/?__hstc=166560673.3a055595ac7d7612c52e6b00061c9c1c.1519627491743.1519627491743.1519627491743.1&__hssc=166560673.6.1519627491744&__hsfp=3980689711"
+                    ],
+                    [
+                        "Understanding Feature",
+                        "/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b"
+                    ],
+                    [
+                        "Engineering (Part 1) \u2014 Continuous Numeric Data",
+                        "/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b"
+                    ],
+                    [
+                        "Automated Feature",
+                        "/automated-feature-engineering-in-python-99baf11cc219"
+                    ],
+                    [
+                        "Engineering in Python \u2014 Towards Data Science",
+                        "/automated-feature-engineering-in-python-99baf11cc219"
+                    ]
+                ],
+                "h2": "Feature Engineering"
+            },
+            {
+                "aa": [
+                    [
+                        "A Refresher on Regression Analysis",
+                        "https://hbr.org/2015/11/a-refresher-on-regression-analysis"
+                    ],
+                    [
+                        "How linear regression works",
+                        "https://brohrer.github.io/how_linear_regression_works.html"
+                    ],
+                    [
+                        "Linear Regression \u2014 Detailed View \u2014 Towards Data Science",
+                        "/linear-regression-detailed-view-ea73175f6e86"
+                    ],
+                    [
+                        "5 Regression Loss Functions All Machine Learners Should Know",
+                        "https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0"
+                    ],
+                    [
+                        "Hypothesis Testing | R Tutorial",
+                        "http://www.r-tutor.com/elementary-statistics/hypothesis-testing"
+                    ],
+                    [
+                        "Using t-tests in R | Department of Statistics",
+                        "http://statistics.berkeley.edu/computing/r-t-tests"
+                    ],
+                    [
+                        "Regression Analysis: How Do I Interpret R-squared and Assess the Goodness-of-Fit?",
+                        "http://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-how-do-i-interpret-r-squared-and-assess-the-goodness-of-fit"
+                    ],
+                    [
+                        "Why You Need to Check Your Residual Plots for Regression Analysis: Or, To Err is Human, To Err Randomly is Statistically Divine | Minitab",
+                        "http://blog.minitab.com/blog/adventures-in-statistics-2/why-you-need-to-check-your-residual-plots-for-regression-analysis"
+                    ],
+                    [
+                        "How to Interpret Regression Analysis Results: P-values and Coefficients | Minitab",
+                        "http://blog.minitab.com/blog/adventures-in-statistics-2/how-to-interpret-regression-analysis-results-p-values-and-coefficients"
+                    ],
+                    [
+                        "How High Does R-squared Need to Be? \u2014 Statistics By Jim",
+                        "http://statisticsbyjim.com/regression/how-high-r-squared/"
+                    ],
+                    [
+                        "Linear regression \u2014 Python",
+                        "http://nbviewer.jupyter.org/github/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb"
+                    ],
+                    [
+                        "Comparing Hypothesis Tests for Continuous, Binary, and Count Data \u2014 Statistics By Jim",
+                        "http://statisticsbyjim.com/hypothesis-testing/comparing-hypothesis-tests-data-types/"
+                    ],
+                    [
+                        "A Simple Introduction to ANOVA (with applications in Excel)",
+                        "https://www.analyticsvidhya.com/blog/2018/01/anova-analysis-of-variance/?utm_source=sendinblue&utm_campaign=February_2018&utm_medium=email"
+                    ],
+                    [
+                        "Introductory Statistics \u2014 Table of Contents",
+                        "https://saylordotorg.github.io/text_introductory-statistics/index.html"
+                    ],
+                    [
+                        "Statistics for people in a hurry \u2014 Towards Data Science",
+                        "/statistics-for-people-in-a-hurry-a9613c0ed0b?mkt_tok=eyJpIjoiTVdOa1pEVXhObVppTkRSbSIsInQiOiJ0YUtRdU5Ea0RFUWZrM24xcXhQRGFDbFpjZ1JFQ1JcLzVPWFwvaGQ1RHZkWkVPblVxZ1JIYU5MVXBWQ21NOHU5RllNU2xpb3BCWDA0K21pV0VmVDhtSEJEdXptaGY3SVZqakVjYllJVXZveFwva2pGbFhCTzhQTmVMRnRPVmI2YzYxUyJ9"
+                    ]
+                ],
+                "h2": "Regression"
+            },
+            {
+                "aa": [
+                    [
+                        "A General Approach to Preprocessing Text Data",
+                        "https://www.kdnuggets.com/2017/12/general-approach-preprocessing-text-data.html"
+                    ],
+                    [
+                        "Natural Language Processing is Fun! \u2014 Adam Geitgey \u2014 Medium",
+                        "https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e"
+                    ],
+                    [
+                        "Ultimate Guide to Understand & Implement Natural Language Processing",
+                        "https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/"
+                    ],
+                    [
+                        "Natural Language Processing for Beginners: Using TextBlob",
+                        "https://www.analyticsvidhya.com/blog/2018/02/natural-language-processing-for-beginners-using-textblob/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29"
+                    ],
+                    [
+                        "m",
+                        "https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e"
+                    ],
+                    [
+                        "GitHub \u2014 JasonKessler/scattertext: Beautiful visualizations of how language differs among document types.",
+                        "https://github.com/JasonKessler/scattertext"
+                    ],
+                    [
+                        "Visual Text Analytics With Python | The Mien Blog",
+                        "http://www.mien.in/2017/10/02/visual-text-analytics-with-python/"
+                    ],
+                    [
+                        "Working with large CSV files in Python",
+                        "http://pythondata.com/working-large-csv-files-python/"
+                    ],
+                    [
+                        "Learn regex the easy way",
+                        "https://github.com/zeeshanu/learn-regex"
+                    ],
+                    [
+                        "Ultimate guide to deal with Text Data (using Python) \u2014 for Data Scientists & Engineers",
+                        "https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29"
+                    ],
+                    [
+                        "How to solve 90% of NLP problems: a step-by-step guide",
+                        "https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e"
+                    ],
+                    [
+                        "concrete_NLP_tutorial/NLP_notebook.ipynb at master \u00b7 hundredblocks/concrete_NLP_tutorial",
+                        "https://github.com/hundredblocks/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb"
+                    ],
+                    [
+                        "NLP Tutorial Using Python NLTK (Simple Examples) \u2014 DZone AI",
+                        "https://dzone.com/articles/nlp-tutorial-using-python-nltk-simple-examples"
+                    ],
+                    [
+                        "Regex Cheat Sheet",
+                        "http://www.rexegg.com/regex-quickstart.html"
+                    ]
+                ],
+                "h2": "NLP"
+            },
+            {
+                "aa": [
+                    [
+                        "gensim: Topic modelling for humans",
+                        "https://radimrehurek.com/gensim/"
+                    ],
+                    [
+                        "Topic modeling made just simple enough. | The Stone and the Shell",
+                        "https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/"
+                    ],
+                    [
+                        "A gentle introduction to topic modeling using R | Eight to Late",
+                        "https://eight2late.wordpress.com/2015/09/29/a-gentle-introduction-to-topic-modeling-using-r/"
+                    ],
+                    [
+                        "Beginners Guide to Topic Modeling in Python",
+                        "https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/"
+                    ],
+                    [
+                        "Introduction to Latent Dirichlet Allocation",
+                        "http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/"
+                    ],
+                    [
+                        "Topic Modeling and t-SNE Visualization",
+                        "https://shuaiw.github.io/2016/12/22/topic-modeling-and-tsne-visualzation.html"
+                    ]
+                ],
+                "h2": "LDA"
+            },
+            {
+                "aa": [
+                    [
+                        "Overview of Clustering | Mining of Massive Datasets | Stanford University \u2014 YouTube",
+                        "https://www.youtube.com/watch?v=DLfh8pv4-yQ"
+                    ],
+                    [
+                        "An Introduction to Clustering & different methods of clustering",
+                        "https://www.analyticsvidhya.com/blog/2016/11/an-introduction-to-clustering-and-different-methods-of-clustering/"
+                    ],
+                    [
+                        "The 5 Clustering Algorithms Data Scientists Need to Know",
+                        "/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68"
+                    ],
+                    [
+                        "The 5 Clustering Algorithms Data Scientists Need to Know",
+                        "/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68"
+                    ],
+                    [
+                        "Hierarchical Clustering: A Simple Explanation | Orange Blog",
+                        "https://blog.biolab.si/2015/12/02/hierarchical-clustering-a-simple-explanation/"
+                    ]
+                ],
+                "h2": "Clustering"
+            },
+            {
+                "aa": [
+                    [
+                        "Accuracy, Precision, Recall & F1 Score: Interpretation of Performance Measures \u2014 Exsilio Blog",
+                        "http://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/"
+                    ],
+                    [
+                        "Simple guide to confusion matrix terminology",
+                        "http://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/"
+                    ],
+                    [
+                        "Understanding ROC curves",
+                        "http://www.navan.name/roc/"
+                    ],
+                    [
+                        "Nested cross validation for model selection \u2014 Cross Validated",
+                        "https://stats.stackexchange.com/questions/65128/nested-cross-validation-for-model-selection"
+                    ],
+                    [
+                        "How to choose a predictive model after k-fold cross-validation? \u2014 Cross Validated",
+                        "https://stats.stackexchange.com/questions/52274/how-to-choose-a-predictive-model-after-k-fold-cross-validation"
+                    ],
+                    [
+                        "Nested versus non-nested cross-validation \u2014 scikit-learn 0.19.0 documentation",
+                        "http://scikit-learn.org/stable/auto_examples/model_selection/plot_nested_cross_validation_iris.html"
+                    ],
+                    [
+                        "Choosing the Right Metric for Evaluating Machine Learning Models \u2014 Part 1",
+                        "https://www.kdnuggets.com/2018/04/right-metric-evaluating-machine-learning-models-1.html"
+                    ],
+                    [
+                        "Finding out which features contributed to each row\u2019s prediction",
+                        "https://cheevahagadog.github.io/posts/model_explanations/?utm_medium=email&utm_source=optin&utm_campaign=awareness&utm_content=20180502+data+nl&mkt_tok=eyJpIjoiT0RJNFpEZ3daVFpsT1dJNCIsInQiOiJmeStrSFwvVlwvMmpCZXBJREgzc2lyb1JZaWprR2E5ck9nOGhKME5qQmR3SlluTnA3SVlQMWRiME9KYm1adG1yK3g1Q2JyaGdxSlI3aStYOE1yaDJ6c0djMHJvSSsrcXl5b1wvc0dCWTBlQUxhMEVKeWxzUlN1ZGtHUHY1WGlXMTgxbiJ9"
+                    ],
+                    [
+                        "Beyond Accuracy: Precision and Recall \u2014 Towards Data Science",
+                        "/beyond-accuracy-precision-and-recall-3da06bea9f6c"
+                    ],
+                    [
+                        "classification \u2014 What does AUC stand for and what is it? \u2014 Cross Validated",
+                        "https://stats.stackexchange.com/questions/132777/what-does-auc-stand-for-and-what-is-it"
+                    ],
+                    [
+                        "Train/Test Split and Cross Validation in Python \u2014 Towards Data Science \u2014 Medium",
+                        "https://medium.com/towards-data-science/train-test-split-and-cross-validation-in-python-80b61beca4b6"
+                    ],
+                    [
+                        "How to Handle Imbalanced Classes in Machine Learning",
+                        "https://elitedatascience.com/imbalanced-classes"
+                    ]
+                ],
+                "h2": "Model Evaluation"
+            },
+            {
+                "aa": [
+                    [
+                        "Guidelines For Ab Testing \u2014 Hooked on Data",
+                        "http://hookedondata.org/Guidelines-for-AB-Testing/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20180829+data+nl&mkt_tok=eyJpIjoiWXpRM05tRmtNek5sTkRVNCIsInQiOiJleXBZc0ZNWHlRWTMzbTYzNkIzU2ZuVGxiU01TbXhpbDR1WnZrOEVDVml4bjhEeFRsQnJcL3FXYUtrS2tXUmVmdUtZdU05djhGTDNxN3M0SVNTNGR1SkY0MkpBSXlVOVBqSzBaZHNTNXExdldLUWpvUUMxZFBWMWoyN0lPWFdnY0EifQ%3D%3D"
+                    ],
+                    [
+                        "Julia Silge \u2014 From Power Calculations to P-Values: A/B Testing at Stack Overflow",
+                        "https://juliasilge.com/blog/ab-testing/"
+                    ],
+                    [
+                        "Under the Hood of Uber\u2019s Experimentation Platform",
+                        "https://eng.uber.com/xp/"
+                    ],
+                    [
+                        "5 Tricks When A/B Testing Is Off The Table",
+                        "https://www.datascience.com/blog/5-alternatives-to-ab-testing"
+                    ]
+                ],
+                "h2": "AB Testing"
+            },
+            {
+                "aa": [
+                    [
+                        "Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python",
+                        "https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/"
+                    ],
+                    [
+                        "Introduction to Ensembling/Stacking in Python | Kaggle",
+                        "https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python"
+                    ],
+                    [
+                        "A Gentle Introduction to the Gradient Boosting Algorithm for Machine Learning \u2014 Machine Learning Mastery",
+                        "https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/"
+                    ],
+                    [
+                        "Gradient Boosting from scratch \u2014 ML Review \u2014 Medium",
+                        "https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d"
+                    ],
+                    [
+                        "A Kaggle Master Explains Gradient Boosting | No Free Hunch",
+                        "http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/"
+                    ],
+                    [
+                        "(33) Ensembles (3): Gradient Boosting \u2014 YouTube",
+                        "https://www.youtube.com/watch?v=sRktKszFmSk"
+                    ],
+                    [
+                        "Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python",
+                        "https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/"
+                    ],
+                    [
+                        "Introduction to Ensembling/Stacking in Python | Kaggle",
+                        "https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python"
+                    ],
+                    [
+                        "A Gentle Introduction to the Gradient Boosting Algorithm for Machine Learning \u2014 Machine Learning Mastery",
+                        "https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/"
+                    ],
+                    [
+                        "Gradient Boosting from scratch \u2014 ML Review \u2014 Medium",
+                        "https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d"
+                    ],
+                    [
+                        "A Kaggle Master Explains Gradient Boosting | No Free Hunch",
+                        "http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/"
+                    ],
+                    [
+                        "(33) Ensembles (3): Gradient Boosting \u2014 YouTube",
+                        "https://www.youtube.com/watch?v=sRktKszFmSk"
+                    ],
+                    [
+                        "Introduction to Boosted Trees \u2014 xgboost 0.71 documentation",
+                        "http://xgboost.readthedocs.io/en/latest/model.html#"
+                    ],
+                    [
+                        "Ensemble Learning: When everybody takes a guess\u2026I guess!",
+                        "https://medium.com/diogo-menezes-borges/ensemble-learning-when-everybody-takes-a-guess-i-guess-ec35f6cb4600"
+                    ],
+                    [
+                        "Boosting with AdaBoost and Gradient Boosting \u2014 The Making Of\u2026 a Data Scientist \u2014 Medium",
+                        "https://medium.com/diogo-menezes-borges/boosting-with-adaboost-and-gradient-boosting-9cbab2a1af81"
+                    ],
+                    [
+                        "An Implementation and Explanation of the Random Forest in Python",
+                        "/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76"
+                    ],
+                    [
+                        "How to use XGBoost in Python",
+                        "http://danielhnyk.cz/how-to-use-xgboost-in-python/"
+                    ],
+                    [
+                        "Open Machine Learning Course. Topic 5. Bagging and Random Forest",
+                        "https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-5-ensembles-of-algorithms-and-random-forest-8e05246cbba7"
+                    ],
+                    [
+                        "Quick Guide to Boosting Algorithms in Machine Learning",
+                        "https://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/"
+                    ],
+                    [
+                        "Complete Guide to Parameter Tuning in XGBoost (with codes in Python)",
+                        "https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/"
+                    ],
+                    [
+                        "What in god\u2019s name is Gradient Descent? \u2014 The Making Of\u2026 a Data Scientist \u2014 Medium",
+                        "https://medium.com/diogo-menezes-borges/what-is-gradient-descent-235a6c8d26b0"
+                    ]
+                ],
+                "h2": "Ensemble Learning"
+            },
+            {
+                "aa": [
+                    [
+                        "arules: Association Rule Mining with R \u2014 A Tutorial",
+                        "http://michael.hahsler.net/research/arules_RUG_2015/demo/"
+                    ],
+                    [
+                        "A Gentle Introduction on Market Basket Analysis \u2014 Association Rules",
+                        "https://medium.com/towards-data-science/a-gentle-introduction-on-market-basket-analysis-association-rules-fa4b986a40ce"
+                    ],
+                    [
+                        "Visualize Association Rules and Itemsets \u2014 plot \u2022 arulesViz",
+                        "http://mhahsler.github.io/arulesViz/reference/plot.html"
+                    ],
+                    [
+                        "Association Rules Demo Using arulesViz \u00b7 GitHub",
+                        "https://gist.github.com/jyfeather/7460079"
+                    ],
+                    [
+                        "IEEE Xplore Full-Text PDF:",
+                        "http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7757158"
+                    ],
+                    [
+                        "Visualizing Association Rules in Hierarchical Groups",
+                        "http://michael.hahsler.net/research/Interface2011/arulesViz_talk/Interface11_arulesViz.pdf"
+                    ],
+                    [
+                        "Market Basket Analysis with R : Salem Marafi",
+                        "http://www.salemmarafi.com/code/market-basket-analysis-with-r/"
+                    ],
+                    [
+                        "Association Rules \u2014 RDataMining.com: R and Data Mining",
+                        "http://www.rdatamining.com/examples/association-rules"
+                    ],
+                    [
+                        "Implementing Apriori Algorithm in R | DataScience+",
+                        "https://datascienceplus.com/implementing-apriori-algorithm-in-r/"
+                    ]
+                ],
+                "h2": "Association Rules"
+            },
+            {
+                "aa": [
+                    [
+                        "When Is It Crucial to Standardize the Variables in a Regression Model?",
+                        "http://blog.minitab.com/blog/adventures-in-statistics-2/when-is-it-crucial-to-standardize-the-variables-in-a-regression-model"
+                    ],
+                    [
+                        "Feature Scaling and Normalization",
+                        "http://sebastianraschka.com/Articles/2014_about_feature_scaling.html"
+                    ],
+                    [
+                        "Is standardization needed before fitting logistic regression? \u2014 Cross Validated",
+                        "https://stats.stackexchange.com/questions/48360/is-standardization-needed-before-fitting-logistic-regression"
+                    ],
+                    [
+                        "Interpreting Regression Coefficients: Changing the scale of predictor variables",
+                        "https://www.theanalysisfactor.com/changing-the-scale-of-predictor-variables/"
+                    ],
+                    [
+                        "r \u2014 How to use scale in logistic regression correctly \u2014 Stack Overflow",
+                        "https://stackoverflow.com/questions/25481331/how-to-use-scale-in-logistic-regression-correctly"
+                    ]
+                ],
+                "h2": "Scaling data"
+            },
+            {
+                "aa": [
+                    [
+                        "Using R for Time Series Analysis \u2014 Time Series 0.2 documentation",
+                        "https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html"
+                    ],
+                    [
+                        "How to Read and Use a Box-and-Whisker Plot | FlowingData",
+                        "https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/"
+                    ]
+                ],
+                "h2": "Anomaly Detection"
+            },
+            {
+                "aa": [
+                    [
+                        "Building A Logistic Regression in Python, Step by Step",
+                        "https://medium.com/towards-data-science/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8"
+                    ],
+                    [
+                        "The Logistic Regression Algorithm \u2014 Towards Data Science",
+                        "/the-logistic-regression-algorithm-75fe48e21cfa"
+                    ],
+                    [
+                        "5 Reasons \u201cLogistic Regression\u201d should be the first thing you learn when becoming a Data Scientist",
+                        "/5-reasons-logistic-regression-should-be-the-first-thing-you-learn-when-become-a-data-scientist-fcaae46605c4"
+                    ],
+                    [
+                        "Logistic Regression Series",
+                        "https://www.youtube.com/playlist?list=PLnnr1O8OWc6YxlVX_qT_YOtgVVGAtzGY5"
+                    ]
+                ],
+                "h2": "Logistic Regression"
+            },
+            {
+                "aa": [
+                    [
+                        "Support Vector Machines: A Simple Explanation",
+                        "http://www.kdnuggets.com/2016/07/support-vector-machines-simple-explanation.html"
+                    ],
+                    [
+                        "Please explain Support Vector Machines (SVM) like I am a 5 year old. : MachineLearning",
+                        "https://www.reddit.com/r/MachineLearning/comments/15zrpp/please_explain_support_vector_machines_svm_like_i/"
+                    ],
+                    [
+                        "How Support Vector Machines work / How to open a black box \u2014 YouTube",
+                        "https://www.youtube.com/watch?time_continue=712&v=-Z4aojJ-pdg"
+                    ],
+                    [
+                        "Understanding Support Vector Machine algorithm from examples (along with code)",
+                        "https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/"
+                    ],
+                    [
+                        "svmrecita.ppt",
+                        "http://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf"
+                    ],
+                    [
+                        "Support Vector Machines explained well | Byte Size Biology",
+                        "http://bytesizebio.net/2014/02/05/support-vector-machines-explained-well/"
+                    ],
+                    [
+                        "Kernel Trick \u2014 YouTube",
+                        "https://www.youtube.com/watch?v=3Xw6FKYP7e4"
+                    ]
+                ],
+                "h2": "SVM"
+            },
+            {
+                "aa": [
+                    [
+                        "Decision tree Intuition \u2014 GreyAtom \u2014 Medium",
+                        "https://medium.com/greyatom/decision-tree-intuition-a38669005cb7"
+                    ],
+                    [
+                        "Intro to Decision Trees with R Example",
+                        "https://rstudio-pubs-static.s3.amazonaws.com/123908_3df6d25c8ad04030a2a429661125a59b.html#/13"
+                    ],
+                    [
+                        "Decision Trees and Random Forests for Classification and Regression pt.1",
+                        "/decision-trees-and-random-forests-for-classification-and-regression-pt-1-dbb65a458df"
+                    ]
+                ],
+                "h2": "Decision Trees"
+            },
+            {
+                "aa": [
+                    [
+                        "Beginners Guide To Learn Dimension Reduction Techniques",
+                        "https://www.analyticsvidhya.com/blog/2015/07/dimension-reduction-methods/"
+                    ],
+                    [
+                        "Seven Techniques for Data Dimensionality Reduction",
+                        "https://www.kdnuggets.com/2015/05/7-methods-data-dimensionality-reduction.html"
+                    ],
+                    [
+                        "(2/1) Is having a very large number of features in Machine Learning ever a bad thing? \u2014 Quora",
+                        "https://www.quora.com/Is-having-a-very-large-number-of-features-in-Machine-Learning-ever-a-bad-thing"
+                    ],
+                    [
+                        "A Feature Selection Tool for Machine Learning in Python",
+                        "/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0"
+                    ],
+                    [
+                        "Data analysis and feature extraction with Python | Kaggle",
+                        "https://www.kaggle.com/pmarcelino/data-analysis-and-feature-extraction-with-python"
+                    ],
+                    [
+                        "Data analysis and feature extraction with Python | Kaggle",
+                        "https://www.kaggle.com/pmarcelino/data-analysis-and-feature-extraction-with-python/notebook"
+                    ]
+                ],
+                "h2": "Dimensionality Reduction"
+            },
+            {
+                "aa": [
+                    [
+                        "Forecasting & Time Series Analysis \u2014 Manufacturing Case Study Example",
+                        "http://ucanalytics.com/blogs/forecasting-time-series-analysis-manufacturing-case-study-example-part-1/"
+                    ],
+                    [
+                        "A Complete Tutorial on Time Series Modeling in R",
+                        "https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/"
+                    ],
+                    [
+                        "Complete guide to create a Time Series Forecast (with Codes in Python)",
+                        "https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/"
+                    ],
+                    [
+                        "(Part 1) \u2014 YOU CANalytics",
+                        "http://ucanalytics.com/blogs/forecasting-time-series-analysis-manufacturing-case-study-example-part-1/"
+                    ],
+                    [
+                        "Step-by-Step Graphic Guide to Forecasting through ARIMA",
+                        "http://ucanalytics.com/blogs/step-by-step-graphic-guide-to-forecasting-through-arima-modeling-in-r-manufacturing-case-study-example/"
+                    ],
+                    [
+                        "ARIMA estimation in R \u2014 YouTube",
+                        "https://www.youtube.com/watch?v=FYwTl9s4lVc"
+                    ],
+                    [
+                        "Introduction to Forecasting with ARIMA in R",
+                        "https://www.datascience.com/blog/introduction-to-forecasting-with-arima-in-r-learn-data-science-tutorials"
+                    ],
+                    [
+                        "(31) Time Series Forecasting Theory | AR, MA, ARMA, ARIMA | Data Science \u2014 YouTube",
+                        "https://www.youtube.com/watch?v=Aw77aMLj9uM&t=1657s"
+                    ],
+                    [
+                        "A Gentle Introduction to Autocorrelation and Partial Autocorrelation \u2014 Machine Learning Mastery",
+                        "https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/"
+                    ]
+                ],
+                "h2": "Time series forecasting"
+            },
+            {
+                "aa": [
+                    [
+                        "An Introduction to Classification Models",
+                        "https://medium.com/towards-data-science/data-science-simplified-part-10-an-introduction-to-classification-models-82490f6c171f"
+                    ],
+                    [
+                        "Types of classification algorithms in Machine Learning",
+                        "https://medium.com/@sifium/machine-learning-types-of-classification-9497bd4f2e14"
+                    ],
+                    [
+                        "GitHub \u2014 dssg/MLforPublicPolicy: Class resources for CAPP 30254 (Machine Learning for Public Policy)",
+                        "https://github.com/dssg/MLforPublicPolicy"
+                    ],
+                    [
+                        "Managing Machine Learning Workflows with Scikit-learn Pipelines Part 1: A Gentle Introduction",
+                        "https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html"
+                    ],
+                    [
+                        "Regularization: the path to bias-variance trade-off",
+                        "/regularization-the-path-to-bias-variance-trade-off-b7a7088b4577"
+                    ],
+                    [
+                        "Essentials of Machine Learning Algorithms (with Python and R Codes)",
+                        "https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/"
+                    ],
+                    [
+                        "CS485/685 Homepage",
+                        "https://cs.uwaterloo.ca/~ppoupart/teaching/cs485-winter16/"
+                    ],
+                    [
+                        "Data Science Interview Guide \u2014 Towards Data Science",
+                        "/data-science-interview-guide-4ee9f5dc778"
+                    ],
+                    [
+                        "auto-sklearn \u2014 AutoSklearn 0.3.0 documentation",
+                        "http://automl.github.io/auto-sklearn/stable/index.html"
+                    ],
+                    [
+                        "Road Map for Choosing Between Statistical Modeling and Machine Learning | Statistical Thinking",
+                        "http://www.fharrell.com/post/stat-ml/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_181&utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20180523+data+nl&mkt_tok=eyJpIjoiTW1Ka1lqRTVNakJtWm1KayIsInQiOiJhbWxZNitLSGlYN1FsSUtwR2FFYkNJbHNlNTd4cDNnTnNVbW5XR1lrZTdiYWxCaDRCUzZcLytcL01CNVlJaW9FQ3hOMDlnR3cweXFVQjhIeEY4WEZnMkRHSVJVNmpqUUJaTUFiSVpma2k0ZGpLaWtZakZLWCtUN09pbk5sSG1CM2JrIn0%3D"
+                    ],
+                    [
+                        "Learn | Kaggle",
+                        "https://www.kaggle.com/learn/deep-learning"
+                    ],
+                    [
+                        "Intro to Deep Learning and Computer Vision | Kaggle",
+                        "https://www.kaggle.com/dansbecker/intro-to-deep-learning-and-computer-vision"
+                    ],
+                    [
+                        "Squarespace/datasheets: Read data from, write data to, and modify the formatting of Google Sheets",
+                        "https://github.com/Squarespace/datasheets"
+                    ],
+                    [
+                        "Interpreting machine learning models \u2014 Towards Data Science",
+                        "/interpretability-in-machine-learning-70c30694a05f"
+                    ],
+                    [
+                        "marcotcr/lime: Lime: Explaining the predictions of any machine learning classifier",
+                        "https://github.com/marcotcr/lime"
+                    ]
+                ],
+                "h2": "Others"
+            }
+        ]
+    },
+    {
+        "aa": [
+            [
+                "February Edition: Data Visualization \u2014 Towards Data Science",
+                "/february-edition-data-visualization-ee524ca64416"
+            ],
+            [
+                "Visualizations That Really Work",
+                "https://hbr.org/2016/06/visualizations-that-really-work"
+            ],
+            [
+                "storytelling with data",
+                "http://www.storytellingwithdata.com/"
+            ],
+            [
+                "David McCandless: The beauty of data visualization | TED Talk | TED.com",
+                "https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization"
+            ],
+            [
+                "Beautiful Data Science Presentations \u2014 Towards Data Science",
+                "/beautiful-data-science-presentations-9e9d8fd91446"
+            ],
+            [
+                "15 Stunning Data Visualizations (And What You Can Learn From Them)",
+                "/15-stunning-data-visualizations-and-what-you-can-learn-from-them-fc5b78f21fb8"
+            ],
+            [
+                "autoplotly \u2014 One Line of R Code to Build Interactive Visualizations for Popular Statistical Results \u2014 Yuan\u2019s Blog",
+                "https://terrytangyuan.github.io/2018/02/12/autoplotly-intro/"
+            ],
+            [
+                "Noam Ross | A quick introduction to ggplot()",
+                "http://www.noamross.net/blog/2012/10/5/ggplot-introduction.html"
+            ],
+            [
+                "Tableau for Beginners \u2014 Data Visualisation made easy",
+                "https://www.analyticsvidhya.com/blog/2017/07/data-visualisation-made-easy/"
+            ],
+            [
+                "Intermediate Tableau guide for data science, business intelligence pros",
+                "https://www.analyticsvidhya.com/blog/2018/01/tableau-for-intermediate-data-science/"
+            ],
+            [
+                "A Step-by-Step Guide to learn Advanced Tableau \u2014 for Data Science and Business Intelligence Professionals \u2014 Analytics Vidhya",
+                "https://www.analyticsvidhya.com/blog/2018/03/tableau-for-advanced-users-easy-expertise-in-data-visualisation/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29"
+            ],
+            [
+                "Beeswarm Plot in R to Show Distributions | FlowingData",
+                "https://flowingdata.com/2016/09/08/beeswarm-plot-in-r-to-show-distributions/"
+            ],
+            [
+                "D3 Tips and Tricks\u2026 by Malcolm Maclean [Leanpub PDF/iPad/Kindle]",
+                "https://leanpub.com/D3-Tips-and-Tricks"
+            ],
+            [
+                "dimple \u2014 A simple charting API for d3 data visualisations",
+                "http://dimplejs.org/"
+            ],
+            [
+                "bloomberg/bqplot: Plotting library for IPython/Jupyter Notebooks",
+                "https://github.com/bloomberg/bqplot"
+            ],
+            [
+                "Data Visualization with Bokeh in Python, Part III: Making a Complete Dashboard",
+                "/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23"
+            ],
+            [
+                "Xenographics \u2014 Weird but (sometimes) useful charts",
+                "https://xeno.graphics/"
+            ],
+            [
+                "\ud83c\udf1f Introducing Dash \ud83c\udf1f \u2014 plotly \u2014 Medium",
+                "https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503"
+            ],
+            [
+                "Viz Palette",
+                "http://projects.susielu.com/viz-palette?colors=[%22#ffd700%22,%22#ffb14e%22,%22#fa8775%22,%22#ea5f94%22,%22#cd34b5%22,%22#9d02d7%22,%22#0000ff%22]&backgroundColor=%22white%22&fontColor=%22black%22"
+            ],
+            [
+                "mathisonian/awesome-visualization-research: A list of recommended research papers and other readings on data visualization",
+                "https://github.com/mathisonian/awesome-visualization-research?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_190"
+            ],
+            [
+                "Interpreting Error Bars \u2014 BIOLOGY FOR LIFE",
+                "http://www.biologyforlife.com/interpreting-error-bars.html"
+            ],
+            [
+                "Data to Viz | A collection of graphic pitfalls",
+                "https://www.data-to-viz.com/caveats.html?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_191&utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20180801+data+nl&mkt_tok=eyJpIjoiTlRFNFkyVmpaRFV3TmpkaCIsInQiOiJXVzRIOW5tcDhDNmNmbzRmamJaREtxZmlVYjhLZDh2MitJaGROZFpSVCtMUFZGc0YwSThHZXBmSHJtYzdqRzcwdkdieit2NmFDUFwvXC8zMk9MQ2VTckhVZ2Q2dUE2ZkxMMHd1cVJzQk83aWorTSsxd000dU1GeFlEbGxTMFRXZWsrIn0%3D"
+            ],
+            [
+                "fasouto/awesome-dataviz: A curated list of awesome data visualization libraries and resources.",
+                "https://github.com/fasouto/awesome-dataviz"
+            ],
+            [
+                "DataViz Cheatsheet \u2014 Policy Viz",
+                "https://policyviz.com/2018/08/07/dataviz-cheatsheet/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20180815+data+nl&mkt_tok=eyJpIjoiWmpWaFkyUTNZMlZrTldJeiIsInQiOiJ3Qms4dmU3TklzVW9VQ0dWbWYyVmZ4UVJvR3ZBXC9ERStvd3NLRzVwNTBXXC9cL3gwQ3hHNHV6a0Y5b1Zsb3NUT1Ira0x0cTB5RGZtemViYTNHY0VDVjlwOURNQU40YUhFbitkakpSTXNZVlpjZGFyTDRuUDNnOTBaUkdcLzJzOEQwYWoifQ%3D%3D"
+            ],
+            [
+                "A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional\u2026",
+                "/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149"
+            ],
+            [
+                "Art of Analytics | Data Visualization Examples | Teradata",
+                "http://www.teradata.com/Other-Resources/ArtofAnalytics"
+            ],
+            [
+                "Visualization with Seaborn | Python Data Science Handbook",
+                "https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html"
+            ]
+        ],
+        "h1": "Data Visualization",
+        "hh2": []
+    },
+    {
+        "aa": [
+            [
+                "Data Exploration with Python, Part 1 \u2014 District Data Labs \u2014 Medium",
+                "https://medium.com/district-data-labs/data-exploration-with-python-part-1-643fda933479"
+            ],
+            [
+                "5 Simple Techniques for Powerful Data Storytelling \u2014 Brit Cava \u2014 Medium",
+                "https://medium.com/@databrit/5-simple-techniques-for-powerful-data-storytelling-f70d52bcccaf"
+            ],
+            [
+                "Comprehensive data exploration with Python | Kaggle",
+                "https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python"
+            ],
+            [
+                "DataExplorer: Fast Data Exploration With Minimum Code | R-bloggers",
+                "https://www.r-bloggers.com/dataexplorer-fast-data-exploration-with-minimum-code/amp/"
+            ],
+            [
+                "The Next Wave: Predicting the future of coffee in New York City",
+                "https://medium.com/topos-ai/the-next-wave-predicting-the-future-of-coffee-in-new-york-city-23a0c5d62000"
+            ],
+            [
+                "What is Exploratory Data Analysis? \u2014 Towards Data Science",
+                "/exploratory-data-analysis-8fc1cb20fd15"
+            ],
+            [
+                "Practical advice for analysis of large, complex data sets",
+                "http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html"
+            ],
+            [
+                "How you can ditch PowerPoint and build better slides with Jupyter and Reveal.js",
+                "https://medium.freecodecamp.org/how-to-build-interactive-presentations-with-jupyter-notebook-and-reveal-js-c7e24f4bd9c5"
+            ],
+            [
+                "reveal.js \u2014 The HTML Presentation Framework",
+                "http://lab.hakim.se/reveal-js/#/4"
+            ],
+            [
+                "RPubs \u2014 Sun Country HW",
+                "https://rpubs.com/luisa791222/219682"
+            ],
+            [
+                "R for Data Science",
+                "http://r4ds.had.co.nz/exploratory-data-analysis.html"
+            ],
+            [
+                "Intermediate Tableau guide for data science, business intelligence pros",
+                "https://www.analyticsvidhya.com/blog/2018/01/tableau-for-intermediate-data-science/?utm_source=sendinblue&utm_campaign=February_2018&utm_medium=email"
+            ],
+            [
+                "Extensive EDA of Deal Probability | Kaggle",
+                "https://www.kaggle.com/kabure/extensive-eda-of-deal-probability"
+            ],
+            [
+                "Jupyter Notebook Viewer",
+                "http://nbviewer.jupyter.org/github/PBPatil/Exploratory_Data_Analysis-Wine_Quality_Dataset/blob/master/winequality_white.ipynb"
+            ]
+        ],
+        "h1": "Exploratory Data Analysis",
+        "hh2": []
+    },
+    {
+        "aa": [
+            [
+                "1Keydata \u2014 Free Online Programming Tutorials",
+                "http://1keydata.com/"
+            ],
+            [
+                "SQLZOO",
+                "http://sqlzoo.net/"
+            ],
+            [
+                "mysql \u2014 How do I decide when to use right joins/left joins or inner joins Or how to determine which table is on which side? \u2014 Stack Overflow",
+                "https://stackoverflow.com/questions/3308122/how-do-i-decide-when-to-use-right-joins-left-joins-or-inner-joins-or-how-to-dete"
+            ],
+            [
+                "Advanced SQL for Data Scientists",
+                "https://www.linkedin.com/learning/advanced-sql-for-data-scientists"
+            ],
+            [
+                "SQL Cheat Sheet Download PDF it in PDF or PNG Format",
+                "http://www.sqltutorial.org/sql-cheat-sheet/"
+            ]
+        ],
+        "h1": "SQL",
+        "hh2": []
+    },
+    {
+        "aa": [
+            [
+                "NoSQL Data Modeling Techniques \u2014 Highly Scalable Blog",
+                "https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/"
+            ],
+            [
+                "Designing Data Products \u2014 Towards Data Science",
+                "/designing-data-products-b6b93edf3d23"
+            ],
+            [
+                "SQL vs NoSQL: How to Choose \u2014 SitePoint",
+                "https://www.sitepoint.com/sql-vs-nosql-choose/"
+            ],
+            [
+                "A Beginner\u2019s Guide to Data Engineering \u2014 Part I \u2014 Robert Chang \u2014 Medium",
+                "https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7"
+            ],
+            [
+                "Databook: Turning Big Data into Knowledge with Metadata at Uber",
+                "https://eng.uber.com/databook/"
+            ],
+            [
+                "Beyond Interactive: Notebook Innovation at Netflix \u2014 Netflix Technology Blog \u2014 Medium",
+                "https://medium.com/@NetflixTechBlog/notebook-innovation-591ee3221233"
+            ],
+            [
+                "Workflows in Python: Getting data ready to build models | Civis Analytics",
+                "https://www.civisanalytics.com/blog/workflows-in-python-getting-data-ready-to-build-models/"
+            ]
+        ],
+        "h1": "Data Engineering",
+        "hh2": []
+    },
+    {
+        "aa": [
+            [
+                "How to write a production-level code in Data Science?",
+                "/how-to-write-a-production-level-code-in-data-science-5d87bd75ced"
+            ],
+            [
+                "How Docker Can Help You Become A More Effective Data Scientist",
+                "/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5"
+            ],
+            [
+                "Web Architecture 101 \u2014 VideoBlocks Product & Engineering",
+                "https://engineering.videoblocks.com/web-architecture-101-a3224e126947"
+            ],
+            [
+                "Reflections on Clean Code \u2014 Severin Perez \u2014 Medium",
+                "https://medium.com/@severinperez/reflections-on-clean-code-8c9b683277ca"
+            ],
+            [
+                "Decoupling your technical code from your business logic with the Hexagonal Architecture (HexArch)",
+                "https://medium.com/@julien.topcu/decoupling-your-technical-code-from-your-business-logic-with-the-hexagonal-architecture-hexarch-b4da7ba62079"
+            ],
+            [
+                "Code as Configuration",
+                "https://www.locallyoptimistic.com/post/code-as-configuration/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_200"
+            ],
+            [
+                "The Design Process: What is the Double Diamond? | Design Council",
+                "https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond"
+            ],
+            [
+                "Divergent and Convergent Phases of Data Analysis \u00b7 Simply Statistics",
+                "https://simplystatistics.org/2018/09/14/divergent-and-convergent-phases-of-data-analysis/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_200"
+            ],
+            [
+                "Writing Flexible Code with the Single Responsibility Principle",
+                "https://medium.com/datadriveninvestor/writing-flexible-code-with-the-single-responsibility-principle-b71c4f3f883f"
+            ],
+            [
+                "Software 2.0 \u2014 Andrej Karpathy \u2014 Medium",
+                "https://medium.com/@karpathy/software-2-0-a64152b37c35"
+            ],
+            [
+                "Workflow to Deploy and Maintain a Web App \u2014 Mark Nagelberg",
+                "http://www.marknagelberg.com/workflow-to-deploy-and-maintain-a-web-app/"
+            ],
+            [
+                "Digging into Data Science Tools: Docker \u2014 Mark Nagelberg",
+                "http://www.marknagelberg.com/digging-into-data-science-tools-docker/"
+            ],
+            [
+                "Demystifying Docker for Data Scientists \u2014 A Docker Tutorial for Your Deep Learning Projects | Machine Learning Blog",
+                "https://blogs.technet.microsoft.com/machinelearning/2018/03/15/demystifying-docker-for-data-scientists-a-docker-tutorial-for-your-deep-learning-projects/"
+            ],
+            [
+                "Tutorial on AWS serverless architecture using Kinesis, DynamoDB and Twitter",
+                "https://blog.insightdatascience.com/getting-started-with-aws-serverless-architecture-tutorial-on-kinesis-and-dynamodb-using-twitter-38a1352ca16d"
+            ],
+            [
+                "How to index new and existing Amazon DynamoDB content with Amazon",
+                "https://medium.com/@vladyslavhoncharenko/how-to-index-new-and-existing-amazon-dynamodb-content-with-amazon-elasticsearch-service-30c1bbc91365"
+            ],
+            [
+                "Elasticsearch Service.",
+                "https://medium.com/@vladyslavhoncharenko/how-to-index-new-and-existing-amazon-dynamodb-content-with-amazon-elasticsearch-service-30c1bbc91365"
+            ],
+            [
+                "Indexing Amazon DynamoDB Content with Amazon",
+                "https://aws.amazon.com/blogs/compute/indexing-amazon-dynamodb-content-with-amazon-elasticsearch-service-using-aws-lambda/"
+            ],
+            [
+                "Elasticsearch Service Using AWS Lambda | AWS Compute Blog",
+                "https://aws.amazon.com/blogs/compute/indexing-amazon-dynamodb-content-with-amazon-elasticsearch-service-using-aws-lambda/"
+            ]
+        ],
+        "h1": "Software design",
+        "hh2": []
+    },
+    {
+        "aa": [
+            [
+                "MLflow \u2014 A platform for the complete machine learning lifecycle | MLflow",
+                "https://mlflow.org/"
+            ],
+            [
+                "Getting Started \u2014 Luigi 2.7.6 documentation",
+                "http://luigi.readthedocs.io/en/stable/index.html"
+            ],
+            [
+                "Deploying a Machine Learning Model as a REST API \u2014 Towards Data Science",
+                "/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166"
+            ],
+            [
+                "GitHub \u2014 mwouts/jupytext: Jupyter notebooks as Markdown documents, Julia, Python or R scripts",
+                "https://github.com/mwouts/jupytext?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_200"
+            ],
+            [
+                "Anatomy of an AI System",
+                "https://anatomyof.ai/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_200"
+            ],
+            [
+                "Apache Superset (incubating) \u2014 Apache Superset documentation",
+                "https://superset.incubator.apache.org/"
+            ]
+        ],
+        "h1": "Research",
+        "hh2": []
+    },
+    {
+        "aa": [
+            [
+                "Get Started with PySpark and Jupyter Notebook in 3 Minutes",
+                "https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f"
+            ],
+            [
+                "Apache Spark in Python: Beginner\u2019s Guide (article) \u2014 DataCamp",
+                "https://www.datacamp.com/community/tutorials/apache-spark-python"
+            ],
+            [
+                "How to Turn Python Functions into PySpark Functions (UDF) \u2014 Chang Hsin Lee \u2014 Commiting my thoughts to words.",
+                "https://changhsinlee.com/pyspark-udf/"
+            ],
+            [
+                "Prediction at Scale with scikit-learn and PySpark Pandas UDFs",
+                "https://medium.com/civis-analytics/prediction-at-scale-with-scikit-learn-and-pyspark-pandas-udfs-51d5ebfb2cd8"
+            ],
+            [
+                "Pyspark \u2014 Tutorial based on Titanic Dataset \u2014 Saagie User Group Wiki \u2014 Saagie",
+                "https://creativedata.atlassian.net/wiki/spaces/SAP/pages/83237142/Pyspark+-+Tutorial+based+on+Titanic+Dataset"
+            ],
+            [
+                "GitHub \u2014 jadianes/spark-py-notebooks: Apache Spark & Python (pySpark) tutorials for Big Data Analysis and Machine Learning as IPython / Jupyter notebooks",
+                "https://github.com/jadianes/spark-py-notebooks"
+            ],
+            [
+                "mahmoudparsian/pyspark-tutorial: PySpark-Tutorial provides basic algorithms using PySpark",
+                "https://github.com/mahmoudparsian/pyspark-tutorial"
+            ],
+            [
+                "Top 50 Spark Interview Questions and Answers for 2017",
+                "https://www.dezyre.com/article/top-50-spark-interview-questions-and-answers-for-2017/208"
+            ]
+        ],
+        "h1": "Spark",
+        "hh2": []
+    },
+    {
+        "aa": [],
+        "h1": "Python Resources",
+        "hh2": [
+            {
+                "aa": [
+                    [
+                        "Open Machine Learning Course. Topic 1. Exploratory Data Analysis with Pandas",
+                        "https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-1-exploratory-data-analysis-with-pandas-de57880f1a68"
+                    ],
+                    [
+                        "GitHub \u2014 TomAugspurger/effective-pandas: Source code for my collection of articles on using pandas.",
+                        "https://github.com/TomAugspurger/effective-pandas"
+                    ],
+                    [
+                        "Pandas tips and tricks \u2014 Towards Data Science",
+                        "/pandas-tips-and-tricks-33bcc8a40bb9"
+                    ],
+                    [
+                        "Visualizing Pandas\u2019 Pivoting and Reshaping Functions \u2014 Jay Alammar \u2014",
+                        "https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/"
+                    ],
+                    [
+                        "Visualizing machine learning one concept at a time",
+                        "https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/"
+                    ],
+                    [
+                        "Pandas Documentation",
+                        "http://pandas.pydata.org/"
+                    ],
+                    [
+                        "10 Minutes to pandas \u2014 pandas 0.20.3 documentation",
+                        "https://pandas.pydata.org/pandas-docs/stable/10min.html"
+                    ],
+                    [
+                        "Cookbook \u2014 pandas 0.20.3 documentation",
+                        "https://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook"
+                    ],
+                    [
+                        "Pandas API Reference",
+                        "https://pandas.pydata.org/pandas-docs/stable/api.html"
+                    ],
+                    [
+                        "Merge, join, and concatenate \u2014 pandas 0.20.3 documentation",
+                        "http://pandas.pydata.org/pandas-docs/stable/merging.html"
+                    ],
+                    [
+                        "Reshaping and Pivot Tables \u2014 pandas 0.20.3 documentation",
+                        "http://pandas.pydata.org/pandas-docs/stable/reshaping.html"
+                    ],
+                    [
+                        "Group By: split-apply-combine \u2014 pandas 0.20.3 documentation",
+                        "http://pandas.pydata.org/pandas-docs/stable/groupby.html"
+                    ],
+                    [
+                        "Essential Basic Functionality \u2014 pandas 0.20.3 documentation",
+                        "http://pandas.pydata.org/pandas-docs/stable/basics.html#vectorized-string-methods"
+                    ],
+                    [
+                        "Comparison with SQL \u2014 pandas 0.19.2 documentation",
+                        "http://pandas.pydata.org/pandas-docs/version/0.19.2/comparison_with_sql.html"
+                    ],
+                    [
+                        "Summarising, Aggregating, and Grouping data in Python Pandas | Shane Lynn",
+                        "http://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/"
+                    ],
+                    [
+                        "Working with DataFrames",
+                        "http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/"
+                    ],
+                    [
+                        "Apply Operations To Groups In Pandas \u2014 Python",
+                        "https://chrisalbon.com/python/pandas_apply_operations_to_groups.html"
+                    ],
+                    [
+                        "Datetime properties",
+                        "https://pandas.pydata.org/pandas-docs/stable/api.html#datetimelike-properties"
+                    ],
+                    [
+                        "What do I need to know about the pandas index? (Part 1) \u2014 YouTube",
+                        "https://www.youtube.com/watch?v=OYZNk7Z9s6I"
+                    ],
+                    [
+                        "19 Essential Snippets in Pandas",
+                        "https://jeffdelaney.me/blog/useful-snippets-in-pandas/"
+                    ],
+                    [
+                        "Basic statistical functions",
+                        "https://docs.scipy.org/doc/numpy/reference/routines.statistics.html"
+                    ],
+                    [
+                        "Quickstart tutorial \u2014 NumPy v1.13 Manual",
+                        "https://docs.scipy.org/doc/numpy/user/quickstart.html"
+                    ],
+                    [
+                        "Search page",
+                        "https://docs.scipy.org/doc/numpy/search.html"
+                    ],
+                    [
+                        "Dictionary \u2014 Learn Python the hard way",
+                        "https://learnpythonthehardway.org/book/ex39.html"
+                    ],
+                    [
+                        "PEP 265 \u2014 Sorting Dictionaries by Value | Python.org",
+                        "https://www.python.org/dev/peps/pep-0265/"
+                    ]
+                ],
+                "h2": "Pandas"
+            },
+            {
+                "aa": [
+                    [
+                        "Python Seaborn Tutorial For Beginners (article) \u2014 DataCamp",
+                        "https://www.datacamp.com/community/tutorials/seaborn-python-tutorial"
+                    ],
+                    [
+                        "Matplotlib Tutorial: Python Plotting (article) \u2014 DataCamp",
+                        "https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python"
+                    ],
+                    [
+                        "python \u2014 Named colors in matplotlib \u2014 Stack Overflow",
+                        "https://stackoverflow.com/questions/22408237/named-colors-in-matplotlib"
+                    ],
+                    [
+                        "The Ultimate Python Seaborn Tutorial: Gotta Catch \u2019Em All",
+                        "https://elitedatascience.com/python-seaborn-tutorial"
+                    ],
+                    [
+                        "GitHub \u2014 ioam/holoviews: Stop plotting your data \u2014 annotate your data and let it visualize itself.",
+                        "https://github.com/ioam/holoviews"
+                    ],
+                    [
+                        "The Python Graph Gallery \u2014 Visualizing data \u2014 with Python",
+                        "https://python-graph-gallery.com/"
+                    ],
+                    [
+                        "How to Generate FiveThirtyEight Graphs in Python",
+                        "https://www.dataquest.io/blog/making-538-plots/"
+                    ],
+                    [
+                        "How to visualize decision trees",
+                        "http://explained.ai/decision-tree-viz/index.html?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_202"
+                    ],
+                    [
+                        "Machine Learning for Visualization \u2014 Ian Johnson \u2014 Medium",
+                        "https://medium.com/@enjalot/machine-learning-for-visualization-927a9dff1cab"
+                    ]
+                ],
+                "h2": "Data viz"
+            },
+            {
+                "aa": [
+                    [
+                        "Why do many examples use \u201cfig, ax = plt.subplots()\u201d in Matplotlib/pyplot/python \u2014 Stack Overflow",
+                        "https://stackoverflow.com/questions/34162443/why-do-many-examples-use-fig-ax-plt-subplots-in-matplotlib-pyplot-python"
+                    ],
+                    [
+                        "pyplot \u2014 Matplotlib 2.0.2 documentation",
+                        "https://matplotlib.org/api/pyplot_api.html"
+                    ],
+                    [
+                        "The Matplotlib API \u2014 Matplotlib 2.0.2 documentation",
+                        "https://matplotlib.org/2.0.2/api/index.html"
+                    ],
+                    [
+                        "Pyplot tutorial \u2014 Matplotlib 2.0.2 documentation",
+                        "http://matplotlib.org/users/pyplot_tutorial.html"
+                    ],
+                    [
+                        "matplotlib.axes.Axes.plot \u2014 Matplotlib 2.0.2 documentation",
+                        "https://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.plot.html#matplotlib.axes.Axes.plot"
+                    ],
+                    [
+                        "Matplotlib tutorial",
+                        "http://www.labri.fr/perso/nrougier/teaching/matplotlib/"
+                    ]
+                ],
+                "h2": "Matplotlib"
+            },
+            {
+                "aa": [
+                    [
+                        "Parsing HTML Tables in Python with BeautifulSoup and pandas \u2014 Scott Rome \u2014 Math Ph.D. who works in Machine Learning",
+                        "http://srome.github.io/Parsing-HTML-Tables-in-Python-with-BeautifulSoup-and-pandas/"
+                    ],
+                    [
+                        "Python Web Scraping Tutorial using BeautifulSoup",
+                        "https://www.dataquest.io/blog/web-scraping-tutorial-python/"
+                    ],
+                    [
+                        "Learning Python: Part 1 \u2014 Scraping and Cleaning the NBA Draft \u2014 Savvas Tjortjoglou",
+                        "http://savvastjortjoglou.com/nba-draft-part01-scraping.html"
+                    ],
+                    [
+                        "Scraping a HTML with Beauitful Soup \u2014 Python",
+                        "https://chrisalbon.com/python/beautiful_soup_scrape_table.html"
+                    ],
+                    [
+                        "An Intro to Web Scraping with Python \u2014 Chi Hack Night \u2014 Chicago\u2019s weekly event to build, share, and learn about civic tech.",
+                        "https://chihacknight.org/blog/2014/11/26/an-intro-to-web-scraping-with-python.html"
+                    ]
+                ],
+                "h2": "Beautiful Soup"
+            },
+            {
+                "aa": [
+                    [
+                        "An A-Z of useful Python tricks \u2014 freeCodeCamp.org",
+                        "https://medium.freecodecamp.org/an-a-z-of-useful-python-tricks-b467524ee747?mkt_tok=eyJpIjoiT1RFeE9EUmlNVFV5WW1GaiIsInQiOiJaeitaeFB3TVJcL1dzZWFKamdLVHAyMTZ5dzNGVnJKMzdsQmFNd1IzWndWNjRIdmozMFwvdk90MnNpNTVHT3NmTU5XSEU5Y2tuaXlVNXA3SjBDNXpxbFFVVGU3VjZDclNqb1JET25lR241QXJwYWtJMG5SVk93WFJBektuODhcL1ZWdCJ9"
+                    ],
+                    [
+                        "How to Run Parallel Data Analysis in Python using Dask Dataframes",
+                        "/trying-out-dask-dataframes-in-python-for-fast-data-analysis-in-parallel-aa960c18a915"
+                    ],
+                    [
+                        "About \u2014 Deon",
+                        "http://deon.drivendata.org/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_199"
+                    ],
+                    [
+                        "Dask \u2014 Dask 0.18.2 documentation",
+                        "https://dask.pydata.org/en/latest/docs.html"
+                    ],
+                    [
+                        "Deploying a Flask application on AWS \u2014 Scott Rodkey \u2014 Medium",
+                        "https://medium.com/@rodkey/deploying-a-flask-application-on-aws-a72daba6bb80"
+                    ],
+                    [
+                        "FlaskBook.com",
+                        "https://flaskbook.com/"
+                    ],
+                    [
+                        "Explore Flask \u2014 Explore Flask 1.0 documentation",
+                        "http://exploreflask.com/en/latest/index.html"
+                    ],
+                    [
+                        "GitHub \u2014 Acrotrend/awesome-dash: A curated list of awesome Dash (plotly) resources",
+                        "https://github.com/Acrotrend/awesome-dash"
+                    ],
+                    [
+                        "Installing Oracle (cx_Oracle) for Python | Heaton Research",
+                        "https://www.heatonresearch.com/content/oracle.html"
+                    ],
+                    [
+                        "Mastering Oracle+Python, Part 1: Querying Best Practices",
+                        "https://www.oracle.com/technetwork/articles/dsl/prez-python-queries-101587.html"
+                    ],
+                    [
+                        "GitHub \u2014 krzjoa/awesome-python-datascience: Curated list of data science software in Python",
+                        "https://github.com/krzjoa/awesome-python-datascience"
+                    ],
+                    [
+                        "pycon-2017-eda-tutorial/2-Redcard-Players.ipynb at master \u00b7 cmawer/pycon-2017-eda-tutorial \u00b7 GitHub",
+                        "https://github.com/cmawer/pycon-2017-eda-tutorial/blob/master/notebooks/1-RedCard-EDA/2-Redcard-Players.ipynb"
+                    ],
+                    [
+                        "GitHub \u2014EpistasisLab/tpot: A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.",
+                        "https://github.com/EpistasisLab/tpot"
+                    ],
+                    [
+                        "Python 2.7.13 documentation",
+                        "https://docs.python.org/2/"
+                    ],
+                    [
+                        "The Ultimate Python Seaborn Tutorial: Gotta Catch \u2019Em All",
+                        "https://elitedatascience.com/python-seaborn-tutorial"
+                    ],
+                    [
+                        "Built-in Functions \u2014 Python 2.7.13 documentation",
+                        "https://docs.python.org/2/library/functions.html"
+                    ],
+                    [
+                        "Think Python",
+                        "http://www.greenteapress.com/thinkpython/html/index.html"
+                    ],
+                    [
+                        "Time Deltas",
+                        "https://pandas.pydata.org/pandas-docs/stable/timedeltas.html"
+                    ]
+                ],
+                "h2": "Other interesting stuff"
+            }
+        ]
+    },
+    {
+        "aa": [
+            [
+                "Using R Markdown for Class Reports",
+                "http://www.stat.cmu.edu/~cshalizi/rmarkdown/"
+            ],
+            [
+                "(6) R Markdown with RStudio \u2014 YouTube",
+                "https://www.youtube.com/watch?v=DNS7i2m4sB0"
+            ],
+            [
+                "A beginner\u2019s tutorial on the apriori algorithm in data mining with R implementation | HackerEarth Blog",
+                "http://blog.hackerearth.com/beginners-tutorial-apriori-algorithm-data-mining-r-implementation"
+            ],
+            [
+                "Top 50 ggplot2 Visualizations \u2014 The Master List (With Full R Code)",
+                "http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html#top"
+            ],
+            [
+                "Filter with Text data \u2014 learn data science",
+                "https://blog.exploratory.io/filter-with-text-data-952df792c2ba"
+            ]
+        ],
+        "h1": "R Resources",
+        "hh2": [
+            {
+                "aa": [
+                    [
+                        "Dplyr vs Pandas",
+                        "http://nbviewer.jupyter.org/gist/TomAugspurger/6e052140eaa5fdb6e8c0"
+                    ],
+                    [
+                        "base package and ggplot2, part 3 | R",
+                        "https://campus.datacamp.com/courses/data-visualization-with-ggplot2-1/chapter-2-data?ex=4"
+                    ],
+                    [
+                        "dplyr-tutorial/dplyr-tutorial.Rmd at master \u00b7 justmarkham/dplyr-tutorial \u00b7 GitHub",
+                        "https://github.com/justmarkham/dplyr-tutorial/blob/master/dplyr-tutorial.Rmd"
+                    ],
+                    [
+                        "data-wrangling-cheatsheet",
+                        "https://www.yellowdig.com/downloadfiles.php?filename=Gm3jnKR-d4l9ctH-HuuNZDkD459V3dUHblCeIgda6N8&path=upS_ze1Eh2MDRiUbRV8C6QG5dWt1FmRWAXI5omj9jok&uid=-XLTeDg4xovOI4_znPzSXrmDe7VcVUBLvBDajuc8eNo&pid=cIeBAeZcJiFgycPKAMIEZM_26eDXPXHg0Cm6eNpPMv8"
+                    ],
+                    [
+                        "Data exploration with ggplot2 and dplyr (code and tutorial)",
+                        "http://sharpsightlabs.com/blog/data-analysis-example-r-supercars-part2/"
+                    ],
+                    [
+                        "Dplyr-tidyr-tutorial by tclavelle",
+                        "http://tclavelle.github.io/dplyr-tidyr-tutorial/"
+                    ],
+                    [
+                        "R for Data Science",
+                        "http://r4ds.had.co.nz/tidy-data.html"
+                    ],
+                    [
+                        "RPubs \u2014 Data Processing with dplyr &amp; tidyr",
+                        "https://rpubs.com/bradleyboehmke/data_wrangling"
+                    ],
+                    [
+                        "RPubs \u2014 Introduction to dplyr for Faster Data Manipulation in R",
+                        "http://rpubs.com/justmarkham/dplyr-tutorial"
+                    ],
+                    [
+                        "Data manipulation with tidyr and dplyr",
+                        "https://sesync-ci.github.io/data-manipulation-in-R-lesson/2016/07/26/"
+                    ],
+                    [
+                        "Introduction to dplyr",
+                        "https://cran.rstudio.com/web/packages/dplyr/vignettes/dplyr.html"
+                    ],
+                    [
+                        "GitHub \u2014 susanli2016/Data-Analysis-with-R: Using gglot2, tidyr, dplyr, ggmap, choroplethr, shiny, logistic regression, clustering models and more",
+                        "https://github.com/susanli2016/Data-Analysis-with-R"
+                    ],
+                    [
+                        "Working with JSON data in very simple way \u2014 learn data science",
+                        "https://blog.exploratory.io/working-with-json-data-in-very-simple-way-ad7ebcc0bb89"
+                    ],
+                    [
+                        "Introduction to R Graphics with <code>ggplot2</code>",
+                        "http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html"
+                    ],
+                    [
+                        "My ggplot2 cheat sheet: Search by task | Computerworld",
+                        "https://www.computerworld.com/article/2935394/business-intelligence/my-ggplot2-cheat-sheet-search-by-task.html"
+                    ],
+                    [
+                        "Cheatsheets \u2014 RStudio",
+                        "https://www.rstudio.com/resources/cheatsheets/"
+                    ],
+                    [
+                        "GitHub \u2014 jrnold/ggthemes: ggplot themes and scales",
+                        "https://github.com/jrnold/ggthemes"
+                    ],
+                    [
+                        "ggplot2-cheatsheet",
+                        "https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf"
+                    ],
+                    [
+                        "R Graph Catalog",
+                        "http://shiny.stat.ubc.ca/r-graph-catalog/"
+                    ],
+                    [
+                        "seananderson.ca/ggplot2-FISH554/",
+                        "http://seananderson.ca/ggplot2-FISH554/"
+                    ],
+                    [
+                        "Practicing Machine Learning Techniques in R with MLR Package",
+                        "https://www.analyticsvidhya.com/blog/2016/08/practicing-machine-learning-techniques-in-r-with-mlr-package/"
+                    ],
+                    [
+                        "UIUC Notes",
+                        "http://l2r.cs.uiuc.edu/~danr/Teaching/CS446-17/lectures.html"
+                    ]
+                ],
+                "h2": "dplyr"
+            }
+        ]
+    },
+    {
+        "aa": [],
+        "h1": "Is there a better way to organize?",
+        "hh2": [
+            {
+                "aa": [
+                    [
+                        "More from Towards Data Science",
+                        "https://towardsdatascience.com/?source=post_page-----7eda5bf33872--------------------------------"
+                    ],
+                    [
+                        "Read more from Towards Data Science",
+                        "https://towardsdatascience.com/?source=post_page-----7eda5bf33872--------------------------------"
+                    ],
+                    [
+                        "",
+                        "https://medium.com/?source=post_page-----7eda5bf33872--------------------------------"
+                    ],
+                    [
+                        "About",
+                        "https://medium.com/about?autoplay=1&source=post_page-----7eda5bf33872--------------------------------"
+                    ],
+                    [
+                        "Help",
+                        "https://help.medium.com/hc/en-us?source=post_page-----7eda5bf33872--------------------------------"
+                    ],
+                    [
+                        "Terms",
+                        "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f?source=post_page-----7eda5bf33872--------------------------------"
+                    ],
+                    [
+                        "Privacy",
+                        "https://policy.medium.com/medium-privacy-policy-f03bf92035c9?source=post_page-----7eda5bf33872--------------------------------"
+                    ]
+                ],
+                "h2": "More from Towards Data Science"
+            },
+            {
+                "aa": [
+                    [
+                        "",
+                        "https://itunes.apple.com/app/medium-everyones-stories/id828256236?pt=698524&mt=8&ct=post_page&source=post_page-----7eda5bf33872--------------------------------"
+                    ],
+                    [
+                        "",
+                        "https://play.google.com/store/apps/details?id=com.medium.reader&source=post_page-----7eda5bf33872--------------------------------"
+                    ],
+                    [
+                        "Get started",
+                        "https://medium.com/m/signin?operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2F500-free-high-quality-online-resources-for-data-science-machine-learning-7eda5bf33872&source=post_page--------------------------nav_reg-----------"
+                    ],
+                    [
+                        "",
+                        "https://medium.com/@ranja026"
+                    ],
+                    [
+                        "Udit Ranjan",
+                        "https://medium.com/@ranja026"
+                    ]
+                ],
+                "h2": "Get the Medium app"
+            },
+            {
+                "aa": [
+                    [
+                        "Follow",
+                        "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fbeffce96492b&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2F500-free-high-quality-online-resources-for-data-science-machine-learning-7eda5bf33872&user=Udit+Ranjan&userId=beffce96492b&source=post_page-beffce96492b-------------------------follow_profile-----------"
+                    ],
+                    [
+                        "",
+                        "https://medium.com/m/signin?actionUrl=%2F_%2Fapi%2Fusers%2Fbeffce96492b%2Flazily-enable-writer-subscription&operation=register&redirect=https%3A%2F%2Ftowardsdatascience.com%2F500-free-high-quality-online-resources-for-data-science-machine-learning-7eda5bf33872&user=Udit+Ranjan&userId=beffce96492b&source=--------------------------subscribe_user-----------"
+                    ]
+                ],
+                "h2": "Udit Ranjan"
+            },
+            {
+                "aa": [
+                    [
+                        "",
+                        "https://grahamharrison-86487.medium.com/?source=read_next_recirc---------0---------------------80246b58_943e_4f77_b9db_d4dc18d6ad43-------"
+                    ],
+                    [
+                        "Graham Harrison",
+                        "https://grahamharrison-86487.medium.com/?source=read_next_recirc---------0---------------------80246b58_943e_4f77_b9db_d4dc18d6ad43-------"
+                    ],
+                    [
+                        "How to Write Code Like a Pro",
+                        "https://grahamharrison-86487.medium.com/how-to-write-code-like-a-pro-659760804724?source=read_next_recirc---------0---------------------80246b58_943e_4f77_b9db_d4dc18d6ad43-------"
+                    ]
+                ],
+                "h2": "More from Medium"
+            },
+            {
+                "aa": [
+                    [
+                        "",
+                        "https://grahamharrison-86487.medium.com/how-to-write-code-like-a-pro-659760804724?source=read_next_recirc---------0---------------------80246b58_943e_4f77_b9db_d4dc18d6ad43-------"
+                    ],
+                    [
+                        "",
+                        "https://medium.com/@aanandyamittal?source=read_next_recirc---------1---------------------80246b58_943e_4f77_b9db_d4dc18d6ad43-------"
+                    ],
+                    [
+                        "Aanandya Mittal",
+                        "https://medium.com/@aanandyamittal?source=read_next_recirc---------1---------------------80246b58_943e_4f77_b9db_d4dc18d6ad43-------"
+                    ],
+                    [
+                        "Building machine learning models to predict Instagram engagement",
+                        "https://medium.com/@aanandyamittal/building-machine-learning-models-to-predict-instagram-engagement-a4ba8977edf8?source=read_next_recirc---------1---------------------80246b58_943e_4f77_b9db_d4dc18d6ad43-------"
+                    ]
+                ],
+                "h2": "How to Write Code Like a Pro"
+            },
+            {
+                "aa": [
+                    [
+                        "",
+                        "https://medium.com/@aanandyamittal/building-machine-learning-models-to-predict-instagram-engagement-a4ba8977edf8?source=read_next_recirc---------1---------------------80246b58_943e_4f77_b9db_d4dc18d6ad43-------"
+                    ],
+                    [
+                        "",
+                        "https://medium.com/@chirag6891?source=read_next_recirc---------2---------------------80246b58_943e_4f77_b9db_d4dc18d6ad43-------"
+                    ],
+                    [
+                        "Chirag Samal",
+                        "https://medium.com/@chirag6891?source=read_next_recirc---------2---------------------80246b58_943e_4f77_b9db_d4dc18d6ad43-------"
+                    ],
+                    [
+                        "Netflix Appetency: A beginner\u2019s guide",
+                        "https://medium.com/@chirag6891/netflix-appetency-a-beginners-guide-9c2b9c0835f6?source=read_next_recirc---------2---------------------80246b58_943e_4f77_b9db_d4dc18d6ad43-------"
+                    ]
+                ],
+                "h2": "Building machine learning models to predict Instagram engagement"
+            },
+            {
+                "aa": [
+                    [
+                        "",
+                        "https://medium.com/@chirag6891/netflix-appetency-a-beginners-guide-9c2b9c0835f6?source=read_next_recirc---------2---------------------80246b58_943e_4f77_b9db_d4dc18d6ad43-------"
+                    ],
+                    [
+                        "",
+                        "https://amitprius.medium.com/?source=read_next_recirc---------3---------------------80246b58_943e_4f77_b9db_d4dc18d6ad43-------"
+                    ],
+                    [
+                        "Amit Chauhan",
+                        "https://amitprius.medium.com/?source=read_next_recirc---------3---------------------80246b58_943e_4f77_b9db_d4dc18d6ad43-------"
+                    ],
+                    [
+                        "10 MLops Tools: Handbook for Technologies",
+                        "https://amitprius.medium.com/40-mlops-tools-handbook-for-technologies-cf813b147ec5?source=read_next_recirc---------3---------------------80246b58_943e_4f77_b9db_d4dc18d6ad43-------"
+                    ]
+                ],
+                "h2": "Netflix Appetency: A beginner\u2019s guide"
+            },
+            {
+                "aa": [
+                    [
+                        "",
+                        "https://amitprius.medium.com/40-mlops-tools-handbook-for-technologies-cf813b147ec5?source=read_next_recirc---------3---------------------80246b58_943e_4f77_b9db_d4dc18d6ad43-------"
+                    ],
+                    [
+                        "Help",
+                        "https://help.medium.com/hc/en-us"
+                    ],
+                    [
+                        "Status",
+                        "https://medium.statuspage.io"
+                    ],
+                    [
+                        "Writers",
+                        "https://about.medium.com/creators/"
+                    ],
+                    [
+                        "Blog",
+                        "https://blog.medium.com"
+                    ],
+                    [
+                        "Careers",
+                        "https://medium.com/jobs-at-medium/work-at-medium-959d1a85284e"
+                    ],
+                    [
+                        "Privacy",
+                        "https://policy.medium.com/medium-privacy-policy-f03bf92035c9"
+                    ],
+                    [
+                        "Terms",
+                        "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f"
+                    ],
+                    [
+                        "About",
+                        "https://medium.com/about?autoplay=1"
+                    ],
+                    [
+                        "Knowable",
+                        "https://knowable.fyi"
+                    ]
+                ],
+                "h2": "10 MLops Tools: Handbook for Technologies"
+            }
+        ]
+    }
+]

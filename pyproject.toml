@@ -1,0 +1,40 @@
+[tool.poetry]
+name = "Algernon"
+version = "0.0.1"
+description = "A bookmark manager."
+packages = [
+    {include = 'algernon', from = 'src'}
+]
+authors = ["Dirk Makowski <dirk-nil.makowski@at@gmail-removeme.com>"]
+license = "Proprietary"
+
+[tool.poetry.scripts]
+algernon = 'algernon.cli.__main__:main'
+algernon-fetcher = 'algernon.fetcher.__main__:main'
+
+[tool.poetry.dependencies]
+python = "^3.10"
+backinajiffy-mama = {git = "https://github.com/dmdm/backinajiffy-mama"}
+toml = "^0.10.2"
+SQLAlchemy = "^1.4.40"
+psycopg2 = "^2.9.3"
+alembic = "^1.8.1"
+python-dateutil = "^2.8.2"
+aiohttp = "^3.8.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1.2"
+pytest-asyncio = "^0.19.0"
+pyfakefs = "^4.6.3"
+pylint = "^2.14.5"
+pytest-html = "^3.1.1"
+pytest-cov = "^3.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+log_cli_level = "DEBUG"
+log_cli_format = "%(asctime)s %(processName)s %(threadName)s %(name)-12s %(levelname)-8s %(message)s"
+log_cli_date_format = "%Y-%m-%dT%H:%M:%S%z"
