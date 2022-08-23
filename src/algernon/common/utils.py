@@ -3,7 +3,7 @@ import functools
 import json
 import logging
 import multiprocessing
-from typing import Any, Union
+from typing import Any, Union, Optional, Tuple
 
 
 def module_logger() -> logging.Logger:
@@ -55,3 +55,13 @@ def json_deserializer() -> Any:
 
 def multidict_to_dict(md) -> dict:
     return {k: md.getall(k) for k in md.keys()}
+
+
+def parse_content_type(ct: str) -> Tuple[str, Optional[str]]:
+    enc = None
+    mt, field = [e.strip() for e in ct.split(';')]
+    if field:
+        k, v = [e.strip() for e in field.split('=')]
+        if k.lower() == 'charset':
+            enc = v
+    return mt.lower(), enc.upper()

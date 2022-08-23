@@ -20,10 +20,15 @@ class Fetched(OrmBase, BaseMixin):
     url_id = sa.Column(sa.Integer, nullable=False)
     visited = sa.Column(sa.DateTime(timezone=True), nullable=False)
     revisit = sa.Column(sa.DateTime(timezone=True))
-    header_tx = sa.Column(pg.JSONB, nullable=False)
-    header_rx = sa.Column(pg.JSONB)
-    http_status_num = sa.Column(sa.SmallInteger)
+    last_ok_visit = sa.Column(sa.DateTime(timezone=True))  # last visit with http status 2xx
+    req_headers = sa.Column(pg.JSONB)
+    resp_headers = sa.Column(pg.JSONB)
+    http_status = sa.Column(sa.SmallInteger)
     http_status_txt = sa.Column(sa.String)
     mime_type = sa.Column(sa.String(255))
     encoding = sa.Column(sa.String(255))
-    body = sa.Column(sa.LargeBinary)
+    content = sa.Column(sa.LargeBinary)
+    # As given in response header
+    content_length = sa.Column(sa.Integer)
+    # Actual length of content
+    byte_length = sa.Column(sa.Integer)
