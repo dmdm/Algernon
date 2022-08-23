@@ -1,1 +1,1 @@
-from .dbnotification import DbNotification, DbNotificationPayload, DbNotificationChannel, NewUrlPayload
+from .dbnotification import DbNotification, DbNotificationPayload, DbNotificationChannel, FetchUrlPayload

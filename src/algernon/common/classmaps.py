@@ -1,9 +1,9 @@
 from typing import Dict, Any, Optional
 
-from algernon.common.models import NewUrlPayload
+from algernon.common.models import FetchUrlPayload
 
 DATACLASS_MAP = {
-    'NewUrlPayload': NewUrlPayload,
+    'NewUrlPayload': FetchUrlPayload,
 }
 
 

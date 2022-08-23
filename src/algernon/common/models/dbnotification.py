@@ -12,11 +12,11 @@ class DbNotificationPayload:
 
 
 @dataclass
-class NewUrlPayload(DbNotificationPayload):
+class FetchUrlPayload(DbNotificationPayload):
     url_id: int
 
     @classmethod
-    def from_dict(cls, d: Dict) -> 'NewUrlPayload':
+    def from_dict(cls, d: Dict) -> 'FetchUrlPayload':
         dataclass_deserialize_enums(cls, d)
         return cls(**d)
 

@@ -36,6 +36,6 @@ class UserAddCmd(AlgnBaseCmd):
         pwd = rc.g('pwd')
         email = rc.g('email')
 
-        with self.DbSession.begin() as sess:
+        with self.DbSessionMaker.begin() as sess:
             id_ = await api_user.add(sess=sess, login=user, pwd=pwd, email=email, owner=self.login)
         return id_

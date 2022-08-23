@@ -9,8 +9,8 @@ from algernon.parser.simple import ParserSimple
 
 
 @pytest.mark.asyncio
-async def test_parser_simple(DbSession, url_id):
-    with DbSession.begin() as dbsess:
+async def test_parser_simple(DbSessionMaker, url_id):
+    with DbSessionMaker.begin() as dbsess:
         fetched = dbsess.execute(sa.select(Fetched).filter_by(url_id=url_id)).scalar_one()
         mime_type = fetched.mime_type
         encoding = fetched.encoding

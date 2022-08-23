@@ -29,6 +29,6 @@ class TagRenameCmd(AlgnBaseCmd):
         old_tag = rc.g('old-tag')
         new_tag = rc.g('new-tag')
 
-        with self.DbSession.begin() as sess:
+        with self.DbSessionMaker.begin() as sess:
             id_ = await api_tag.rename(sess=sess, old_tag=old_tag, new_tag=new_tag)
         return id_

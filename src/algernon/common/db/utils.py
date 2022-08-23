@@ -119,11 +119,11 @@ def create_engines(dsn: str, echo_sql=False) -> Tuple[sa.engine.Engine, sa.engin
     return eng, eng_listener
 
 
-def create_session(engine: sa.engine.Engine):
+def create_session_maker(engine: sa.engine.Engine):
     return orm.sessionmaker(engine, future=True)
 
 
-async def init_db(engine: sa.engine.Engine, DbSession: orm.Session, fn_alembic_ini: Path, drop=False):
+async def init_db(engine: sa.engine.Engine, DbSessionMaker: orm.Session, fn_alembic_ini: Path, drop=False):
     # need to import all orm models to ensure they are present in the metadata
     from algernon.common.db.algnuser import AlgnUser
     from algernon.common.db.url import Url
@@ -136,7 +136,7 @@ async def init_db(engine: sa.engine.Engine, DbSession: orm.Session, fn_alembic_i
     if drop:
         OrmBase.metadata.drop_all(engine)
 
-    with DbSession.begin() as sess:
+    with DbSessionMaker.begin() as sess:
         sess.execute(sa.text('''DROP COLLATION IF EXISTS "case_insensitive";
                                 CREATE COLLATION "case_insensitive"''' 
                              '''(provider = icu, locale = 'und-u-ks-level2', deterministic = false)'''))
@@ -147,7 +147,7 @@ async def init_db(engine: sa.engine.Engine, DbSession: orm.Session, fn_alembic_i
     alembic_cfg = Config(str(fn_alembic_ini))
     command.stamp(alembic_cfg, "head")
 
-    with DbSession.begin() as sess:
+    with DbSessionMaker.begin() as sess:
         id_ = await api_user.add(sess=sess, login='algernon', pwd='algernonpwd', email='algernon@localhost',
                                  owner='algernon')
     return id_

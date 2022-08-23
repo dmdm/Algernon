@@ -23,3 +23,4 @@ class Parsed(OrmBase, BaseMixin):
     title = sa.Column(sa.String(255))
     description = sa.Column(sa.String)
     meta = sa.Column(pg.JSONB)
+    content = sa.Column(sa.String)

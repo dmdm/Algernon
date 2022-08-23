@@ -5,6 +5,7 @@ from backinajiffy.mama.rc import Rc
 
 from algernon.cli.utils import AlgnBaseCmd
 from algernon.api import url as api_url
+from algernon.common.exc import RecordExistsError
 
 CMD = __name__.split('.')[-1].replace('_', '-')
 
@@ -24,6 +25,15 @@ class UrlAddCmd(AlgnBaseCmd):
         rc = Rc.get_instance()
         url = rc.g('url')
 
-        with self.DbSession.begin() as sess:
+        id_ = None
+        sess = self.DbSessionMaker()
+        sess.begin()
+        try:
             id_ = await api_url.add(sess=sess, url=url, owner=self.login)
+            sess.commit()
+        except RecordExistsError as e:
+            self.lgg.error(e)
+        except Exception as e:
+            sess.rollback()
+            raise
         return id_

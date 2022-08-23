@@ -24,6 +24,6 @@ class TagRemoveCmd(AlgnBaseCmd):
         rc = Rc.get_instance()
         tag = rc.g('tag')
 
-        with self.DbSession.begin() as sess:
+        with self.DbSessionMaker.begin() as sess:
             id_ = await api_tag.remove(sess=sess, tag=tag)
         return id_

@@ -4,16 +4,16 @@ from bs4 import BeautifulSoup
 from lxml.html import HTMLParser
 
 from algernon.parser.abc import ParserABC
-from algernon.parser.exc import ParserError
+from algernon.common.exc import ParserError
 
 
 class ParserSimple(ParserABC):
 
-    def parse(self, content: bytes, mime_type: str, encoding: Optional[str] = None) -> bool:
+    async def parse(self, content: bytes, mime_type: str, encoding: Optional[str] = None) -> bool:
         self.error = None
         try:
             if mime_type == 'text/html':
-                self._parse_html(content, encoding)
+                await self._parse_html(content, encoding)
             else:
                 raise ParserError(f'Parsing of mime type "{mime_type}" is not implemented')
             return True
@@ -22,7 +22,7 @@ class ParserSimple(ParserABC):
             self.lgg.error('{}: {}'.format(type(e), str(e)))
             return False
 
-    def _parse_html(self, content: bytes, encoding: Optional[str]):
+    async def _parse_html(self, content: bytes, encoding: Optional[str]):
         self.lang, self.title, self.description, self.tags, self.meta = None, None, None, [], {}
 
         try:

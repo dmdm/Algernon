@@ -24,6 +24,6 @@ class TagAddCmd(AlgnBaseCmd):
         rc = Rc.get_instance()
         tag = rc.g('tag')
 
-        with self.DbSession.begin() as sess:
+        with self.DbSessionMaker.begin() as sess:
             id_ = await api_tag.add(sess=sess, tag=tag, owner=self.login)
         return id_

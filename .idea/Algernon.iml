@@ -7,7 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/uis" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Algernon (algernon-pbK6_rsF-py3.10)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (algernon-foObGJFJ-py3.10)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
